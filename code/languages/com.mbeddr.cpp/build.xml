@@ -1,0 +1,133 @@
+<project name="com.mbeddr.cpp build and test" default="build">
+
+  <property file="build.properties"/>
+
+  <property name="jvm.arg.Xss" value="-Xss1024k"/>
+  <property name="jvm.arg.Xmx" value="-Xmx2048m"/>
+  <property name="jvm.arg.XX:MaxPermSize" value="-XX:MaxPermSize=128m"/>
+
+  <path id="mps.ant.path">
+   <pathelement location="${mps.home}/lib/mps-backend.jar"/>
+   <pathelement location="${mps.home}/lib/jdom.jar"/>
+   <pathelement location="${mps.home}/lib/log4j.jar"/>
+   <pathelement location="${mps.home}/lib/mps-core.jar"/>
+ </path>
+
+ <taskdef resource="jetbrains/mps/build/ant/antlib.xml"
+          classpathref="mps.ant.path"/>
+ <taskdef name="make-tests" classname="com.mbeddr.tools.ant.MakeTestsTask" classpath="${mbeddr.assembla.ext.home}/tools/ant/tasks/MakeTestsTask.jar" />
+ 
+ <!-- validate if path properties are set in build.properties -->
+ <fail unless="mps.platform.caches">mps.platform.caches must be set in your build.properties</fail>
+ <fail unless="mps.home">mps.home must be set in your build.properties</fail> 
+ <fail unless="mbeddr.assembla.ext.home">mbeddr.assembla.ext.home must be set in your build.properties</fail> 
+ 
+  <property name="mbeddr.core.project.dir" value="code/languages/com.mbeddr.core"/>
+  <property name="mbeddr.core.project.mpr" value="code/languages/com.mbeddr.core/core.dev.mpr"/>
+  
+  <property name="mbeddr.cpp.project.dir" value="code/languages/com.mbeddr.cpp"/>
+  <property name="mbeddr.cpp.project.mpr" value="code/languages/com.mbeddr.cpp/cpp.dev.mpr"/> <!-- for the time being in core project... -->
+  
+  <property name="debugger.project.dir" value="code/languages/com.mbeddr.debugger/"/>
+  <property name="debugger.project.mpr" value="code/languages/com.mbeddr.debugger/debugger.dev.mpr"/>
+  
+  <property name="util.project.dir" value="code/languages/com.mbeddr.mpsutil"/>
+  <property name="util.project.mpr" value="code/languages/com.mbeddr.mpsutil/mpsutil.dev.mpr"/>
+  
+  <property name="debuggerLanguageDir" value="${mbeddr.github.core.home}/${debugger.project.dir}/languages"/>
+
+  <jvmargs id="myargs">
+      <arg value="-ea"/>
+      <arg value="${jvm.arg.Xss}"/>
+      <arg value="${jvm.arg.Xmx}"/>
+      <arg value="${jvm.arg.XX:MaxPermSize}"/>
+      <arg value="-XX:+HeapDumpOnOutOfMemoryError"/>
+      <arg value="-Didea.system.path=${mps.platform.caches}/system"/>
+      <arg value="-Didea.config.path=${mps.platform.caches}/config"/>
+      <arg value="-Didea.plugins.path=${mps.platform.caches}/plugins"/>
+  </jvmargs>
+
+  <target name="init">
+      <delete dir="${mps.platform.caches}"/>
+      <mkdir dir="${mps.platform.caches}"/>
+  </target>
+  
+  <target name="build">
+    <antcall target="build-languages"/>
+    <antcall target="build-tests"/>
+  </target>
+  
+
+  
+  <target name="build-languages" depends="init">
+    <mps.generate parallelMode="true" fork="true" failonerror="true">
+      <macro name="mbeddr.github.core.home" path="${mbeddr.github.core.home}"/>
+    
+      <jvmargs id="myargs"/>
+      <library name="mbeddr.project" dir="${mbeddr.github.core.home}/${mbeddr.core.project.dir}/languages"/>      
+      <library name="debugger.project" dir="${mbeddr.github.core.home}/${debugger.project.dir}/languages"/>      
+      <library name="util.languages" dir="${mbeddr.github.core.home}/${util.project.dir}/languages"/>
+      <modules dir="${mbeddr.assembla.ext.home}/${mbeddr.cpp.project.dir}/languages"/>
+    </mps.generate>
+  </target>
+
+  
+  
+  <target name="build-tests" depends="init">
+    <mps.generate parallelMode="true" fork="true" failonerror="true">
+      <macro name="mbeddr.github.core.home" path="${mbeddr.github.core.home}"/>
+      <jvmargs refid="myargs"/>
+      <library name="project" dir="${mbeddr.assembla.ext.home}/${mbeddr.ext.project.dir}"/>
+      <library name="mbeddr.core.project" dir="${mbeddr.github.core.home}/${mbeddr.core.project.dir}"/>
+      <library name="mbeddr.cpp.project" dir="${mbeddr.assembla.ext.home}/${mbeddr.cpp.project.dir}"/>
+      <library name="debugger.project" dir="${mbeddr.github.core.home}/${debugger.project.dir}/languages"/>  
+      <library name="util.languages" dir="${mbeddr.github.core.home}/${util.project.dir}/languages"/>
+      <modules dir="${mbeddr.assembla.ext.home}/${mbeddr.cpp.project.dir}/tests"/>
+      </mps.generate>
+  </target>
+
+  <target name="make-tests" description="Run 'make test' for child Makefiles">  		
+  		<make-tests workingDirectory="${basedir}"/>
+  </target>
+    
+ <target name="run-ts-tests" >
+    
+    <echo message="mbeddr.assembla.ext.home = ${mbeddr.assembla.ext.home}"/>
+    <echo message="path.macro.mbeddr.assembla.ext.home := ${mbeddr.assembla.ext.home}"/>
+    
+    <echo message="mbeddr.github.core.home = ${mbeddr.github.core.home}"/>
+    <echo message="path.macro.mbeddr.github.core.home := ${mbeddr.github.core.home}"/>
+    
+    <junit haltonfailure="true" showoutput="true" fork="true" dir="${mps.home}">
+      <jvmarg value="-ea"/>
+      <jvmarg value="-Xss1024k"/>
+      <jvmarg value="-Xmx1024m"/>
+      <jvmarg value="-XX:MaxPermSize=256m"/>
+      <jvmarg value="-XX:+HeapDumpOnOutOfMemoryError"/>
+      
+      <sysproperty key="idea.load.plugins" value="true"/>
+      <sysproperty key="idea.system.path" value="${mps.platform.caches}/system"/>
+      <sysproperty key="idea.config.path" value="${mps.platform.caches}/config"/>
+      <sysproperty key="idea.plugins.path" value="${mps.platform.caches}/plugins"/>
+
+      <sysproperty key="mps.junit.pathmacro.mbeddr.github.core.home" value="${mbeddr.github.core.home}"/>       
+      <sysproperty key="mps.junit.pathmacro.mbeddr.assembla.ext.home" value="${mbeddr.assembla.ext.home}"/>
+      <sysproperty key="mps.junit.project" value="${mbeddr.assembla.ext.home}/${mbeddr.cpp.project.mpr}"/>
+
+      <classpath>
+        <fileset dir="${mps.home}/lib">
+          <include name="**/*.jar"/>
+        </fileset>
+        <fileset dir="${mps.home}/plugins">
+          <include name="**/*.jar"/>
+        </fileset>
+        <pathelement location="${mps.home}/plugins/spawner/lib/classes/"/>
+      </classpath>
+
+      <test name="jetbrains.mps.testbench.junit.suites.DefaultTestSuite"/>
+      <formatter type="xml"/>
+    </junit>
+  </target>  
+
+  
+</project>
