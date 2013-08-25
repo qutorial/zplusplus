@@ -115,3 +115,5 @@ papers/*/*.out
 papers/*/*.toc
 papers/*/*.synctex.gz
 
+code/languages/com.mbeddr.cpp/tests/source_gen
+code/languages/com.mbeddr.cpp/tests/classes_gen
