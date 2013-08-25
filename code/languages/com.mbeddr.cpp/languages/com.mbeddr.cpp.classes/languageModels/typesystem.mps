@@ -137,6 +137,7 @@
     </node>
     <node type="tpd4.NonTypesystemRule" typeId="tpd4.1195214364922" id="1022708226504377770">
       <property name="name" nameId="tpck.1169194664001" value="check_ConceptRealizationClause" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     </node>
     <node type="tpd4.NonTypesystemRule" typeId="tpd4.1195214364922" id="8616684942293463433">
       <property name="name" nameId="tpck.1169194664001" value="check_ITemplateInstantiator" />

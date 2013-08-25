@@ -120,12 +120,15 @@
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.998890089994514830" resolveInfo="ClassRefExpr" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="1022708226502493623">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.1022708226502493617" resolveInfo="Concept" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="1022708226502518400">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.1022708226502518398" resolveInfo="ConceptRef" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="1022708226504273688">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.1022708226504273686" resolveInfo="ConceptRealizationClause" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="8616684942293620751">

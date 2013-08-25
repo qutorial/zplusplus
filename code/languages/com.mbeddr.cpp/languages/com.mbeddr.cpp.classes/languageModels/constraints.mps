@@ -96,6 +96,7 @@
       <link role="concept" roleId="tp1t.1213093996982" targetNodeId="vv6f.998890089994514830" resolveInfo="ClassRefExpr" />
     </node>
     <node type="tp1t.ConceptConstraints" typeId="tp1t.1213093968558" id="1022708226502581411">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="concept" roleId="tp1t.1213093996982" targetNodeId="vv6f.1022708226502518398" resolveInfo="ConceptRef" />
     </node>
     <node type="tp1t.ConceptConstraints" typeId="tp1t.1213093968558" id="8616684942293463325">

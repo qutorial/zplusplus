@@ -90,6 +90,7 @@
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="3487377644351301104">
       <property name="name" nameId="tpck.1169194664001" value="toggleOrdered" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.1022708226502493617" resolveInfo="Concept" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="6865752029450259831">

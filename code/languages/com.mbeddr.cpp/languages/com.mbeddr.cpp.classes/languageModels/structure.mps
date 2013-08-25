@@ -183,14 +183,17 @@
     </node>
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1022708226502392455">
       <property name="name" nameId="tpck.1169194664001" value="Classifier" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
     </node>
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1022708226502493617">
       <property name="name" nameId="tpck.1169194664001" value="Concept" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="extends" roleId="tpce.1071489389519" targetNodeId="1022708226502392455" resolveInfo="Classifier" />
     </node>
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1022708226502518398">
       <property name="name" nameId="tpck.1169194664001" value="ConceptRef" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
     </node>
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1022708226502967182">
@@ -200,6 +203,7 @@
     </node>
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1022708226504273686">
       <property name="name" nameId="tpck.1169194664001" value="ConceptRealizationClause" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
     </node>
     <node type="tpce.InterfaceConceptDeclaration" typeId="tpce.1169125989551" id="1022708226504867669">

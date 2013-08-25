@@ -116,6 +116,7 @@
       <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.998890089994379454" resolveInfo="PrimitiveTemplateParamRef" />
     </node>
     <node type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="1022708226502821567">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.1022708226502493617" resolveInfo="Concept" />
     </node>
     <node type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="1022708226503288359">

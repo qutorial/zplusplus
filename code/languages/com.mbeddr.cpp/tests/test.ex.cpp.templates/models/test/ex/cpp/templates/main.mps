@@ -9,7 +9,7 @@
   <import index="yq40" modelUID="r:152b3fc0-83a1-4bab-a8cd-565eb8483785(com.mbeddr.core.pointers.structure)" version="3" implicit="yes" />
   <import index="vs0r" modelUID="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" version="7" implicit="yes" />
   <import index="51wr" modelUID="r:b31f1c3c-99aa-4f1e-a329-cba27efb1a6b(com.mbeddr.core.buildconfig.structure)" version="1" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="25" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="26" implicit="yes" />
   <import index="yz9a" modelUID="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" version="0" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="5" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="5" implicit="yes" />
@@ -28,6 +28,12 @@
     </node>
     <node type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="8624890525768286741">
       <property name="name" nameId="tpck.1169194664001" value="OrderedListExample" />
+    </node>
+    <node type="vv6f.CppNamingConventions" typeId="vv6f.158014820112241128" id="7652439922614116323">
+      <property name="MemberPrefix" nameId="vv6f.158014820112242828" value="m" />
+      <property name="GetPrefix" nameId="vv6f.158014820112293950" value="get" />
+      <property name="SetPrefix" nameId="vv6f.158014820112293951" value="set" />
+      <property name="SetterArgPrefix" nameId="vv6f.158014820112688201" value="the" />
     </node>
   </roots>
   <root id="998890089994269441">
@@ -231,7 +237,7 @@
       </node>
       <node role="privateMemberList" roleId="vv6f.8616684942293620791" type="vv6f.PrivateMemberList" typeId="vv6f.8616684942293620777" id="8616684942293750805">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="1022708226503943142">
-          <property name="name" nameId="tpck.1169194664001" value="value" />
+          <property name="name" nameId="tpck.1169194664001" value="mValue" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int8tType" typeId="mj1l.8463282783691618426" id="1022708226503943143">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -265,7 +271,7 @@
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="1022708226503943157">
               <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226503943160">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503943142" resolveInfo="value" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503943142" resolveInfo="mValue" />
               </node>
               <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226503943154" />
             </node>
@@ -294,7 +300,7 @@
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="1022708226503943188">
           <node role="expression" roleId="x27k.8967919205527146150" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="1022708226503943192">
             <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226503943195">
-              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503943142" resolveInfo="value" />
+              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503943142" resolveInfo="mValue" />
             </node>
             <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226503943189" />
           </node>
@@ -371,7 +377,7 @@
       </node>
       <node role="privateMemberList" roleId="vv6f.8616684942293620791" type="vv6f.PrivateMemberList" typeId="vv6f.8616684942293620777" id="8616684942293750802">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="1022708226503496206">
-          <property name="name" nameId="tpck.1169194664001" value="buffer" />
+          <property name="name" nameId="tpck.1169194664001" value="mBuffer" />
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.ArrayType" typeId="yq40.5679441017214012545" id="1022708226503496208">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -388,7 +394,7 @@
           </node>
         </node>
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="998890089994484724">
-          <property name="name" nameId="tpck.1169194664001" value="pos" />
+          <property name="name" nameId="tpck.1169194664001" value="mPos" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int8tType" typeId="mj1l.8463282783691618426" id="998890089994484725">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -407,7 +413,7 @@
           <node role="expression" roleId="x27k.8967919205527146150" type="yq40.ArrayAccessExpr" typeId="yq40.6282313788306893057" id="1022708226503566774">
             <node role="expression" roleId="mj1l.7254843406768839760" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="1022708226503566765">
               <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226503672085">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503496206" resolveInfo="buffer" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503496206" resolveInfo="mBuffer" />
               </node>
               <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226503566762" />
             </node>
@@ -444,7 +450,7 @@
           <node role="expression" roleId="x27k.8967919205527146150" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="1022708226502775460">
             <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226502775457" />
             <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226502775470">
-              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="pos" />
+              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="mPos" />
             </node>
           </node>
         </node>
@@ -468,7 +474,7 @@
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="998890089994484779">
               <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="998890089994484783">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="pos" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="mPos" />
               </node>
               <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="998890089994484754" />
             </node>
@@ -495,14 +501,14 @@
             <node role="left" roleId="mj1l.8860443239512128064" type="yq40.ArrayAccessExpr" typeId="yq40.6282313788306893057" id="1022708226503566788">
               <node role="expression" roleId="mj1l.7254843406768839760" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="1022708226503566781">
                 <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226503566784">
-                  <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503496206" resolveInfo="buffer" />
+                  <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226503496206" resolveInfo="mBuffer" />
                 </node>
                 <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226503566778" />
               </node>
               <node role="index" roleId="yq40.6282313788306893059" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="1022708226503566792">
                 <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226503566789" />
                 <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226503566796">
-                  <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="pos" />
+                  <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="mPos" />
                 </node>
               </node>
             </node>
@@ -512,7 +518,7 @@
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.PostIncrementExpression" typeId="mj1l.4375898003726285486" id="998890089994484803">
             <node role="expression" roleId="mj1l.7254843406768839760" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="998890089994484796">
               <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="998890089994484799">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="pos" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="mPos" />
               </node>
               <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="998890089994484793" />
             </node>
@@ -527,7 +533,7 @@
                 </node>
                 <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="998890089994484831">
                   <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="998890089994484840">
-                    <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="pos" />
+                    <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="mPos" />
                   </node>
                   <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="998890089994484828" />
                 </node>
@@ -540,7 +546,7 @@
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="998890089994484812">
               <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="998890089994484819">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="pos" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="998890089994484724" resolveInfo="mPos" />
               </node>
               <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="998890089994484809" />
             </node>
@@ -1020,5 +1026,6 @@
       </node>
     </node>
   </root>
+  <root id="7652439922614116323" />
 </model>
 

@@ -118,9 +118,11 @@
       <link role="concept" roleId="1i04.1225194240799" targetNodeId="vv6f.998890089994455155" resolveInfo="ITemplateContext" />
     </node>
     <node type="1i04.ConceptBehavior" typeId="1i04.1225194240794" id="1022708226502685368">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="concept" roleId="1i04.1225194240799" targetNodeId="vv6f.1022708226502392455" resolveInfo="Classifier" />
     </node>
     <node type="1i04.ConceptBehavior" typeId="1i04.1225194240794" id="1022708226502685739">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
       <link role="concept" roleId="1i04.1225194240799" targetNodeId="vv6f.1022708226502493617" resolveInfo="Concept" />
     </node>
     <node type="1i04.ConceptBehavior" typeId="1i04.1225194240794" id="1022708226502967194">
