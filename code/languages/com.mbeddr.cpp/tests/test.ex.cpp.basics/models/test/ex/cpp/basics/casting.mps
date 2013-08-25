@@ -37,6 +37,12 @@
     <node type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="487313117837729972">
       <property name="name" nameId="tpck.1169194664001" value="CastingFromPolyParent" />
     </node>
+    <node type="vv6f.CppNamingConventions" typeId="vv6f.158014820112241128" id="5192813628426148435">
+      <property name="MemberPrefix" nameId="vv6f.158014820112242828" value="m" />
+      <property name="GetPrefix" nameId="vv6f.158014820112293950" value="get" />
+      <property name="SetPrefix" nameId="vv6f.158014820112293951" value="set" />
+      <property name="SetterArgPrefix" nameId="vv6f.158014820112688201" value="the" />
+    </node>
   </roots>
   <root id="487313117837083461">
     <node role="binaries" roleId="51wr.5046689135694070731" type="51wr.Executable" typeId="51wr.5046689135693761554" id="2017510268494218757">
@@ -427,35 +433,12 @@
     </node>
   </root>
   <root id="487313117837699704">
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="487313117837699705">
-      <property name="name" nameId="tpck.1169194664001" value="NonPolymorphic" />
-      <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="487313117837699706">
-        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.MethodDeclaration" typeId="vv6f.4157133445514975870" id="487313117837699707">
-          <property name="name" nameId="tpck.1169194664001" value="hello" />
-          <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="487313117837699708">
-            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-          </node>
-        </node>
-        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.MethodDeclaration" typeId="vv6f.4157133445514975870" id="487313117837699709">
-          <property name="name" nameId="tpck.1169194664001" value="getFive" />
-          <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="487313117837699710">
-            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-          </node>
-        </node>
-        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="487313117837699793">
-          <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
-          <property name="explicit" nameId="vv6f.1621920714581833667" value="true" />
-        </node>
-      </node>
-    </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="487313117837699801">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370967628011_1" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ConstructorImplementation" typeId="vv6f.610576951245971328" id="487313117837699794">
       <property name="name" nameId="tpck.1169194664001" value="NonPolymorphic__NonPolymorphic_" />
-      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="487313117837699793" resolveInfo="NonPolymorphic" />
+      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="487313117837699793" resolveInfo="NonPoly" />
       <node role="body" roleId="vv6f.610576951245971333" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="487313117837699795" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="487313117837699796">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
@@ -510,25 +493,12 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="487313117837699724">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370960838299_6" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="487313117837699725">
-      <property name="name" nameId="tpck.1169194664001" value="NonPolymorhicChild" />
-      <node role="inheritanceDefinitions" roleId="vv6f.4625929837922077780" type="vv6f.InheritanceDefinition" typeId="vv6f.4625929837922040127" id="487313117837699726">
-        <property name="inheritanceType" nameId="vv6f.4625929837922040130" value="2" />
-        <link role="baseClass" roleId="vv6f.4625929837922166019" targetNodeId="487313117837699705" resolveInfo="NonPolymorphic" />
-      </node>
-      <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="487313117837699727">
-        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="487313117837699728">
-          <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
-          <property name="explicit" nameId="vv6f.1621920714581833667" value="true" />
-        </node>
-      </node>
-    </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="487313117837699729">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370961309322_1" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ConstructorImplementation" typeId="vv6f.610576951245971328" id="487313117837699730">
       <property name="name" nameId="tpck.1169194664001" value="NonPolymorhicChild__NonPolymorhicChild_" />
-      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="487313117837699728" resolveInfo="NonPolymorhicChild" />
+      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="487313117837699728" resolveInfo="NPChild" />
       <node role="body" roleId="vv6f.610576951245971333" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="487313117837699731" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="487313117837699732">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
@@ -540,6 +510,48 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="487313117837699734">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370960795233_3" />
+    </node>
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="487313117837699705">
+      <property name="name" nameId="tpck.1169194664001" value="NonPoly" />
+      <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="487313117837699706">
+        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.MethodDeclaration" typeId="vv6f.4157133445514975870" id="487313117837699707">
+          <property name="name" nameId="tpck.1169194664001" value="hello" />
+          <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="487313117837699708">
+            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+          </node>
+        </node>
+        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.MethodDeclaration" typeId="vv6f.4157133445514975870" id="487313117837699709">
+          <property name="name" nameId="tpck.1169194664001" value="getFive" />
+          <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="487313117837699710">
+            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+          </node>
+        </node>
+        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="487313117837699793">
+          <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
+          <property name="explicit" nameId="vv6f.1621920714581833667" value="true" />
+        </node>
+      </node>
+    </node>
+    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="5192813628426148444">
+      <property name="name" nameId="tpck.1169194664001" value="empty_1376995158936_1" />
+    </node>
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="487313117837699725">
+      <property name="name" nameId="tpck.1169194664001" value="NPChild" />
+      <node role="inheritanceDefinitions" roleId="vv6f.4625929837922077780" type="vv6f.InheritanceDefinition" typeId="vv6f.4625929837922040127" id="487313117837699726">
+        <property name="inheritanceType" nameId="vv6f.4625929837922040130" value="2" />
+        <link role="baseClass" roleId="vv6f.4625929837922166019" targetNodeId="487313117837699705" resolveInfo="NonPoly" />
+      </node>
+      <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="487313117837699727">
+        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="487313117837699728">
+          <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
+          <property name="explicit" nameId="vv6f.1621920714581833667" value="true" />
+        </node>
+      </node>
+    </node>
+    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="5192813628426148445">
+      <property name="name" nameId="tpck.1169194664001" value="empty_1376995160766_2" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="yz9a.TestCase" typeId="yz9a.6275792049641586523" id="487313117837699735">
       <property name="exported" nameId="x27k.1317894735999272944" value="false" />
@@ -556,23 +568,12 @@
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
             <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="487313117837699826">
-              <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699705" resolveInfo="NonPolymorphic" />
+              <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699705" resolveInfo="NonPoly" />
             </node>
           </node>
           <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.NewExpression" typeId="vv6f.4157133445515154412" id="487313117837699742">
             <node role="creator" roleId="vv6f.4157133445515164403" type="vv6f.ConstructorCallExpression" typeId="vv6f.4157133445515747689" id="487313117837699831">
-              <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="487313117837699793" resolveInfo="NonPolymorphic" />
-            </node>
-          </node>
-        </node>
-        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="487313117837699744" />
-        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="487313117837729655" />
-        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.CommentStatement" typeId="c4fa.1679452829930336984" id="487313117837729665">
-          <node role="textblock" roleId="c4fa.8624890525768479139" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="487313117837729666">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="487313117837729667">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="487313117837729668">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="Should be an error on parent, since such casting is not allowed" />
-              </node>
+              <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="487313117837699793" resolveInfo="NonPoly" />
             </node>
           </node>
         </node>
@@ -590,7 +591,7 @@
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
                 <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="487313117837714727">
-                  <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699725" resolveInfo="NonPolymorhicChild" />
+                  <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699725" resolveInfo="NPChild" />
                 </node>
               </node>
             </node>
@@ -616,7 +617,7 @@
                   <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                   <property name="const" nameId="mj1l.2941277002445651368" value="false" />
                   <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="487313117837699761">
-                    <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699705" resolveInfo="NonPolymorphic" />
+                    <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699705" resolveInfo="NonPoly" />
                   </node>
                 </node>
               </node>
@@ -713,7 +714,7 @@
       <property name="name" nameId="tpck.1169194664001" value="empty_1370960838299_6" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="487313117837730000">
-      <property name="name" nameId="tpck.1169194664001" value="PolymorhicChild" />
+      <property name="name" nameId="tpck.1169194664001" value="PolymorphicChild" />
       <node role="inheritanceDefinitions" roleId="vv6f.4625929837922077780" type="vv6f.InheritanceDefinition" typeId="vv6f.4625929837922040127" id="487313117837730001">
         <property name="inheritanceType" nameId="vv6f.4625929837922040130" value="2" />
         <link role="baseClass" roleId="vv6f.4625929837922166019" targetNodeId="487313117837729973" resolveInfo="Polymorphic" />
@@ -730,7 +731,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ConstructorImplementation" typeId="vv6f.610576951245971328" id="487313117837730005">
       <property name="name" nameId="tpck.1169194664001" value="NonPolymorhicChild__NonPolymorhicChild_" />
-      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="487313117837730003" resolveInfo="PolymorhicChild" />
+      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="487313117837730003" resolveInfo="PolymorphicChild" />
       <node role="body" roleId="vv6f.610576951245971333" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="487313117837730006" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="487313117837730007">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
@@ -772,7 +773,7 @@
           </node>
           <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.NewExpression" typeId="vv6f.4157133445515154412" id="487313117837730017">
             <node role="creator" roleId="vv6f.4157133445515164403" type="vv6f.ConstructorCallExpression" typeId="vv6f.4157133445515747689" id="487313117837730500">
-              <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="487313117837730003" resolveInfo="PolymorhicChild" />
+              <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="487313117837730003" resolveInfo="PolymorphicChild" />
             </node>
           </node>
         </node>
@@ -787,22 +788,48 @@
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="487313117837730477" />
-        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="487313117837730026">
-          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="487313117837730027">
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="487313117837730028">
-              <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="487313117837729975" resolveInfo="hello" />
+        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.LocalVariableDeclaration" typeId="c4fa.4185783222026475238" id="5192813628426148448">
+          <property name="name" nameId="tpck.1169194664001" value="pChild" />
+          <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="5192813628426148451">
+            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="5192813628426148450">
+              <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorphicChild" />
             </node>
-            <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.AsExpression" typeId="vv6f.487313117837084315" id="487313117837730029">
-              <node role="expr" roleId="vv6f.487313117837084319" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="487313117837730030">
-                <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="487313117837730014" resolveInfo="parent" />
+          </node>
+          <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.AsExpression" typeId="vv6f.487313117837084315" id="487313117837730029">
+            <node role="expr" roleId="vv6f.487313117837084319" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="487313117837730030">
+              <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="487313117837730014" resolveInfo="parent" />
+            </node>
+            <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837730031">
+              <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+              <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+              <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="487313117837730032">
+                <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorphicChild" />
               </node>
-              <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837730031">
-                <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-                <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="487313117837730032">
-                  <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorhicChild" />
+            </node>
+          </node>
+        </node>
+        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.IfStatement" typeId="c4fa.6275792049641600983" id="5192813628426148453">
+          <node role="thenPart" roleId="c4fa.6275792049641600985" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="5192813628426148454">
+            <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="487313117837730026">
+              <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="487313117837730027">
+                <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="487313117837730028">
+                  <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="487313117837729975" resolveInfo="hello" />
+                </node>
+                <node role="object" roleId="vv6f.4157133445515664648" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="5192813628426148463">
+                  <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="5192813628426148448" resolveInfo="pChild" />
                 </node>
               </node>
+            </node>
+          </node>
+          <node role="condition" roleId="c4fa.6275792049641600984" type="mj1l.NotEqualsExpression" typeId="mj1l.7615572890648529894" id="5192813628426148459">
+            <node role="right" roleId="mj1l.8860443239512128065" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="5192813628426148462">
+              <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
+              <property name="value" nameId="mj1l.8860443239512128104" value="0" />
+            </node>
+            <node role="left" roleId="mj1l.8860443239512128064" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="5192813628426148456">
+              <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="5192813628426148448" resolveInfo="pChild" />
             </node>
           </node>
         </node>
@@ -825,7 +852,7 @@
                   <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                   <property name="const" nameId="mj1l.2941277002445651368" value="false" />
                   <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="487313117837730138">
-                    <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorhicChild" />
+                    <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorphicChild" />
                   </node>
                 </node>
               </node>
@@ -836,5 +863,6 @@
       </node>
     </node>
   </root>
+  <root id="5192813628426148435" />
 </model>
 
