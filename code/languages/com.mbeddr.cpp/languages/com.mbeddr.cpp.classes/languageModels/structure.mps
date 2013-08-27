@@ -344,6 +344,26 @@
       <property name="name" nameId="tpck.1169194664001" value="DeleteArrayStatement" />
       <link role="extends" roleId="tpce.1071489389519" targetNodeId="c4fa.4185783222026464515" resolveInfo="Statement" />
     </node>
+    <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="292433000619572479">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
+      <property name="name" nameId="tpck.1169194664001" value="ConceptRestrictedTemplateParameter" />
+      <link role="extends" roleId="tpce.1071489389519" targetNodeId="8675670401742479520" resolveInfo="TemplateParameter" />
+    </node>
+    <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="292433000619749319">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
+      <property name="name" nameId="tpck.1169194664001" value="ConceptType" />
+      <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128054" resolveInfo="Type" />
+    </node>
+    <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="292433000620034958">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
+      <property name="name" nameId="tpck.1169194664001" value="ConceptRestrictedTemplateParameterType" />
+      <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128054" resolveInfo="Type" />
+    </node>
+    <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="7494111203194232320">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="fields" />
+      <property name="name" nameId="tpck.1169194664001" value="FieldAccessExpression" />
+      <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
+    </node>
   </roots>
   <root id="4157133445514936980">
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="1022708226504273698">
@@ -1135,6 +1155,42 @@
       <property name="role" nameId="tpce.1071599776563" value="expression" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
+    </node>
+  </root>
+  <root id="292433000619572479">
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="292433000619882412">
+      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
+      <property name="role" nameId="tpce.1071599776563" value="concept" />
+      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="1022708226502493617" resolveInfo="Concept" />
+    </node>
+    <node role="conceptProperty" roleId="tpce.1105725339613" type="tpce.StringConceptProperty" typeId="tpce.1105725638761" id="292433000619593947">
+      <property name="value" nameId="tpce.1105725733873" value="concept parameter" />
+      <link role="conceptPropertyDeclaration" roleId="tpce.1105725439818" targetNodeId="tpck.1137473891462" resolveInfo="alias" />
+    </node>
+  </root>
+  <root id="292433000619749319">
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="292433000619749320">
+      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
+      <property name="role" nameId="tpce.1071599776563" value="concept" />
+      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="1022708226502493617" resolveInfo="Concept" />
+    </node>
+  </root>
+  <root id="292433000620034958">
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="292433000620034959">
+      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
+      <property name="role" nameId="tpce.1071599776563" value="parameter" />
+      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="292433000619572479" resolveInfo="ConceptRestrictedTemplateParameter" />
+    </node>
+  </root>
+  <root id="7494111203194232320">
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="7494111203194232321">
+      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
+      <property name="role" nameId="tpce.1071599776563" value="field" />
+      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="4157133445515062333" resolveInfo="Field" />
     </node>
   </root>
 </model>
