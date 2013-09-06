@@ -11,7 +11,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="5" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="23" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="26" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="30" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="5" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="5" implicit="yes" />
   <import index="87nw" modelUID="r:ca2ab6bb-f6e7-4c0f-a88c-b78b9b31fff3(de.slisson.mps.richtext.structure)" version="5" implicit="yes" />
@@ -126,7 +126,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="5148581328587635144">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370274923956_3" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="5148581328587635146">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="5148581328587635146">
       <property name="name" nameId="tpck.1169194664001" value="MyClass" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="5148581328587635147">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="5148581328587635148">
@@ -205,7 +205,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="1528329090849546026">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370794185929_1" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="1528329090849546028">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="1528329090849546028">
       <property name="name" nameId="tpck.1169194664001" value="WebPage" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="1528329090849546029">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="1528329090849546030">
@@ -286,7 +286,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="1528329090849546051">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370794314754_4" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="1528329090849546053">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="1528329090849546053">
       <property name="name" nameId="tpck.1169194664001" value="string" />
       <property name="exported" nameId="x27k.1317894735999272944" value="true" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="1528329090849546054">
@@ -314,7 +314,7 @@
     </node>
   </root>
   <root id="5682665049045351601">
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="5682665049045350790">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="5682665049045350790">
       <property name="name" nameId="tpck.1169194664001" value="A" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="5682665049045350791">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="5682665049045350792">
@@ -381,7 +381,7 @@
     </node>
   </root>
   <root id="5682665049045351602">
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="5682665049045351603">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="5682665049045351603">
       <property name="name" nameId="tpck.1169194664001" value="A" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="5682665049045351604">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="5682665049045351605">
@@ -605,7 +605,7 @@
     </node>
   </root>
   <root id="2358546969245511002">
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="4625929837922162317">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="4625929837922162317">
       <property name="name" nameId="tpck.1169194664001" value="A" />
       <node role="privateMemberList" roleId="vv6f.8616684942293620791" type="vv6f.PrivateMemberList" typeId="vv6f.8616684942293620777" id="5516725038417115870">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="5516725038417115871">
@@ -641,7 +641,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="5516725038417115866">
       <property name="name" nameId="tpck.1169194664001" value="empty_1362501878242_1" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="2358546969245511011">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="2358546969245511011">
       <property name="name" nameId="tpck.1169194664001" value="B" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="2358546969245511012">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="2358546969245511014">
@@ -849,7 +849,7 @@
     </node>
   </root>
   <root id="7872059521589798136">
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="7872059521589798137">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="7872059521589798137">
       <property name="name" nameId="tpck.1169194664001" value="Shape" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="7872059521589798138">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="7872059521589798139">
@@ -870,7 +870,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="7872059521589942707">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373233526420_1" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="7872059521589798161">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="7872059521589798161">
       <property name="name" nameId="tpck.1169194664001" value="Circle" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="7872059521589798162">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="7872059521589798163">
@@ -1013,7 +1013,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="7872059521589798223">
       <property name="name" nameId="tpck.1169194664001" value="empty_1371506035145_2" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="7872059521589798224">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="7872059521589798224">
       <property name="name" nameId="tpck.1169194664001" value="NotAShape" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="7872059521589798225">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="7872059521589798226">
@@ -1170,7 +1170,7 @@
     </node>
   </root>
   <root id="3803030444639365456">
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="3803030444639365457">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="3803030444639365457">
       <property name="name" nameId="tpck.1169194664001" value="Shape" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="3803030444639365458">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="3803030444639365459">
@@ -1202,13 +1202,13 @@
     </node>
   </root>
   <root id="3803030444639528802">
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="3803030444639626124">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="3803030444639626124">
       <property name="name" nameId="tpck.1169194664001" value="Size" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="3803030444639626123">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373294284399_9" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="3803030444639528803">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="3803030444639528803">
       <property name="name" nameId="tpck.1169194664001" value="Widget" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="3803030444639528804">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="3803030444639528805">
@@ -1239,7 +1239,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="3803030444639626099">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373294152496_2" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="3803030444639626105">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="3803030444639626105">
       <property name="name" nameId="tpck.1169194664001" value="Button" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="3803030444639626106">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="3803030444639626107">
@@ -1265,7 +1265,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="3803030444639626154">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373294404453_11" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="3803030444639626158">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="3803030444639626158">
       <property name="name" nameId="tpck.1169194664001" value="PushButton" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="3803030444639626159">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="3803030444639626160">
@@ -1413,7 +1413,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="4176456596133331213">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373377435383_4" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="4176456596133331199">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="4176456596133331199">
       <property name="name" nameId="tpck.1169194664001" value="Rectangle" />
       <node role="privateMemberList" roleId="vv6f.8616684942293620791" type="vv6f.PrivateMemberList" typeId="vv6f.8616684942293620777" id="4176456596133331214">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="4176456596133331215">
@@ -1517,7 +1517,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="4176456596133331249">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373378726415_8" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="4176456596133331252">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="4176456596133331252">
       <property name="name" nameId="tpck.1169194664001" value="Widget" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="4176456596133331253">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="4176456596133331254">
@@ -1679,7 +1679,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="3967203616787538203">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373472254240_11" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="3967203616787538183">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="3967203616787538183">
       <property name="name" nameId="tpck.1169194664001" value="MySQLConnection" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="3967203616787538184">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="3967203616787538185">
@@ -1757,7 +1757,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="2578256264639458344">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373555444794_2" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="2578256264639458347">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="2578256264639458347">
       <property name="name" nameId="tpck.1169194664001" value="string" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="2578256264639458348">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="2578256264639458349">
@@ -1818,7 +1818,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="2578256264639458365">
       <property name="name" nameId="tpck.1169194664001" value="empty_1373555475637_8" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="2578256264639458324">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="2578256264639458324">
       <property name="name" nameId="tpck.1169194664001" value="MyObject" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="2578256264639458325">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.MethodDeclaration" typeId="vv6f.4157133445514975870" id="2578256264639458338">
@@ -1944,7 +1944,7 @@
       <property name="name" nameId="tpck.1169194664001" value="MyNamespace" />
       <node role="contents" roleId="sg22.2017510268494169525" type="sg22.Namespace" typeId="sg22.2017510268494169512" id="7059128309967442601">
         <property name="name" nameId="tpck.1169194664001" value="MyInnerNamespace" />
-        <node role="contents" roleId="sg22.2017510268494169525" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="7059128309967442605">
+        <node role="contents" roleId="sg22.2017510268494169525" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="7059128309967442605">
           <property name="name" nameId="tpck.1169194664001" value="A" />
           <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="7059128309967442645">
             <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.MethodDeclaration" typeId="vv6f.4157133445514975870" id="7059128309967442646">
@@ -2071,7 +2071,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="825431135044047522">
       <property name="name" nameId="tpck.1169194664001" value="empty_1376747548382_6" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="825431135044047524">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="825431135044047524">
       <property name="name" nameId="tpck.1169194664001" value="Sample" />
     </node>
   </root>
@@ -2097,7 +2097,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="4960825442249648202">
       <property name="name" nameId="tpck.1169194664001" value="empty_1376906247129_2" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="1022708226504273679">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="1022708226504273679">
       <property name="name" nameId="tpck.1169194664001" value="NumberWrapper" />
       <node role="realization" roleId="vv6f.1022708226504273698" type="vv6f.ConceptRealizationClause" typeId="vv6f.1022708226504273686" id="1022708226504343126">
         <node role="concepts" roleId="vv6f.1022708226504273762" type="vv6f.ConceptRef" typeId="vv6f.1022708226502518398" id="1022708226504343127">
@@ -2141,7 +2141,7 @@
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="4960825442249648215">
       <property name="name" nameId="tpck.1169194664001" value="empty_1376906334404_6" />
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.Class" typeId="vv6f.4157133445514936980" id="1022708226502518393">
+    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="1022708226502518393">
       <property name="name" nameId="tpck.1169194664001" value="OrderedList" />
       <node role="template" roleId="vv6f.998890089994182474" type="vv6f.Template" typeId="vv6f.8675670401742490479" id="1022708226502518394">
         <node role="parameters" roleId="vv6f.8675670401742490485" type="vv6f.TemplateClassParameter" typeId="vv6f.998890089994323711" id="1022708226502518396">

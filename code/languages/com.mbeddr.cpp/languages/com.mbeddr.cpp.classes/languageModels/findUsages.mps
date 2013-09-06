@@ -3,7 +3,7 @@
   <persistence version="7" />
   <language namespace="64d34fcd-ad02-4e73-aff8-a581124c2e30(jetbrains.mps.lang.findUsages)" />
   <devkit namespace="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="26" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="30" />
   <import index="tpci" modelUID="r:00000000-0000-4000-0000-011c8959028e(jetbrains.mps.lang.structure.findUsages)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="-1" implicit="yes" />
@@ -15,7 +15,7 @@
     <node type="tp3b.FinderDeclaration" typeId="tp3b.1197044488845" id="374287044671790292">
       <property name="name" nameId="tpck.1169194664001" value="findSubclasses" />
       <property name="description" nameId="tp3b.1197385993272" value="Subclasses" />
-      <link role="forConcept" roleId="tp3b.1218978181697" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3b.1218978181697" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
   </roots>
   <root id="374287044671790292">

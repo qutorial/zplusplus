@@ -4,7 +4,7 @@
   <language namespace="d7a92d38-f7db-40d0-8431-763b0c3c9f20(jetbrains.mps.lang.intentions)" />
   <language namespace="7a5dda62-9140-4668-ab76-d5ed1746f2b2(jetbrains.mps.lang.typesystem)" />
   <devkit namespace="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="26" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="30" />
   <import index="6he5" modelUID="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)" version="-1" />
   <import index="d8k" modelUID="r:04ce5b7d-e3b0-4c34-ba0f-d2d0c0e6c99d(com.mbeddr.cpp.cext.typesystem)" version="-1" />
   <import index="l5ts" modelUID="r:4349c8f7-b26d-48ef-9bad-3a0e52db38d6(com.mbeddr.cpp.classes.typesystem)" version="-1" />
@@ -62,7 +62,7 @@
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="8675670401742687987">
       <property name="name" nameId="tpck.1169194664001" value="templatize" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.998890089994182473" resolveInfo="ITemplatizable" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.998890089994182473" resolveInfo="ICanDeclareTemplate" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="1022708226503946208">
       <property name="virtualPackage" nameId="tpck.1193676396447" value="constructors" />
@@ -71,23 +71,23 @@
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="1022708226504308304">
       <property name="name" nameId="tpck.1169194664001" value="addRealization" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="8616684942293620472">
       <property name="name" nameId="tpck.1169194664001" value="addBaseClass" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="3487377644351261923">
       <property name="name" nameId="tpck.1169194664001" value="addPublicSection" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="3487377644351262044">
       <property name="name" nameId="tpck.1169194664001" value="addPrivateSection" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="3487377644351262066">
       <property name="name" nameId="tpck.1169194664001" value="addProtectedSection" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="3487377644351301104">
       <property name="name" nameId="tpck.1169194664001" value="toggleOrdered" />
@@ -97,12 +97,12 @@
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="6865752029450259831">
       <property name="name" nameId="tpck.1169194664001" value="addFriendClass" />
       <property name="virtualPackage" nameId="tpck.1193676396447" value="friend" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="3152709411796918068">
       <property name="name" nameId="tpck.1169194664001" value="addFriendFunction" />
       <property name="virtualPackage" nameId="tpck.1193676396447" value="friend" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="1621920714581876989">
       <property name="virtualPackage" nameId="tpck.1193676396447" value="constructors" />
@@ -111,11 +111,11 @@
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="7540295501295046619">
       <property name="name" nameId="tpck.1169194664001" value="makeClassNotCopiableNotAssignable" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="7540295501295123334">
       <property name="name" nameId="tpck.1169194664001" value="makeCopiableAssignable" />
-      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+      <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
     </node>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="158014820112484974">
       <property name="isErrorIntention" nameId="tp3j.2522969319638091385" value="true" />
@@ -454,7 +454,7 @@
               <node role="operation" roleId="tpee.1197027833540" type="tp25.Node_GetAncestorOperation" typeId="tp25.1171407110247" id="610576951245971801">
                 <node role="parameter" roleId="tp25.1144104376918" type="tp25.OperationParm_Concept" typeId="tp25.1144101972840" id="610576951245971802">
                   <node role="conceptArgument" roleId="tp25.1207343664468" type="tp25.RefConcept_Reference" typeId="tp25.1177026924588" id="610576951245971803">
-                    <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+                    <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
                   </node>
                 </node>
               </node>
@@ -516,7 +516,7 @@
               <node role="operation" roleId="tpee.1197027833540" type="tp25.Node_GetAncestorOperation" typeId="tp25.1171407110247" id="610576951246106280">
                 <node role="parameter" roleId="tp25.1144104376918" type="tp25.OperationParm_Concept" typeId="tp25.1144101972840" id="610576951246106281">
                   <node role="conceptArgument" roleId="tp25.1207343664468" type="tp25.RefConcept_Reference" typeId="tp25.1177026924588" id="610576951246106282">
-                    <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+                    <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
                   </node>
                 </node>
               </node>
@@ -1544,14 +1544,14 @@
           <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="158014820112639872">
             <property name="name" nameId="tpck.1169194664001" value="theClass" />
             <node role="type" roleId="tpee.5680397130376446158" type="tp25.SNodeType" typeId="tp25.1138055754698" id="158014820112639873">
-              <link role="concept" roleId="tp25.1138405853777" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+              <link role="concept" roleId="tp25.1138405853777" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
             </node>
             <node role="initializer" roleId="tpee.1068431790190" type="tpee.DotExpression" typeId="tpee.1197027756228" id="158014820112639896">
               <node role="operand" roleId="tpee.1197027771414" type="tp3j.ConceptFunctionParameter_node" typeId="tp3j.1192796902958" id="158014820112639875" />
               <node role="operation" roleId="tpee.1197027833540" type="tp25.Node_GetAncestorOperation" typeId="tp25.1171407110247" id="158014820112639902">
                 <node role="parameter" roleId="tp25.1144104376918" type="tp25.OperationParm_Concept" typeId="tp25.1144101972840" id="158014820112639903">
                   <node role="conceptArgument" roleId="tp25.1207343664468" type="tp25.RefConcept_Reference" typeId="tp25.1177026924588" id="158014820112639906">
-                    <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+                    <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
                   </node>
                 </node>
               </node>
@@ -2425,7 +2425,7 @@
                 <node role="operation" roleId="tpee.1197027833540" type="tp25.Node_GetAncestorOperation" typeId="tp25.1171407110247" id="158014820112639838">
                   <node role="parameter" roleId="tp25.1144104376918" type="tp25.OperationParm_Concept" typeId="tp25.1144101972840" id="158014820112639839">
                     <node role="conceptArgument" roleId="tp25.1207343664468" type="tp25.RefConcept_Reference" typeId="tp25.1177026924588" id="158014820112639843">
-                      <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="Class" />
+                      <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="vv6f.4157133445514936980" resolveInfo="ClassDeclaration" />
                     </node>
                   </node>
                 </node>

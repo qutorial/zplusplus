@@ -162,5 +162,29 @@
     </dependencies>
     <rename id="vv6f.291176927575634123" type="CONCEPT" from="NewArray" to="NewArrayExpression" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="26" />
+    </dependencies>
+    <rename id="vv6f.998890089994182473" type="CONCEPT" from="ITemplatizable" to="ICanDeclareATemplate" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="27" />
+    </dependencies>
+    <rename id="vv6f.998890089994455155" type="CONCEPT" from="ITemplateContext" to="ICanBeInTemplateContext" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="28" />
+    </dependencies>
+    <rename id="vv6f.4157133445514936980" type="CONCEPT" from="Class" to="ClassDeclaration" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="29" />
+    </dependencies>
+    <rename id="vv6f.998890089994182473" type="CONCEPT" from="ICanDeclareATemplate" to="ICanDeclareTemplate" />
+  </StructureModification>
 </history>
 

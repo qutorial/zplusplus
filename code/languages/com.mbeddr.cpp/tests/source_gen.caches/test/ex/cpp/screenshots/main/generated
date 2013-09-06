@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="5ehq8rfjqbimblfh3q7hjpcegebf95s">
+<dependencies version="2" modelHash="-9omoamb4dxhlg5n9tqt9pwsy2uh5g3y">
   <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
   <dep model="r:33527e56-fea6-47d6-9105-ca1061f3d17e(com.mbeddr.core.unittest.generator.template.main@generator)" hash="-9d77ugf1hscn3glfnzsa7rucd2c0eqw" />
   <dep model="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" hash="a2khrxnbzfzf5a4827lh9sa3q5krc29" />
@@ -8,7 +8,7 @@
   <dep model="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" hash="-5o0g3ghtq85hh8xbzah4i8m5ol3cwy0" />
   <dep model="r:7db67fb8-d2c9-4e02-89e5-cbea9152661c(com.mbeddr.core.util.generator.template.main@generator)" hash="-5fssevvdjom1f0updvsf5p5c9tb35ah" />
   <dep model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" hash="anof8gmyl26s7kxfnmwlmwj1olsxixr" />
-  <common hash="90qble3eejjcpwjzty890sckrwejpbb">
+  <common hash="5l619h57pi5f58q2w0lfl0zt94w2ijm">
     <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
     <dep model="r:33527e56-fea6-47d6-9105-ca1061f3d17e(com.mbeddr.core.unittest.generator.template.main@generator)" />
     <dep model="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" />
@@ -29,7 +29,7 @@
   <source id="5682665049045351601" name="notcopyable" hash="2npynjz6025zobdjkkmzhkacir5kkg2" />
   <source id="5682665049045351602" name="copyable" hash="-7g197ph327xdgxf8qtii50s7k0yrbv" />
   <source id="5682665049045351633" name="TypeSizeConfiguration (t.e.c.s.main)" hash="-5x6muzi92eyepvjubl0q1gj0qdslw8n" />
-  <source id="2358546969245511002" name="InheritanceAndAccess" hash="-42vcci3wjzpkl98wf0j5ws5girju4iz" />
+  <source id="2358546969245511002" name="InheritanceAndAccess" hash="-8z4xrcunsa6u77w3mscu9rqqemx2qmj" />
   <source id="7872059521589798136" name="PointerCastPureVirtuals" hash="bmrj3fzpbmc8n9xnstu15hws73o3aaw" />
   <source id="7872059521589798291" hash="b6bx3kh0nhju8ax4c19jb0m28jnpiwd" />
   <source id="7872059521589942737" name="BuildConfiguration (t.e.c.s.main)" hash="-3bskb9agsdqeou9m3555a6zxr5pr2o2" />
@@ -37,5 +37,10 @@
   <source id="3803030444639528802" name="AbstractClasses" hash="badkjqpviaf2prxhh0pmer9rbwt11k7" />
   <source id="4176456596133331195" name="GetterAndSetter" hash="ahtecugh2w6pqsu9nyb3tcn4lm4gcld" />
   <source id="3967203616787538181" name="RenameConventionally" hash="4otac71v9hn8zseyd3bzuxp9yek3qm6" />
+  <source id="2578256264639458322" name="AbstractInstantiationCheck" hash="-4uwj1n9sk2uxditoan3cqi3ty3fd51j" />
+  <source id="6896159631915196547" name="StatementsAndExpressions" hash="egy14a14gtxr8p73ikuayoov6z65m1d" />
+  <source id="7059128309967442564" name="Namespaces" hash="-18ymwgufgek8wwwxk6c3ws0fe2dw9wt" />
+  <source id="825431135044047519" name="Intention" hash="-4fjzx2wyzxjqmkn5zr2icrsg660sc0y" />
+  <source id="4960825442249648160" name="Templates" hash="9vcm6h1yu74m37jp716j072yq659kty" />
 </dependencies>
 
