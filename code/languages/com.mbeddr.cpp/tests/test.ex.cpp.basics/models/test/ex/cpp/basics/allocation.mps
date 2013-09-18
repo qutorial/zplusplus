@@ -6,7 +6,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="5" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="22" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="30" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="31" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="5" implicit="yes" />
   <import index="yz9a" modelUID="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" version="0" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="4" implicit="yes" />
@@ -49,7 +49,7 @@
             <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="291176927575752392">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="true" />
-              <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752393">
+              <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752393">
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
                 <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
@@ -62,7 +62,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="291176927575752396">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752397">
+            <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752397">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="false" />
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
@@ -73,7 +73,7 @@
             <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="291176927575752399">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="true" />
-              <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752400">
+              <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752400">
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
                 <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
@@ -122,7 +122,7 @@
         <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="291176927575752411">
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="true" />
-          <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752412">
+          <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752412">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
             <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
@@ -158,7 +158,7 @@
       <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="291176927575752420">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
         <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-        <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752421">
+        <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752421">
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="false" />
           <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
@@ -169,7 +169,7 @@
         <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="291176927575752423">
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="true" />
-          <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752424">
+          <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752424">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
             <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
@@ -206,12 +206,12 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="291176927575752436">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752435">
+            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752435">
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
             </node>
           </node>
           <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.NewArrayExpression" typeId="vv6f.291176927575634123" id="291176927575752458">
-            <node role="allocatedType" roleId="vv6f.291176927575634124" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752465">
+            <node role="allocatedType" roleId="vv6f.291176927575634124" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752465">
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
             </node>
             <node role="sizeExpression" roleId="vv6f.291176927575634125" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="291176927575752528">
@@ -238,7 +238,7 @@
             <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="291176927575752624">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-              <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="291176927575752623">
+              <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="291176927575752623">
                 <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="291176927575752387" resolveInfo="A" />
               </node>
             </node>

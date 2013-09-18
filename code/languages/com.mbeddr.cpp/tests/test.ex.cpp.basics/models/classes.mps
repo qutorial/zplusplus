@@ -15,7 +15,7 @@
   <import index="vs0r" modelUID="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" version="7" implicit="yes" />
   <import index="51wr" modelUID="r:b31f1c3c-99aa-4f1e-a329-cba27efb1a6b(com.mbeddr.core.buildconfig.structure)" version="1" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="5" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="30" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="31" implicit="yes" />
   <import index="yq40" modelUID="r:152b3fc0-83a1-4bab-a8cd-565eb8483785(com.mbeddr.core.pointers.structure)" version="3" implicit="yes" />
   <import index="yz9a" modelUID="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" version="0" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="5" implicit="yes" />
@@ -278,7 +278,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.DestructorImplementation" typeId="vv6f.610576951246057600" id="8845041571058195098">
       <property name="name" nameId="tpck.1169194664001" value="Point__Point" />
-      <link role="destructor" roleId="vv6f.610576951246057601" targetNodeId="8845041571058195065" resolveInfo="Person" />
+      <link role="destructor" roleId="vv6f.610576951246057601" targetNodeId="8845041571058195065" resolveInfo="Point" />
       <node role="body" roleId="vv6f.610576951246057605" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="8845041571058195099">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="8845041571058195100">
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.AssignmentExpr" typeId="mj1l.22102029902365709" id="8845041571058195101">
@@ -361,7 +361,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ConstructorImplementation" typeId="vv6f.610576951245971328" id="8845041571058195135">
       <property name="name" nameId="tpck.1169194664001" value="Point__Point_" />
-      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="8845041571058195059" resolveInfo="Pointa" />
+      <link role="constructor" roleId="vv6f.610576951245971329" targetNodeId="8845041571058195059" resolveInfo="Point" />
       <node role="body" roleId="vv6f.610576951245971333" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="8845041571058195136" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="8845041571058195137" />
       <node role="initializers" roleId="vv6f.7919846782124371441" type="vv6f.FieldInitializer" typeId="vv6f.3248094640537049936" id="8845041571058195138">
@@ -390,16 +390,16 @@
       <node role="body" roleId="yz9a.6275792049641586525" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="8845041571058195146">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.LocalVariableDeclaration" typeId="c4fa.4185783222026475238" id="8845041571058195147">
           <property name="name" nameId="tpck.1169194664001" value="p1" />
-          <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="2248315919506746323">
+          <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="2248315919506746323">
             <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="8845041571058195057" resolveInfo="Point" />
           </node>
           <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.ConstructorCallExpression" typeId="vv6f.4157133445515747689" id="8845041571058195149">
-            <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="8845041571058195059" resolveInfo="Pointa" />
+            <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="8845041571058195059" resolveInfo="Point" />
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.LocalVariableDeclaration" typeId="c4fa.4185783222026475238" id="8845041571058195150">
           <property name="name" nameId="tpck.1169194664001" value="p2" />
-          <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="8845041571058195151">
+          <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="8845041571058195151">
             <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="8845041571058195057" resolveInfo="Point" />
           </node>
           <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.ConstructorCallExpression" typeId="vv6f.4157133445515747689" id="8845041571058195152">
@@ -415,7 +415,7 @@
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="2248315919506746325" />
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.LocalVariableDeclaration" typeId="c4fa.4185783222026475238" id="2248315919507118294">
           <property name="name" nameId="tpck.1169194664001" value="p3" />
-          <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="2248315919507118295">
+          <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="2248315919507118295">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
             <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="8845041571058195057" resolveInfo="Point" />

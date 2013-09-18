@@ -14,7 +14,7 @@
   <import index="yz9a" modelUID="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" version="0" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="5" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="5" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="30" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="31" implicit="yes" />
   <import index="87nw" modelUID="r:ca2ab6bb-f6e7-4c0f-a88c-b78b9b31fff3(de.slisson.mps.richtext.structure)" version="5" implicit="yes" />
   <roots>
     <node type="mj1l.TypeSizeConfiguration" typeId="mj1l.3335993110369795380" id="3947421596133951110" />
@@ -491,7 +491,7 @@
                 <property name="const" value="false" />
                 <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="3947421596133951165" resolveInfo="B" />
               </node>
-              <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="2533033302498859247">
+              <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="2533033302498859247">
                 <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="3947421596134495114" resolveInfo="BClass" />
               </node>
             </node>
@@ -526,7 +526,7 @@
                 <property name="const" value="false" />
                 <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="3947421596133951165" resolveInfo="B" />
               </node>
-              <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="1436276997043961697">
+              <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="1436276997043961697">
                 <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="3947421596134495114" resolveInfo="BClass" />
               </node>
             </node>
@@ -587,7 +587,7 @@
                 <property name="const" value="false" />
                 <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="3947421596133951165" resolveInfo="B" />
               </node>
-              <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="1436276997043961742">
+              <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="1436276997043961742">
                 <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="3947421596134495114" resolveInfo="BClass" />
               </node>
             </node>
@@ -618,7 +618,7 @@
           <node role="outer" roleId="sg22.716812873801931736" type="sg22.NamespaceType" typeId="sg22.3947421596134505499" id="716812873802102898">
             <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="3947421596133951164" resolveInfo="A" />
           </node>
-          <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="2533033302498584899">
+          <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="2533033302498584899">
             <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="716812873801989508" resolveInfo="AClass" />
           </node>
         </node>
@@ -637,7 +637,7 @@
             <node role="outer" roleId="sg22.716812873801931736" type="sg22.NamespaceType" typeId="sg22.3947421596134505499" id="716812873802164032">
               <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="3947421596133951165" resolveInfo="B" />
             </node>
-            <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassType" typeId="vv6f.4157133445515154384" id="716812873802164035">
+            <node role="inner" roleId="sg22.716812873801931737" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="716812873802164035">
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="3947421596134495114" resolveInfo="BClass" />
             </node>
           </node>

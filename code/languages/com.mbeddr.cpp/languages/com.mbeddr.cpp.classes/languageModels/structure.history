@@ -186,5 +186,11 @@
     </dependencies>
     <rename id="vv6f.998890089994182473" type="CONCEPT" from="ICanDeclareATemplate" to="ICanDeclareTemplate" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="30" />
+    </dependencies>
+    <rename id="vv6f.4157133445515154384" type="CONCEPT" from="ClassType" to="ClassifierType" />
+  </StructureModification>
 </history>
 
