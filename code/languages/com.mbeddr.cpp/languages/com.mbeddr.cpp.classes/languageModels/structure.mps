@@ -480,7 +480,7 @@
     <property name="name" nameId="tpck.1169194664001" value="ICanBeInTemplateContext" />
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="998890089994514830" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <property name="name" nameId="tpck.1169194664001" value="ClassRefExpr" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="3487377644351351085" resolveInfo="TypeRefExpr" />
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="998890089994514831" nodeInfo="ig">
@@ -604,13 +604,13 @@
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="8616684942293620746" resolveInfo="MemberList" />
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3487377644351351085" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <property name="name" nameId="tpck.1169194664001" value="TypeRefExpr" />
     <property name="abstract" nameId="tpce.4628067390765956802" value="true" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3487377644351351087" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <property name="name" nameId="tpck.1169194664001" value="PrimitiveTypeRefExpr" />
     <property name="conceptShortDescription" nameId="tpce.4628067390765907488" value="a primitive type" />
     <property name="conceptAlias" nameId="tpce.5092175715804935370" value="#" />
@@ -928,7 +928,7 @@
     </node>
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="7069250747274491093" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <property name="name" nameId="tpck.1169194664001" value="ConceptRestrictedTypeRefExpr" />
     <property name="conceptAlias" nameId="tpce.5092175715804935370" value="concept restricted type" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="3487377644351351085" resolveInfo="TypeRefExpr" />

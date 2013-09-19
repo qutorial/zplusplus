@@ -7951,7 +7951,7 @@
     </node>
   </root>
   <root type="1i04.ConceptBehavior" typeId="1i04.1225194240794" id="3487377644351757854" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <link role="concept" roleId="1i04.1225194240799" targetNodeId="vv6f.3487377644351351087" resolveInfo="PrimitiveTypeRefExpr" />
     <node role="method" roleId="1i04.1225194240805" type="1i04.ConceptMethodDeclaration" typeId="1i04.1225194472830" id="3487377644351757857" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="getPresentation" />
@@ -11854,7 +11854,7 @@
     </node>
   </root>
   <root type="1i04.ConceptBehavior" typeId="1i04.1225194240794" id="7069250747274754691" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <link role="concept" roleId="1i04.1225194240799" targetNodeId="vv6f.7069250747274491093" resolveInfo="ConceptRestrictedTypeRefExpr" />
     <node role="method" roleId="1i04.1225194240805" type="1i04.ConceptMethodDeclaration" typeId="1i04.1225194472830" id="7069250747274754694" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="getPresentation" />

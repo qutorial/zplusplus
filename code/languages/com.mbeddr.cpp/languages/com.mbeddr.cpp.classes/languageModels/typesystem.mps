@@ -2540,7 +2540,7 @@
   </root>
   <root type="tpd4.InferenceRule" typeId="tpd4.1174643105530" id="1022708226503567224" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="typeof_ClassRefExpr" />
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <node role="body" roleId="tpd4.1195213635060" type="tpee.StatementList" typeId="tpee.1068580123136" id="1022708226503567225" nodeInfo="sn">
       <node role="statement" roleId="tpee.1068581517665" type="tpee.LocalVariableDeclarationStatement" typeId="tpee.1068581242864" id="1022708226503567232" nodeInfo="nn">
         <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="1022708226503567233" nodeInfo="nr">
@@ -3835,7 +3835,7 @@
   </root>
   <root type="tpd4.InferenceRule" typeId="tpd4.1174643105530" id="3487377644351641078" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="typeof_PrimitiveTypeRefExpr" />
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates.memberAccess.templates" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <node role="body" roleId="tpd4.1195213635060" type="tpee.StatementList" typeId="tpee.1068580123136" id="3487377644351641079" nodeInfo="sn">
       <node role="statement" roleId="tpee.1068581517665" type="tpd4.CreateEquationStatement" typeId="tpd4.1174658326157" id="3487377644351641105" nodeInfo="nn">
         <node role="rightExpression" roleId="tpd4.1174660783414" type="tpd4.NormalTypeClause" typeId="tpd4.1185788614172" id="3487377644351641109" nodeInfo="ng">
