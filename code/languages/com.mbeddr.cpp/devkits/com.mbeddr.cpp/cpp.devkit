@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dev-kit name="com.mbeddr.cpp" uuid="b8457cc4-cb06-42fd-88a9-5bcfc0b7035d">
+  <exported-language name="262a4298-3ba7-4c65-a7e8-5144bc7d509a(com.mbeddr.cpp.gen)" />
   <exported-language name="31b871c8-3ba6-4751-8c9e-b20f99ee6b69(com.mbeddr.cpp.classes)" />
   <exported-language name="edb2cb9c-58b5-4b7f-b577-647bf9b98eee(com.mbeddr.cpp.cext)" />
 </dev-kit>

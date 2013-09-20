@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <solution name="test.ex.cpp.vector" uuid="511b71a2-66a4-454a-92b1-f0d0b259b9cb" compileInMPS="true">
   <models>
-    <modelRoot path="${solution_descriptor}/models" />
+    <modelRoot contentPath="${module}" type="default">
+      <sourceRoot location="models" />
+    </modelRoot>
   </models>
   <sourcePath />
   <usedLanguages>
@@ -12,6 +14,7 @@
     <usedLanguage>62296a07-bc38-46d2-8034-198c24063588(com.mbeddr.core.modules.gen)</usedLanguage>
     <usedLanguage>edb2cb9c-58b5-4b7f-b577-647bf9b98eee(com.mbeddr.cpp.cext)</usedLanguage>
     <usedLanguage>31b871c8-3ba6-4751-8c9e-b20f99ee6b69(com.mbeddr.cpp.classes)</usedLanguage>
+    <usedLanguage>262a4298-3ba7-4c65-a7e8-5144bc7d509a(com.mbeddr.cpp.gen)</usedLanguage>
   </usedLanguages>
   <usedDevKits>
     <usedDevKit>d2a9c55c-6bdc-4cc2-97e1-4ba7552f5584(com.mbeddr.core)</usedDevKit>
