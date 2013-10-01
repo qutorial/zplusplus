@@ -23,7 +23,7 @@
     <property name="name" nameId="tpck.1169194664001" value="CppImplementationModule" />
     <property name="rootable" nameId="tpce.1096454100552" value="true" />
     <property name="virtualPackage" nameId="tpck.1193676396447" value="cppmodule" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="x27k.6437088627575722813" resolveInfo="Module" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="x27k.6437088627575722830" resolveInfo="ImplementationModule" />
   </root>
   <root type="tpce.InterfaceConceptDeclaration" typeId="tpce.1169125989551" id="3465358579054571911" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="IRequiresCPPModule" />

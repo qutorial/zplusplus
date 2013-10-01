@@ -215,7 +215,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int8tType" typeId="mj1l.8463282783691618426" id="8845041571058195072" nodeInfo="ng" />
         </node>
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="8845041571058195073" nodeInfo="ng">
-          <property name="name" nameId="tpck.1169194664001" value="y_" />
+          <property name="name" nameId="tpck.1169194664001" value="mY" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int8tType" typeId="mj1l.8463282783691618426" id="8845041571058195074" nodeInfo="ng" />
         </node>
       </node>
@@ -225,57 +225,6 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="8824043885997209237" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="empty_1380545759992_1" />
-    </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="8824043885997218146" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="aaasd" />
-      <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="8824043885997218147" nodeInfo="ng">
-        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="8824043885997218148" nodeInfo="ng">
-          <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
-          <property name="explicit" nameId="vv6f.1621920714581833667" value="true" />
-        </node>
-      </node>
-      <node role="privateMemberList" roleId="vv6f.8616684942293620791" type="vv6f.PrivateMemberList" typeId="vv6f.8616684942293620777" id="8824043885997223272" nodeInfo="ng">
-        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.OperatorOverloadingDeclaration" typeId="vv6f.892278390190887854" id="8824043885997223273" nodeInfo="ng">
-          <node role="operatorDesignator" roleId="vv6f.8489939682834515512" type="vv6f.AssignmentOperatorDesignator" typeId="vv6f.7540295501294663037" id="8824043885997223274" nodeInfo="ng" />
-          <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="8824043885997223276" nodeInfo="ng">
-            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="8824043885997223275" nodeInfo="ng">
-              <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-              <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-              <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="8824043885997218146" resolveInfo="aaasd" />
-            </node>
-          </node>
-          <node role="args" roleId="vv6f.2015268598019146106" type="vv6f.MethodArgument" typeId="vv6f.4157133445515012336" id="8824043885997223279" nodeInfo="ng">
-            <property name="name" nameId="tpck.1169194664001" value="originial" />
-            <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="8824043885997223278" nodeInfo="ng">
-              <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-              <property name="const" nameId="mj1l.2941277002445651368" value="true" />
-              <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="8824043885997223277" nodeInfo="ng">
-                <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-                <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="8824043885997218146" resolveInfo="aaasd" />
-              </node>
-            </node>
-          </node>
-        </node>
-        <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="8824043885997223280" nodeInfo="ng">
-          <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
-          <property name="explicit" nameId="vv6f.1621920714581833667" value="false" />
-          <node role="args" roleId="vv6f.2015268598019146106" type="vv6f.MethodArgument" typeId="vv6f.4157133445515012336" id="8824043885997223283" nodeInfo="ng">
-            <property name="name" nameId="tpck.1169194664001" value="originial" />
-            <node role="type" roleId="mj1l.318113533128716676" type="sg22.ReferenceType" typeId="sg22.610576951245967257" id="8824043885997223282" nodeInfo="ng">
-              <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-              <property name="const" nameId="mj1l.2941277002445651368" value="true" />
-              <node role="baseType" roleId="sg22.610576951245967274" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="8824043885997223281" nodeInfo="ng">
-                <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-                <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="8824043885997218146" resolveInfo="aaasd" />
-              </node>
-            </node>
-          </node>
-        </node>
-      </node>
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="1621920714582012054" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="empty_1370534836283_1" />
@@ -319,7 +268,7 @@
           <node role="expression" roleId="x27k.8967919205527146150" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="8845041571058195092" nodeInfo="ng">
             <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="8845041571058195093" nodeInfo="ng" />
             <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="8845041571058195094" nodeInfo="ng">
-              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="8845041571058195073" resolveInfo="y_" />
+              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="8845041571058195073" resolveInfo="mY" />
             </node>
           </node>
         </node>
@@ -353,7 +302,7 @@
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.AssignmentExpr" typeId="mj1l.22102029902365709" id="8845041571058195107" nodeInfo="ng">
             <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="8845041571058195108" nodeInfo="ng">
               <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="8845041571058195109" nodeInfo="ng">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="8845041571058195073" resolveInfo="y_" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="8845041571058195073" resolveInfo="mY" />
               </node>
               <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="8845041571058195110" nodeInfo="ng" />
             </node>
@@ -389,7 +338,7 @@
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.AssignmentExpr" typeId="mj1l.22102029902365709" id="8845041571058195123" nodeInfo="ng">
             <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="8845041571058195124" nodeInfo="ng">
               <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="8845041571058195125" nodeInfo="ng">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="8845041571058195073" resolveInfo="y_" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="8845041571058195073" resolveInfo="mY" />
               </node>
               <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="8845041571058195126" nodeInfo="ng" />
             </node>
@@ -427,7 +376,7 @@
         </node>
       </node>
       <node role="initializers" roleId="vv6f.7919846782124371441" type="vv6f.FieldInitializer" typeId="vv6f.3248094640537049936" id="8845041571058195140" nodeInfo="ng">
-        <link role="field" roleId="vv6f.3248094640537049937" targetNodeId="8845041571058195073" resolveInfo="y_" />
+        <link role="field" roleId="vv6f.3248094640537049937" targetNodeId="8845041571058195073" resolveInfo="mY" />
         <node role="value" roleId="vv6f.5600505606506565309" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="8845041571058195141" nodeInfo="ng">
           <property name="value" nameId="mj1l.8860443239512128104" value="0" />
         </node>
