@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-41egkano5di8569qyrrf0xht7krq8ih">
+<dependencies version="2" modelHash="-781venczcshu3krm2sx2jxf0vix4eyv">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902bc(jetbrains.mps.lang.sharedConcepts.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -9,10 +9,13 @@
   <dep model="r:00000000-0000-4000-0000-011c895902f3(jetbrains.mps.lang.generator.generationContext.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" hash="2h5d0ouu4f349jym928f727q9llmybm" />
   <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" hash="cgtteyn5fr5whckf1aff2lezoys8cs" />
   <dep model="r:c3548bac-30eb-4a2a-937c-0111d5697309(jetbrains.mps.lang.smodel.generator.smodelAdapter)" />
-  <common hash="9i83nwpwa6ph4dp3smloktmq8wc6lxu">
+  <common hash="-4dhh3kgd2o8pl3rzlgllachd4s4mcr7">
+    <dep root="1250172204141955698" />
     <dep root="1250172204143381034" />
+    <dep root="2451009910642386128" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902bc(jetbrains.mps.lang.sharedConcepts.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -22,11 +25,13 @@
     <dep model="r:00000000-0000-4000-0000-011c895902f3(jetbrains.mps.lang.generator.generationContext.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" />
     <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" />
     <dep model="r:c3548bac-30eb-4a2a-937c-0111d5697309(jetbrains.mps.lang.smodel.generator.smodelAdapter)" />
     <file name="QueriesGenerated.java" />
   </common>
-  <source id="1250172204141955698" name="main" hash="xiurnw0rogj88qzi53xj86ui33upuy" />
-  <source id="1250172204143381034" name="map_CppFile" hash="1fh85vti4j601am3bk0y4iuduvce2gy" />
+  <source id="1250172204141955698" name="main" hash="7929qpo7hns9wclldgpyke3hwd879a7" />
+  <source id="1250172204143381034" name="map_CppFile" hash="-dqbpsknnsqhou763cxdus0w1osl5b6k" />
+  <source id="2451009910642386128" name="map_HeaderFile" hash="-223suttri0zfjw0i96v02mv6ml8gl9o" />
 </dependencies>
 
