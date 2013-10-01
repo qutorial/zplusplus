@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="QueriesGenerated.java" startLine="11" startPosition="0" endLine="20" endPosition="0" unitName="com.mbeddr.cpp.gen.generator.template.main.QueriesGenerated" />
+  <root nodeRef="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)/1250172204141955698" />
   <root nodeRef="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)/1250172204143381034">
     <nodeInfo nodeId="1250172204143434178" fileName="QueriesGenerated.java" startLine="12" startPosition="154" endLine="13" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="4097784605144104864" fileName="QueriesGenerated.java" startLine="16" startPosition="155" endLine="17" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />

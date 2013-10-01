@@ -7,13 +7,23 @@
   </models>
   <accessoryModels />
   <generators>
-    <generator generatorUID="com.mbeddr.cpp.gen#1250172204141955697" uuid="649d1f4a-142e-4a63-80f3-e26499db0a11">
+    <generator name="" generatorUID="com.mbeddr.cpp.gen#1250172204141955697" uuid="649d1f4a-142e-4a63-80f3-e26499db0a11">
       <models>
         <modelRoot contentPath="${module}" type="default">
           <sourceRoot location="generator/template" />
         </modelRoot>
       </models>
-      <external-templates />
+      <facets>
+        <facet type="java" />
+        <facet type="java" />
+        <facet type="java" />
+        <facet type="java" />
+        <facet type="java" />
+        <facet type="java" />
+      </facets>
+      <external-templates>
+        <generator generatorUID="be090156-a678-454c-bd8f-89ebd4a0e6af(com.mbeddr.core.modules.gen#1758019824472882132)" />
+      </external-templates>
       <dependencies>
         <dependency reexport="false">edb2cb9c-58b5-4b7f-b577-647bf9b98eee(com.mbeddr.cpp.cext)</dependency>
       </dependencies>
@@ -27,7 +37,17 @@
       <usedDevKits>
         <usedDevKit>fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)</usedDevKit>
       </usedDevKits>
-      <mapping-priorities />
+      <mapping-priorities>
+        <mapping-priority-rule kind="strictly_before">
+          <greater-priority-mapping />
+          <lesser-priority-mapping>
+            <generator generatorUID="be090156-a678-454c-bd8f-89ebd4a0e6af(com.mbeddr.core.modules.gen#1758019824472882132)" />
+            <external-mapping>
+              <all-local-mappings />
+            </external-mapping>
+          </lesser-priority-mapping>
+        </mapping-priority-rule>
+      </mapping-priorities>
     </generator>
   </generators>
   <sourcePath />

@@ -13,26 +13,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ceff6e-8760-488c-ac6c-ff7104d667f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/template/main@generator.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/textGen.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/behavior.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/constraints.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/devkits/com.mbeddr.cpp/cpp.devkit" afterPath="$PROJECT_DIR$/devkits/com.mbeddr.cpp/cpp.devkit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/classes.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/classes.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.vector/models/test/ex/cpp/vector/main.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.vector/models/test/ex/cpp/vector/main.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/modules.xml" afterPath="$PROJECT_DIR$/.mps/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/structure.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.vector/test.ex.cpp.vector.msd" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.vector/test.ex.cpp.vector.msd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/typesystem.mps" />
     </list>
     <ignored path="cpp.dev.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -44,7 +35,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="ConsoleHistory">
-    <option name="state" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;model modelUID=&quot;r:32167e46-57fb-460f-baa5-76fab1b9d709(TempModel_1360080485630)&quot;&gt;&#10;  &lt;persistence version=&quot;8&quot; /&gt;&#10;  &lt;language namespace=&quot;de1ad86d-6e50-4a02-b306-d4d17f64c375(jetbrains.mps.console.base)&quot; /&gt;&#10;  &lt;language namespace=&quot;1a8554c4-eb84-43ba-8c34-6f0d90c6e75a(jetbrains.mps.console.blCommand)&quot; /&gt;&#10;  &lt;language namespace=&quot;a5e4de53-46a3-44da-aab3-68fdf1c34ed0(jetbrains.mps.console.ideCommands)&quot; /&gt;&#10;  &lt;language namespace=&quot;995a7394-7f76-4b8b-a929-c53448708106(jetbrains.mps.console.internalCommands)&quot; /&gt;&#10;  &lt;devkit namespace=&quot;fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)&quot; /&gt;&#10;  &lt;import index=&quot;eynw&quot; modelUID=&quot;r:359b1d2b-77c4-46df-9bf2-b25cbea32254(jetbrains.mps.console.base.structure)&quot; version=&quot;0&quot; implicit=&quot;yes&quot; /&gt;&#10;  &lt;root type=&quot;eynw.ConsoleRoot&quot; typeId=&quot;eynw.1583916890557930028&quot; id=&quot;1250172204141659946&quot; nodeInfo=&quot;ng&quot;&gt;&#10;    &lt;node role=&quot;history&quot; roleId=&quot;eynw.1583916890557930415&quot; type=&quot;eynw.History&quot; typeId=&quot;eynw.757553790980850366&quot; id=&quot;8418506114724958507&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;    &lt;node role=&quot;commandHolder&quot; roleId=&quot;eynw.1583916890557930417&quot; type=&quot;eynw.CommandHolder&quot; typeId=&quot;eynw.351968380916615243&quot; id=&quot;1250172204141659947&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;  &lt;/root&gt;&#10;&lt;/model&gt;&#10;&#10;" />
+    <option name="state" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;model modelUID=&quot;r:4eefe5b0-af64-467c-a033-ee42325fc05f(TempModel_834501680005)&quot;&gt;&#10;  &lt;persistence version=&quot;8&quot; /&gt;&#10;  &lt;language namespace=&quot;de1ad86d-6e50-4a02-b306-d4d17f64c375(jetbrains.mps.console.base)&quot; /&gt;&#10;  &lt;language namespace=&quot;1a8554c4-eb84-43ba-8c34-6f0d90c6e75a(jetbrains.mps.console.blCommand)&quot; /&gt;&#10;  &lt;language namespace=&quot;a5e4de53-46a3-44da-aab3-68fdf1c34ed0(jetbrains.mps.console.ideCommands)&quot; /&gt;&#10;  &lt;language namespace=&quot;995a7394-7f76-4b8b-a929-c53448708106(jetbrains.mps.console.internalCommands)&quot; /&gt;&#10;  &lt;devkit namespace=&quot;fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)&quot; /&gt;&#10;&lt;/model&gt;&#10;&#10;" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -61,296 +52,210 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.81276596">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="main" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://test.ex.cpp.vector/test.ex.cpp.vector.main/main">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="0" />
-                        <property name="caretX" value="119" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                          <node node_reference="r:ee7d7d13-a50a-4883-a5cc-b66e4ab9fe20(test.ex.cpp.vector.main)/728258031730568202" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_0/main">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                        <property name="caretXRelative" value="-15" />
-                        <property name="caretX" value="0" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="Collection_7x0hn9_a" cellNumber="0" isInList="false">
-                          <node node_reference="r:0ebe6591-4847-4e21-83f3-6004f523d280(test.ex.cpp.vector.main@5_0)/1250172204144195993" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Makefile" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_1/Makefile">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="0" />
-                        <property name="caretX" value="15" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                          <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144201843" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_1/main">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="40" />
-                        <property name="caretX" value="531" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellNumber="1" isInList="false">
-                          <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144202027" />
-                          <parent cellId="Collection_vihdgl_a" cellNumber="0" isInList="false">
-                            <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144202027" />
-                          </parent>
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="copyInImportedModules" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/copyInImportedModules">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="95">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="0" />
-                        <property name="caretX" value="31" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="empty_reductionMappingRule" cellNumber="0" isInList="false">
-                          <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/1252295221377568075" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="addHeadersForArbitraryTeyt" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/addHeadersForArbitraryTeyt">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="0" />
-                        <property name="caretX" value="131" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                          <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/6275956088645950904" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="importReferencedElements" pinned="false" current="true" current-in-tab="true">
-            <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/importReferencedElements">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="1680">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="0" />
-                        <property name="caretX" value="31" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
-                          <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/4998503984087067911" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="vector" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_1/vector">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="0" />
-                        <property name="caretX" value="119" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                          <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144196163" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="GeneratedCppFile" pinned="false" current="false" current-in-tab="false">
-            <entry file="mps://node://com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.structure/GeneratedCppFile">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                  <node node_ref="r:69f018fa-6ed8-4de5-bf11-4f41eaa23793(com.mbeddr.cpp.gen.behavior)/1250172204143132547" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="map_CppFile" pinned="false" current="false" current-in-tab="true">
-            <entry file="mps://node://com.mbeddr.cpp.gen#1250172204141955697/com.mbeddr.cpp.gen.generator.template.main@generator/map_CppFile">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="20">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretXRelative" value="0" />
-                        <property name="caretX" value="15" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="Constant_vmyx7q_a0" cellNumber="0" isInList="false">
-                          <node node_reference="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)/4097784605144104861" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <folded />
-                    <enabledHints />
-                  </memento>
-                  <inspectorMemento viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <folded />
-                    <enabledHints />
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GeneratedCppFile_BehaviorDescriptor.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/source_gen/com/mbeddr/cpp/gen/behavior/GeneratedCppFile_BehaviorDescriptor.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="20" column="13" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0" />
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="BuildConfiguration (t.e.c.b.classes)" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.classes/BuildConfiguration (t.e.c.b.classes)">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="123" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_compiler" cellNumber="0" isInList="false">
+                      <node node_reference="r:e7585ab4-a761-488f-beb5-189adbb7fec1(test.ex.cpp.basics.classes)/3017602783212575133" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.casting/Main">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractMethodDeclaration" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/AbstractMethodDeclaration">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:4349c8f7-b26d-48ef-9bad-3a0e52db38d6(com.mbeddr.cpp.classes.typesystem)/3152709411796981116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassesTest" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.classes/ClassesTest">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="15" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_yww9py_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:e7585ab4-a761-488f-beb5-189adbb7fec1(test.ex.cpp.basics.classes)/8845041571058195080" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildConfiguration (t.e.c.b.visibility)" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.visibility/BuildConfiguration (t.e.c.b.visibility)">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FriendClass" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.visibility/FriendClass">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StyleTest" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.style/StyleTest">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DestructorImplementation" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/DestructorImplementation">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/610576951246057600" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CppNamingConventions" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.classes/CppNamingConventions">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CastingFromNotPolyParent" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.casting/CastingFromNotPolyParent">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -557,7 +462,35 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.vector@transient11">
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tests">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tests">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.basics">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -571,7 +504,15 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.vector@transient11">
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tests">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.basics">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -579,7 +520,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.vector.main">
+            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.basics.casting">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -589,21 +530,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.vector@transient11">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test.ex.cpp.vector.main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -627,36 +554,6 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
-      <MyState />
-      <myJUnitSettings>
-        <MyState>
-          <option name="myModel" />
-          <option name="myModule" />
-          <option name="myTestCases">
-            <list />
-          </option>
-          <option name="myTestMethods">
-            <list />
-          </option>
-          <option name="myRunType" />
-        </MyState>
-      </myJUnitSettings>
-      <myJavaRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myJavaRunParameters>
-      <method />
-    </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="Application" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -721,35 +618,35 @@
       <window_info id="Switch Verification Tool" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="State Machine Verification (NuSMV)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="mbeddr Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="State Machine Verification (NuSMV)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.5002636" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="mbeddr Analyze Error Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="mbeddr Analyze Error Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Feature Model Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Feature Model Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921028" sideWeight="0.5864461" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26307365" sideWeight="0.6707897" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.6707897" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.5864461" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22140221" sideWeight="0.66895604" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24881391" sideWeight="0.6707897" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921028" sideWeight="0.4135539" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.4135539" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Decision Table Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Verification (CBMC)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32635584" sideWeight="0.6419424" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33104396" sideWeight="0.99489796" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -827,125 +724,15 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/source_gen/com/mbeddr/cpp/gen/behavior/GeneratedCppFile_BehaviorDescriptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.structure/GeneratedCppFile">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:69f018fa-6ed8-4de5-bf11-4f41eaa23793(com.mbeddr.cpp.gen.behavior)/1250172204143132547" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/map_ImplementationModule_H">
+    <entry file="mps://node://test.ex.cpp.vector/test.ex.cpp.vector.main/BuildConfiguration (t.e.c.v.main)">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="31" />
-                <property name="caretX" value="46" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_dms3bp_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/1598382569875685747" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <folded />
             <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.gen#1250172204141955697/com.mbeddr.cpp.gen.generator.template.main@generator/map_CppFile">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_vmyx7q_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)/4097784605144104861" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.gen#1250172204141955697/com.mbeddr.cpp.gen.generator.template.main@generator/main">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="240">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="162" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_conditionFunction" cellNumber="0" isInList="false">
-                  <node node_reference="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)/1250172204143620069" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/map_ImplementationModule_C">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="20" />
-                <property name="caretX" value="430" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_9o3sb9_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/1598382569875690917" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
             <selectionStack />
             <folded />
             <enabledHints />
@@ -956,22 +743,21 @@
     <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/main">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="240">
+          <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="144" />
-                <property name="caretX" value="306" />
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-328" />
+                <property name="caretX" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/1758019824472885450" />
+                <cellInfo cellId="Collection_vihdgl_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/1317894735999391544" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <folded />
             <enabledHints />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
             <selectionStack />
             <folded />
             <enabledHints />
@@ -979,30 +765,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://com.mbeddr.core.modules.gen/com.mbeddr.core.modules.gen.structure/GenStdHeaderImport">
+    <entry file="mps://node://test.ex.cpp.vector/test.ex.cpp.vector.main/vector">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:9488318d-ce46-4320-b4e7-2566a511c366(com.mbeddr.core.modules.gen.structure)/3830958861296806570" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+            <selectionStack />
             <folded />
             <enabledHints />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
             <selectionStack />
             <folded />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:9488318d-ce46-4320-b4e7-2566a511c366(com.mbeddr.core.modules.gen.structure)/3830958861296806570" />
         </state>
       </provider>
     </entry>
@@ -1010,21 +785,11 @@
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="119" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:ee7d7d13-a50a-4883-a5cc-b66e4ab9fe20(test.ex.cpp.vector.main)/728258031730568202" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+            <selectionStack />
             <folded />
             <enabledHints />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
             <selectionStack />
             <folded />
             <enabledHints />
@@ -1032,7 +797,205 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_1/Makefile">
+    <entry file="mps://node://com.mbeddr.cpp.gen#1250172204141955697/com.mbeddr.cpp.gen.generator.template.main@generator/main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/map_ImplementationModule_H">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="66" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/1758019824472885452" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.classes/CppNamingConventions">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.visibility/BuildConfiguration (t.e.c.b.visibility)">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.visibility/FriendClass">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.style/StyleTest">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.casting/Main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.casting/CastingFromNotPolyParent">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/DestructorImplementation">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/610576951246057600" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/AbstractMethodDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:4349c8f7-b26d-48ef-9bad-3a0e52db38d6(com.mbeddr.cpp.classes.typesystem)/3152709411796981116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.classes/BuildConfiguration (t.e.c.b.classes)">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="123" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_compiler" cellNumber="0" isInList="false">
+                  <node node_reference="r:e7585ab4-a761-488f-beb5-189adbb7fec1(test.ex.cpp.basics.classes)/3017602783212575133" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://test.ex.cpp.basics/test.ex.cpp.basics.classes/ClassesTest">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
@@ -1042,173 +1005,15 @@
                 <property name="caretXRelative" value="0" />
                 <property name="caretX" value="15" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144201843" />
+                <cellInfo cellId="Constant_yww9py_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:e7585ab4-a761-488f-beb5-189adbb7fec1(test.ex.cpp.basics.classes)/8845041571058195080" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <folded />
             <enabledHints />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_1/vector">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="119" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144196163" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_0/main">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretXRelative" value="-15" />
-                <property name="caretX" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_7x0hn9_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:0ebe6591-4847-4e21-83f3-6004f523d280(test.ex.cpp.vector.main@5_0)/1250172204144195993" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://test.ex.cpp.vector@transient11/test.ex.cpp.vector.main@5_1/main">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="40" />
-                <property name="caretX" value="531" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellNumber="1" isInList="false">
-                  <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144202027" />
-                  <parent cellId="Collection_vihdgl_a" cellNumber="0" isInList="false">
-                    <node node_reference="r:7519584a-3862-4ca2-8dcc-2e0ba75fa2e4(test.ex.cpp.vector.main@5_1)/1250172204144202027" />
-                  </parent>
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/addHeadersForArbitraryTeyt">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="131" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/6275956088645950904" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/copyInImportedModules">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_reductionMappingRule" cellNumber="0" isInList="false">
-                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/1252295221377568075" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.core.modules.gen#1758019824472882132/com.mbeddr.core.modules.gen.generator.template.main@generator/importReferencedElements">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="1680">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)/4998503984087067911" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
+          <inspectorMemento viewPositionX="0" viewPositionY="-7">
             <selectionStack />
             <folded />
             <enabledHints />
