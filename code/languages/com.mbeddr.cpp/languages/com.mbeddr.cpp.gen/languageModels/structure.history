@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="zo24" modelUID="r:b799f389-c3ef-4e28-982e-8b20eb435c0d(com.mbeddr.cpp.gen.structure)" version="-1" />
+    </dependencies>
+    <rename id="zo24.2451009910642363124" type="CONCEPT" from="GeneratedCppHeaderFile" to="GeneratedHeaderFile" />
+  </StructureModification>
+</history>
+

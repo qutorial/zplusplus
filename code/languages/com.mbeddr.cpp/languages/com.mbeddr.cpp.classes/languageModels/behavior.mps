@@ -8040,7 +8040,6 @@
                 <link role="concept" roleId="tp25.1138405853777" targetNodeId="vv6f.5927942917721313991" resolveInfo="IClassMember" />
               </node>
             </node>
-            <node role="initializer" roleId="tpee.1068431790190" type="tpee.NullLiteral" typeId="tpee.1070534058343" id="5516725038417563089" nodeInfo="nn" />
           </node>
         </node>
         <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="5516725038417563082" nodeInfo="nn" />
@@ -8153,7 +8152,6 @@
                 <link role="concept" roleId="tp25.1138405853777" targetNodeId="vv6f.5927942917721313991" resolveInfo="IClassMember" />
               </node>
             </node>
-            <node role="initializer" roleId="tpee.1068431790190" type="tpee.NullLiteral" typeId="tpee.1070534058343" id="5516725038417563210" nodeInfo="nn" />
           </node>
         </node>
         <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="5516725038417563203" nodeInfo="nn" />
@@ -8260,7 +8258,6 @@
                 <link role="concept" roleId="tp25.1138405853777" targetNodeId="vv6f.5927942917721313991" resolveInfo="IClassMember" />
               </node>
             </node>
-            <node role="initializer" roleId="tpee.1068431790190" type="tpee.NullLiteral" typeId="tpee.1070534058343" id="5516725038417563287" nodeInfo="nn" />
           </node>
         </node>
         <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="5516725038417563282" nodeInfo="nn" />
