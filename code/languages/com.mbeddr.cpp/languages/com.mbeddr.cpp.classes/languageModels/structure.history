@@ -192,5 +192,11 @@
     </dependencies>
     <rename id="vv6f.4157133445515154384" type="CONCEPT" from="ClassType" to="ClassifierType" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="31" />
+    </dependencies>
+    <rename id="vv6f.2015268598019146107" type="CONCEPT" from="Destructor" to="DestructorDeclaration" />
+  </StructureModification>
 </history>
 

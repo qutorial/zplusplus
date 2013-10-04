@@ -20,7 +20,8 @@
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="5" implicit="yes" />
   <import index="k146" modelUID="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" version="18" implicit="yes" />
   <import index="vs0r" modelUID="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" version="16" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="31" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="32" implicit="yes" />
+  <import index="87nw" modelUID="r:ca2ab6bb-f6e7-4c0f-a88c-b78b9b31fff3(de.slisson.mps.richtext.structure)" version="5" implicit="yes" />
   <root type="51wr.BuildConfiguration" typeId="51wr.7717755763392524104" id="487313117837083461" nodeInfo="ng">
     <node role="binaries" roleId="51wr.5046689135694070731" type="51wr.Executable" typeId="51wr.5046689135693761554" id="2017510268494218757" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="Main" />
@@ -149,7 +150,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837132830" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837132829" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837132829" nodeInfo="ng">
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837084117" resolveInfo="NonPolymorhicChild" />
             </node>
           </node>
@@ -172,7 +173,7 @@
               <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837289147" nodeInfo="ng">
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837289152" nodeInfo="ng">
+                <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837289152" nodeInfo="ng">
                   <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837084108" resolveInfo="NonPolymorphic" />
                 </node>
               </node>
@@ -197,7 +198,7 @@
                 <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837699311" nodeInfo="ng">
                   <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                   <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                  <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837699316" nodeInfo="ng">
+                  <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837699316" nodeInfo="ng">
                     <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837084108" resolveInfo="NonPolymorphic" />
                   </node>
                 </node>
@@ -402,7 +403,7 @@
         <node role="type" roleId="mj1l.318113533128716676" type="yq40.ArrayType" typeId="yq40.5679441017214012545" id="487313117837083517" nodeInfo="ng">
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-          <node role="baseType" roleId="yq40.5679441017214012546" type="yq40.StringType" typeId="yq40.6113173064528067332" id="487313117837083518" nodeInfo="ng">
+          <node role="baseType" roleId="yq40.2963921683065158286" type="yq40.StringType" typeId="yq40.6113173064528067332" id="487313117837083518" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
           </node>
@@ -549,7 +550,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837699740" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837699826" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837699826" nodeInfo="ng">
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699705" resolveInfo="NonPoly" />
             </node>
           </node>
@@ -572,7 +573,7 @@
               <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837699750" nodeInfo="ng">
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837714727" nodeInfo="ng">
+                <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837714727" nodeInfo="ng">
                   <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699725" resolveInfo="NPChild" />
                 </node>
               </node>
@@ -597,7 +598,7 @@
                 <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837699760" nodeInfo="ng">
                   <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                   <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                  <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837699761" nodeInfo="ng">
+                  <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837699761" nodeInfo="ng">
                     <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837699705" resolveInfo="NonPoly" />
                   </node>
                 </node>
@@ -737,9 +738,9 @@
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="487313117837730013" nodeInfo="ng" />
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.CommentStatement" typeId="c4fa.1679452829930336984" id="487313117837730492" nodeInfo="ng">
           <node role="textblock" roleId="c4fa.8624890525768479139" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="487313117837730493" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type=".de.slisson.mps.richtext.structure.Text" id="487313117837730494" nodeInfo="ng">
-              <node role="words" type=".de.slisson.mps.richtext.structure.Word" id="487313117837730495" nodeInfo="ng">
-                <property name="escapedValue" value="Here not Possible to assign new PolymorphicChild" />
+            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="487313117837730494" nodeInfo="ng">
+              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="487313117837730495" nodeInfo="ng">
+                <property name="escapedValue" nameId="87nw.2557074442922438158" value="Here not Possible to assign new PolymorphicChild" />
               </node>
             </node>
           </node>
@@ -749,7 +750,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837730015" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837730016" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837730016" nodeInfo="ng">
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837729973" resolveInfo="Polymorphic" />
             </node>
           </node>
@@ -762,9 +763,9 @@
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="487313117837730482" nodeInfo="ng" />
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.CommentStatement" typeId="c4fa.1679452829930336984" id="487313117837730469" nodeInfo="ng">
           <node role="textblock" roleId="c4fa.8624890525768479139" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="487313117837730470" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type=".de.slisson.mps.richtext.structure.Text" id="487313117837730471" nodeInfo="ng">
-              <node role="words" type=".de.slisson.mps.richtext.structure.Word" id="487313117837730472" nodeInfo="ng">
-                <property name="escapedValue" value="Fine cast" />
+            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="487313117837730471" nodeInfo="ng">
+              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="487313117837730472" nodeInfo="ng">
+                <property name="escapedValue" nameId="87nw.2557074442922438158" value="Fine cast" />
               </node>
             </node>
           </node>
@@ -775,7 +776,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="5192813628426148451" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="5192813628426148450" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="5192813628426148450" nodeInfo="ng">
               <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorphicChild" />
             </node>
           </node>
@@ -786,7 +787,7 @@
             <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837730031" nodeInfo="ng">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-              <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837730032" nodeInfo="ng">
+              <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837730032" nodeInfo="ng">
                 <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorphicChild" />
               </node>
             </node>
@@ -832,7 +833,7 @@
                 <node role="destPointerType" roleId="vv6f.487313117837084317" type="yq40.PointerType" typeId="yq40.279446265608459824" id="487313117837730041" nodeInfo="ng">
                   <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                   <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                  <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837730138" nodeInfo="ng">
+                  <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="487313117837730138" nodeInfo="ng">
                     <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="487313117837730000" resolveInfo="PolymorphicChild" />
                   </node>
                 </node>

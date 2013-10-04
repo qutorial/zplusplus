@@ -21,11 +21,11 @@
     <scopeInfo nodeId="4097784605144104863" fileName="QueriesGenerated.java" startLine="57" startPosition="155" endLine="58" endPosition="73" />
   </root>
   <root nodeRef="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)/2451009910642386128">
-    <nodeInfo nodeId="2451009910642409437" fileName="QueriesGenerated.java" startLine="41" startPosition="154" endLine="42" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8456210691473874627" fileName="QueriesGenerated.java" startLine="45" startPosition="154" endLine="46" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8456210691473874627" fileName="QueriesGenerated.java" startLine="41" startPosition="154" endLine="42" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2451009910642409437" fileName="QueriesGenerated.java" startLine="45" startPosition="154" endLine="46" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="2451009910644899567" fileName="QueriesGenerated.java" startLine="61" startPosition="155" endLine="62" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="2451009910642409431" fileName="QueriesGenerated.java" startLine="41" startPosition="154" endLine="42" endPosition="69" />
-    <scopeInfo nodeId="8456210691473874621" fileName="QueriesGenerated.java" startLine="45" startPosition="154" endLine="46" endPosition="92" />
+    <scopeInfo nodeId="8456210691473874621" fileName="QueriesGenerated.java" startLine="41" startPosition="154" endLine="42" endPosition="92" />
+    <scopeInfo nodeId="2451009910642409431" fileName="QueriesGenerated.java" startLine="45" startPosition="154" endLine="46" endPosition="69" />
     <scopeInfo nodeId="2451009910644896541" fileName="QueriesGenerated.java" startLine="61" startPosition="155" endLine="62" endPosition="65" />
   </root>
   <root nodeRef="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)/6954321621749582946">

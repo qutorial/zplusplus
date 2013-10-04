@@ -20,7 +20,7 @@
   <import index="vs0r" modelUID="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" version="16" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="5" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="5" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="31" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="32" implicit="yes" />
   <root type="mj1l.TypeSizeConfiguration" typeId="mj1l.3335993110369795380" id="8889885503291884185" nodeInfo="ng">
     <node role="pointerDiffType" roleId="mj1l.3813668170744198630" type="mj1l.UnsignedInt32tType" typeId="mj1l.8463282783691618450" id="8889885503291884186" nodeInfo="ng">
       <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
@@ -256,7 +256,7 @@
                   <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7661331924647318716" nodeInfo="ng">
                     <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                     <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                    <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7661331924647318715" nodeInfo="ng">
+                    <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7661331924647318715" nodeInfo="ng">
                       <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
                     </node>
                   </node>
@@ -267,7 +267,7 @@
                 <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419285" nodeInfo="ng">
                   <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                   <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                  <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419284" nodeInfo="ng">
+                  <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419284" nodeInfo="ng">
                     <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
                   </node>
                 </node>
@@ -385,7 +385,7 @@
             <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194191978" nodeInfo="ng">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-              <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194191977" nodeInfo="ng">
+              <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194191977" nodeInfo="ng">
                 <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
               </node>
             </node>
@@ -419,7 +419,7 @@
             <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194191995" nodeInfo="ng">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-              <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194191994" nodeInfo="ng">
+              <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194191994" nodeInfo="ng">
                 <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
               </node>
             </node>
@@ -438,7 +438,7 @@
               <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419246" nodeInfo="ng">
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419245" nodeInfo="ng">
+                <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419245" nodeInfo="ng">
                   <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
                 </node>
               </node>
@@ -458,7 +458,7 @@
               <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419152" nodeInfo="ng">
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419151" nodeInfo="ng">
+                <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419151" nodeInfo="ng">
                   <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
                 </node>
               </node>
@@ -468,7 +468,7 @@
               <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419157" nodeInfo="ng">
                 <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                 <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419156" nodeInfo="ng">
+                <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419156" nodeInfo="ng">
                   <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
                 </node>
               </node>
@@ -532,7 +532,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419252" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419253" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419253" nodeInfo="ng">
               <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
             </node>
           </node>
@@ -601,7 +601,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419166" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419167" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419167" nodeInfo="ng">
               <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
             </node>
           </node>
@@ -611,7 +611,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419169" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419170" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419170" nodeInfo="ng">
               <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
             </node>
           </node>
@@ -691,7 +691,7 @@
                     <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194419114" nodeInfo="ng">
                       <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
                       <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-                      <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419113" nodeInfo="ng">
+                      <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194419113" nodeInfo="ng">
                         <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
                       </node>
                     </node>
@@ -806,7 +806,7 @@
             <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194221903" nodeInfo="ng">
               <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
               <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-              <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194221902" nodeInfo="ng">
+              <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194221902" nodeInfo="ng">
                 <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
               </node>
             </node>
@@ -828,7 +828,7 @@
         <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7494111203194221920" nodeInfo="ng">
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-          <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194221921" nodeInfo="ng">
+          <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7494111203194221921" nodeInfo="ng">
             <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
           </node>
         </node>
@@ -914,7 +914,7 @@
           <node role="type" roleId="mj1l.318113533128716676" type="yq40.PointerType" typeId="yq40.279446265608459824" id="7661331924647318718" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-            <node role="baseType" roleId="yq40.279446265608459825" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7661331924647318719" nodeInfo="ng">
+            <node role="baseType" roleId="yq40.2963921683065158286" type="vv6f.ConceptRestrictedTemplateParameterType" typeId="vv6f.292433000620034958" id="7661331924647318719" nodeInfo="ng">
               <link role="parameter" roleId="vv6f.292433000620034959" targetNodeId="292433000619749308" resolveInfo="T" />
             </node>
           </node>
@@ -1328,7 +1328,7 @@
         <node role="type" roleId="mj1l.318113533128716676" type="yq40.ArrayType" typeId="yq40.5679441017214012545" id="728258031730568219" nodeInfo="ng">
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-          <node role="baseType" roleId="yq40.5679441017214012546" type="yq40.StringType" typeId="yq40.6113173064528067332" id="728258031730568220" nodeInfo="ng">
+          <node role="baseType" roleId="yq40.2963921683065158286" type="yq40.StringType" typeId="yq40.6113173064528067332" id="728258031730568220" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
           </node>

@@ -15,7 +15,7 @@
   <import index="fxg7" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpf8" modelUID="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" version="2" implicit="yes" />
-  <import index="zo24" modelUID="r:b799f389-c3ef-4e28-982e-8b20eb435c0d(com.mbeddr.cpp.gen.structure)" version="0" implicit="yes" />
+  <import index="zo24" modelUID="r:b799f389-c3ef-4e28-982e-8b20eb435c0d(com.mbeddr.cpp.gen.structure)" version="2" implicit="yes" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="16" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="23" implicit="yes" />
@@ -205,25 +205,10 @@
   </root>
   <root type="zo24.GeneratedHeaderFile" typeId="zo24.2451009910642363124" id="2451009910642386128" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="map_HeaderFile" />
-    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.RootTemplateAnnotation" typeId="tpf8.1168619357332" id="2451009910642386129" nodeInfo="ng">
-      <link role="applicableConcept" roleId="tpf8.1168619429071" targetNodeId="sg22.4387763778170601606" resolveInfo="CppImplementationModule" />
+    <node role="epilogues" roleId="zo24.8456210691475960066" type="zo24.EndOfIncludeOnceDirective" typeId="zo24.8456210691473555071" id="8456210691473804373" nodeInfo="ng">
+      <link role="openingDirective" roleId="zo24.8456210691473604586" targetNodeId="8456210691473659151" resolveInfo="includeMeOnce" />
     </node>
-    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.PropertyMacro" typeId="tpf8.1087833241328" id="2451009910642409233" nodeInfo="nn">
-      <property name="propertyName" nameId="tpck.1757699476691236117" value="name" />
-      <node role="propertyValueFunction" roleId="tpf8.1167756362303" type="tpf8.PropertyMacro_GetPropertyValue" typeId="tpf8.1167756080639" id="2451009910642409430" nodeInfo="nn">
-        <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="2451009910642409431" nodeInfo="sn">
-          <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="2451009910642409437" nodeInfo="nn">
-            <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="2451009910642409432" nodeInfo="nn">
-              <node role="operation" roleId="tpee.1197027833540" type="tp25.SPropertyAccess" typeId="tp25.1138056022639" id="2451009910642409435" nodeInfo="nn">
-                <link role="property" roleId="tp25.1138056395725" targetNodeId="tpck.1169194664001" resolveInfo="name" />
-              </node>
-              <node role="operand" roleId="tpee.1197027771414" type="tpf8.TemplateFunctionParameter_sourceNode" typeId="tpf8.1167169188348" id="2451009910642409436" nodeInfo="nn" />
-            </node>
-          </node>
-        </node>
-      </node>
-    </node>
-    <node role="contents" roleId="zo24.2451009910642385952" type="zo24.IncludeOnceDirective" typeId="zo24.8456210691473528984" id="8456210691473659151" nodeInfo="ng">
+    <node role="preambles" roleId="zo24.8456210691475869495" type="zo24.IncludeOnceDirective" typeId="zo24.8456210691473528984" id="8456210691473659151" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="includeMeOnce" />
       <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.PropertyMacro" typeId="tpf8.1087833241328" id="8456210691473874617" nodeInfo="nn">
         <property name="propertyName" nameId="tpck.1757699476691236117" value="name" />
@@ -251,6 +236,30 @@
         </node>
       </node>
     </node>
+    <node role="includes" roleId="zo24.8456210691475738523" type="zo24.IncludeCommand" typeId="zo24.2451009910644941257" id="8456210691475826803" nodeInfo="ng">
+      <property name="name" nameId="zo24.2451009910644941311" value="&lt;stdint.h&gt;" />
+    </node>
+    <node role="includes" roleId="zo24.8456210691475738523" type="zo24.IncludeCommand" typeId="zo24.2451009910644941257" id="8456210691475826804" nodeInfo="ng">
+      <property name="name" nameId="zo24.2451009910644941311" value="&lt;stdio.h&gt;" />
+    </node>
+    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.RootTemplateAnnotation" typeId="tpf8.1168619357332" id="2451009910642386129" nodeInfo="ng">
+      <link role="applicableConcept" roleId="tpf8.1168619429071" targetNodeId="sg22.4387763778170601606" resolveInfo="CppImplementationModule" />
+    </node>
+    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.PropertyMacro" typeId="tpf8.1087833241328" id="2451009910642409233" nodeInfo="nn">
+      <property name="propertyName" nameId="tpck.1757699476691236117" value="name" />
+      <node role="propertyValueFunction" roleId="tpf8.1167756362303" type="tpf8.PropertyMacro_GetPropertyValue" typeId="tpf8.1167756080639" id="2451009910642409430" nodeInfo="nn">
+        <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="2451009910642409431" nodeInfo="sn">
+          <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="2451009910642409437" nodeInfo="nn">
+            <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="2451009910642409432" nodeInfo="nn">
+              <node role="operation" roleId="tpee.1197027833540" type="tp25.SPropertyAccess" typeId="tp25.1138056022639" id="2451009910642409435" nodeInfo="nn">
+                <link role="property" roleId="tp25.1138056395725" targetNodeId="tpck.1169194664001" resolveInfo="name" />
+              </node>
+              <node role="operand" roleId="tpee.1197027771414" type="tpf8.TemplateFunctionParameter_sourceNode" typeId="tpf8.1167169188348" id="2451009910642409436" nodeInfo="nn" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
     <node role="contents" roleId="zo24.2451009910642385952" type="x27k.StaticMemoryLocation" typeId="x27k.3376775282622611165" id="2451009910644895328" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="preparedHeaderContent" />
       <node role="value" roleId="x27k.3376775282622233992" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="2451009910644896484" nodeInfo="ng">
@@ -270,9 +279,6 @@
           </node>
         </node>
       </node>
-    </node>
-    <node role="contents" roleId="zo24.2451009910642385952" type="zo24.EndOfIncludeOnceDirective" typeId="zo24.8456210691473555071" id="8456210691473804373" nodeInfo="ng">
-      <link role="openingDirective" roleId="zo24.8456210691473604586" targetNodeId="8456210691473659151" resolveInfo="includeMeOnce" />
     </node>
   </root>
   <root type="tpf8.MappingScript" typeId="tpf8.1195499912406" id="6954321621749582946" nodeInfo="ng">

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="a7gd" modelUID="r:ef62f835-4857-4b42-bffc-3574cab39b3e(com.mbeddr.cpp.patterns.structure)" version="-1" />
+    </dependencies>
+    <rename id="a7gd.8456210691477819595" type="CONCEPT" from="Adapter" to="AdapterDeclaration" />
+  </StructureModification>
+</history>
+

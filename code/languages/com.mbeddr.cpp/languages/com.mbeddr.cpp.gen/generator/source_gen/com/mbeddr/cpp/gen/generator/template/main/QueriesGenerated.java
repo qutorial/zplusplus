@@ -38,12 +38,12 @@ public class QueriesGenerated {
     return SPropertyOperations.getString(_context.getNode(), "name");
   }
 
-  public static Object propertyMacro_GetPropertyValue_2451009910642409430(final IOperationContext operationContext, final PropertyMacroContext _context) {
-    return SPropertyOperations.getString(_context.getNode(), "name");
-  }
-
   public static Object propertyMacro_GetPropertyValue_8456210691473874620(final IOperationContext operationContext, final PropertyMacroContext _context) {
     return SPropertyOperations.getString(_context.getNode(), "name").toUpperCase() + "_H__";
+  }
+
+  public static Object propertyMacro_GetPropertyValue_2451009910642409430(final IOperationContext operationContext, final PropertyMacroContext _context) {
+    return SPropertyOperations.getString(_context.getNode(), "name");
   }
 
   public static SNode sourceNodeQuery_2451009910647296497(final IOperationContext operationContext, final SourceSubstituteMacroNodeContext _context) {

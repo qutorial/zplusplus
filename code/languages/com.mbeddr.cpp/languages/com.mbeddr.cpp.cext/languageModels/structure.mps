@@ -214,5 +214,15 @@
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="tpck.1835621062190663819" resolveInfo="IDontSubstituteByDefault" />
     </node>
   </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="8456210691474213609" nodeInfo="ig">
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="cppmodule" />
+    <property name="name" nameId="tpck.1169194664001" value="CppStandardHeaderImport" />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="C++ standard header" />
+    <property name="conceptShortDescription" nameId="tpce.4628067390765907488" value="something like &lt;iostream&gt;" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="x27k.3830958861296798477" resolveInfo="ModuleDependency" />
+    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="8456210691475169237" nodeInfo="ig">
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="vs0r.7024921229555594291" resolveInfo="IIdentifierNamedConcept" />
+    </node>
+  </root>
 </model>
 
