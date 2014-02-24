@@ -3,6 +3,7 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="$PROJECT_DIR$/devkits/com.mbeddr.cpp/cpp.devkit" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/languages/HelloLanguage/HelloLanguage.mpl" folder="languages" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/cext.mpl" folder="languages" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" folder="languages" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/classes.mpl" folder="languages" />

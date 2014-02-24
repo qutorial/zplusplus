@@ -13,72 +13,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ceff6e-8760-488c-ac6c-ff7104d667f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen/com/mbeddr/cpp/patterns/generator/template/main/QueriesGenerated.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.mpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../devkits/com.mbeddr.cpp.patternskit/com.mbeddr.cpp.patternskit.devkit" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen.caches/com/mbeddr/cpp/patterns/generator/template/main/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen.caches/com/mbeddr/cpp/patterns/generator/template/main/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/intentions.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/template/main@generator.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/structure.history" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/test.ex.patterns.adapter/test.ex.patterns.adapter.msd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/test.ex.patterns.adapter/models/test/ex/patterns/adapter/test.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen/com/mbeddr/cpp/patterns/generator/template/main/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/typesystem.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/actions.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/actions.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/allocation.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/allocation.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/HelloLanguage.mpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/behavior.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/constraints.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/editor.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/generator/template/main@generator.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mps/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/structure.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/typesystem.mps" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/behavior.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/behavior.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/casting.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/casting.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/classes.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/classes.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/constraints.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/constraints.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/constraints.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/constructors.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/constructors.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/dataFlow.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/dataFlow.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/findUsages.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/findUsages.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/source_gen.caches/com/mbeddr/cpp/classes/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/source_gen.caches/com/mbeddr/cpp/classes/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/inheritance.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/inheritance.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/intentions.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/intentions.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/models/test/ex/cpp/screenshots/main.mps" afterPath="$PROJECT_DIR$/tests/models/test/ex/cpp/screenshots/main.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.templates/models/test/ex/cpp/templates/main.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.templates/models/test/ex/cpp/templates/main.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.vector/models/test/ex/cpp/vector/main.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.vector/models/test/ex/cpp/vector/main.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/template/com/mbeddr/cpp/classes/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/template/com/mbeddr/cpp/classes/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/markusNamespaces.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/markusNamespaces.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/modules.xml" afterPath="$PROJECT_DIR$/.mps/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/namespaces.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/namespaces.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/nestednamespaceproviders.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/nestednamespaceproviders.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/test.ex.cpp.overloading/models/test/ex/cpp/overloading/operators.mps" afterPath="$PROJECT_DIR$/solutions/test.ex.cpp.overloading/models/test/ex/cpp/overloading/operators.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/structure.history" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/structure.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/structure.history" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/structure.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/style.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/style.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ts.cpp.basics/models/t1.mps" afterPath="$PROJECT_DIR$/tests/test.ts.cpp.basics/models/t1.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/new/test.ex.cpp.gen.msd" afterPath="$PROJECT_DIR$/tests/new/test.ex.cpp.gen.msd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/new/models/test/ex/cpp/gen/test1.mps" afterPath="$PROJECT_DIR$/tests/new/models/test/ex/cpp/gen/test1.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/textGen.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/textGen.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/textGen.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/textGen.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/textGen.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/textGen.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/typesystem.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/typesystem.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/visibility.mps" afterPath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/visibility.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/models/com/mbeddr/cpp/cext/pluginSolution/plugin.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/models/com/mbeddr/cpp/cext/pluginSolution/plugin.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
     </list>
     <ignored path="cpp.dev.iws" />
@@ -91,7 +38,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="ConsoleHistory">
-    <option name="state" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;model modelUID=&quot;r:930edfbe-147e-499c-9e86-479994fefec8(TempModel_7222971756617)&quot;&gt;&#10;  &lt;persistence version=&quot;8&quot; /&gt;&#10;  &lt;language namespace=&quot;de1ad86d-6e50-4a02-b306-d4d17f64c375(jetbrains.mps.console.base)&quot; /&gt;&#10;  &lt;language namespace=&quot;1a8554c4-eb84-43ba-8c34-6f0d90c6e75a(jetbrains.mps.console.blCommand)&quot; /&gt;&#10;  &lt;language namespace=&quot;a5e4de53-46a3-44da-aab3-68fdf1c34ed0(jetbrains.mps.console.ideCommands)&quot; /&gt;&#10;  &lt;language namespace=&quot;995a7394-7f76-4b8b-a929-c53448708106(jetbrains.mps.console.internalCommands)&quot; /&gt;&#10;  &lt;devkit namespace=&quot;fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)&quot; /&gt;&#10;  &lt;import index=&quot;eynw&quot; modelUID=&quot;r:359b1d2b-77c4-46df-9bf2-b25cbea32254(jetbrains.mps.console.base.structure)&quot; version=&quot;0&quot; implicit=&quot;yes&quot; /&gt;&#10;  &lt;root type=&quot;eynw.ConsoleRoot&quot; typeId=&quot;eynw.1583916890557930028&quot; id=&quot;8456210691460272088&quot; nodeInfo=&quot;ng&quot;&gt;&#10;    &lt;node role=&quot;history&quot; roleId=&quot;eynw.1583916890557930415&quot; type=&quot;eynw.History&quot; typeId=&quot;eynw.757553790980850366&quot; id=&quot;2451009910639385490&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;    &lt;node role=&quot;commandHolder&quot; roleId=&quot;eynw.1583916890557930417&quot; type=&quot;eynw.CommandHolder&quot; typeId=&quot;eynw.351968380916615243&quot; id=&quot;8456210691460272089&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;  &lt;/root&gt;&#10;&lt;/model&gt;&#10;&#10;" />
+    <option name="state" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;model modelUID=&quot;r:ed1b33f5-e6c3-4b0d-bc55-c58f98794559(TempModel_30056180098330)&quot;&gt;&#10;  &lt;persistence version=&quot;8&quot; /&gt;&#10;  &lt;language namespace=&quot;de1ad86d-6e50-4a02-b306-d4d17f64c375(jetbrains.mps.console.base)&quot; /&gt;&#10;  &lt;language namespace=&quot;f26691d2-0def-4c06-aec6-2cb90c4af0a4(jetbrains.mps.console.scripts)&quot; /&gt;&#10;  &lt;language namespace=&quot;1a8554c4-eb84-43ba-8c34-6f0d90c6e75a(jetbrains.mps.console.blCommand)&quot; /&gt;&#10;  &lt;language namespace=&quot;a5e4de53-46a3-44da-aab3-68fdf1c34ed0(jetbrains.mps.console.ideCommands)&quot; /&gt;&#10;  &lt;language namespace=&quot;995a7394-7f76-4b8b-a929-c53448708106(jetbrains.mps.console.internalCommands)&quot; /&gt;&#10;  &lt;devkit namespace=&quot;fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)&quot; /&gt;&#10;  &lt;import index=&quot;eynw&quot; modelUID=&quot;r:359b1d2b-77c4-46df-9bf2-b25cbea32254(jetbrains.mps.console.base.structure)&quot; version=&quot;1&quot; /&gt;&#10;  &lt;import index=&quot;z2sp&quot; modelUID=&quot;r:e712f353-5c3c-4288-adce-87c956a52ffb(jetbrains.mps.console.scripts.structure)&quot; version=&quot;0&quot; /&gt;&#10;  &lt;import index=&quot;3xdn&quot; modelUID=&quot;r:935ba0ee-7291-4caa-a807-d76e8fc69391(jetbrains.mps.console.blCommand.structure)&quot; version=&quot;3&quot; /&gt;&#10;  &lt;import index=&quot;caxt&quot; modelUID=&quot;r:135a606f-0376-4c5c-9ab8-4030f051a062(jetbrains.mps.console.ideCommands.structure)&quot; version=&quot;-1&quot; /&gt;&#10;  &lt;import index=&quot;wns9&quot; modelUID=&quot;r:90445206-a973-4c1d-b760-30e5c77b7497(jetbrains.mps.console.internalCommands.structure)&quot; version=&quot;-1&quot; /&gt;&#10;  &lt;root type=&quot;eynw.ConsoleRoot&quot; typeId=&quot;eynw.1583916890557930028&quot; id=&quot;5376984553043056227&quot; nodeInfo=&quot;ng&quot;&gt;&#10;    &lt;node role=&quot;history&quot; roleId=&quot;eynw.1583916890557930415&quot; type=&quot;eynw.History&quot; typeId=&quot;eynw.757553790980850366&quot; id=&quot;5376984553043056228&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;    &lt;node role=&quot;commandHolder&quot; roleId=&quot;eynw.1583916890557930417&quot; type=&quot;eynw.CommandHolder&quot; typeId=&quot;eynw.351968380916615243&quot; id=&quot;5376984553043056229&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;  &lt;/root&gt;&#10;&lt;/model&gt;&#10;&#10;" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -109,201 +56,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AdapterSample" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://test.ex.patterns.adapter/test.ex.patterns.adapter.test/AdapterSample">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="16">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="caretX" value="83" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:bb1cb73e-6ba7-44e8-95bb-637a5d711da8(test.ex.patterns.adapter.test)/8456210691478401777" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdapterDeclaration" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.structure/AdapterDeclaration">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretXRelative" value="-15" />
-                    <property name="caretX" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Collection_ueqr71_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:ef62f835-4857-4b42-bffc-3574cab39b3e(com.mbeddr.cpp.patterns.structure)/8456210691477819595" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:ef62f835-4857-4b42-bffc-3574cab39b3e(com.mbeddr.cpp.patterns.structure)/8456210691477819595" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdapterMethodDeclaration" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.structure/AdapterMethodDeclaration">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="569" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Error_nb4xc9_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d22c185e-b112-43b1-b218-ee6171435538(com.mbeddr.cpp.patterns.editor)/8456210691480675411" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:d22c185e-b112-43b1-b218-ee6171435538(com.mbeddr.cpp.patterns.editor)/8456210691478412344" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Function" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://com.mbeddr.core.modules/com.mbeddr.core.modules.structure/Function">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="caretX" value="79" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/7892328519581802674" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/6437088627575726844" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="methodSignature" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.editor/methodSignature">
+      <file leaf-file-name="Concept" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="caretX" value="711" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_text" cellNumber="0" isInList="false">
-                      <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/8456210691480703094" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodDeclaration" pinned="false" current="true" current-in-tab="true">
-        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/MethodDeclaration">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="40" />
-                    <property name="caretX" value="179" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_text" cellNumber="0" isInList="false">
-                      <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/4518568022543209044" />
-                    </cellInfo>
-                  </stackElement>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="selectionEnd" value="7" />
-                    <property name="hasNonTrivialSelection" value="true" />
-                    <property name="caretXRelative" value="40" />
-                    <property name="selectionStart" value="0" />
-                    <property name="caretX" value="179" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_text" cellNumber="0" isInList="false">
-                      <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/4518568022543209044" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/4157133445514975874" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FriendDeclaration" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/FriendDeclaration">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
                     <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="155" />
+                    <property name="caretX" value="315" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="TransactionalProperty_7v1nzk_b0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1940542844524686085" />
+                    <cellInfo cellNumber="4" isInList="false">
+                      <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
+                      <parent cellId="collection_1" cellNumber="0" isInList="false">
+                        <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
+                      </parent>
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -315,94 +83,6 @@
                 <folded />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1940542844524686085" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FriendFunctionDeclaration" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/FriendFunctionDeclaration">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="48" />
-                    <property name="caretX" value="683" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/3860690561157748349" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/6865752029449918205" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunctionSignature" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://com.mbeddr.core.modules/com.mbeddr.core.modules.structure/FunctionSignature">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="147" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/7892328519581768557" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/7892328519581768557" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CellModel_Component" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://jetbrains.mps.lang.editor/jetbrains.mps.lang.editor.structure/CellModel_Component">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="31" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_h1c0" cellNumber="0" isInList="false">
-                      <node node_reference="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1078939183254" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1078939183254" />
             </state>
           </provider>
         </entry>
@@ -446,10 +126,8 @@
     <option name="warnings" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="-3" />
-    <option name="width" value="1924" />
-    <option name="height" value="1172" />
+    <option name="width" value="1906" />
+    <option name="height" value="1165" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -621,7 +299,13 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -631,29 +315,11 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains">
+            <PATH_ELEMENT USER_OBJECT="languages">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -663,19 +329,15 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
+            <PATH_ELEMENT USER_OBJECT="languages">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lang">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -685,23 +347,19 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
+            <PATH_ELEMENT USER_OBJECT="languages">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lang">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains.mps.lang.editor">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.actions">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -711,27 +369,19 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
+            <PATH_ELEMENT USER_OBJECT="languages">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lang">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains.mps.lang.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains.mps.lang.editor.structure">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.structure">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -741,31 +391,23 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
+            <PATH_ELEMENT USER_OBJECT="languages">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lang">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.structure">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains.mps.lang.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains.mps.lang.editor.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CellModel">
+            <PATH_ELEMENT USER_OBJECT="namespace">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -775,11 +417,33 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
+            <PATH_ELEMENT USER_OBJECT="languages">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="HelloLanguage">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="languages">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.pluginSolution">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -787,555 +451,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="functions">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.modules.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="functions">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.buildconfig">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.buildconfig">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.buildconfig.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Modules Pool">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="core">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.buildconfig">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.core.buildconfig.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="binary">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="tests">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="tests">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test.ex.patterns.adapter">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test.ex.patterns.adapter.test">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.patterns">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.patterns">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.patterns.intentions">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.patterns">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.patterns.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Adapter">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.patterns">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.patterns.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Adapter">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="methods">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes.editor">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="friend">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.classes.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="methods">
+            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.pluginSolution.plugin">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -1350,8 +466,8 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cpp.dev.mpr" />
+    <property name="options.lastSelected" value="jetbrains.mps.library.ProjectLibraryManager" />
+    <property name="last_opened_file_path" value="$USER_HOME$/MPSProjects/Project1" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -1371,7 +487,7 @@
           <option name="myTestMethods">
             <list />
           </option>
-          <option name="myRunType" />
+          <option name="myRunType" value="PROJECT" />
         </MyState>
       </myJUnitSettings>
       <myJavaRunParameters>
@@ -1445,51 +561,51 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="-3" width="1924" height="1172" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1906" height="1165" extended-state="4" />
+    <editor active="false" />
     <layout>
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33115062" sideWeight="0.6004217" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.49973586" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Switch Verification Tool" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="State Machine Verification (NuSMV)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="mbeddr Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.5002636" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="mbeddr Analyze Error Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Feature Model Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32802248" sideWeight="0.39957827" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32540438" sideWeight="0.5871985" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22403796" sideWeight="0.6679353" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3530037" sideWeight="0.6679353" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24828677" sideWeight="0.6736441" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3320647" sideWeight="0.6004217" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Decision Table Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Verification (CBMC)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3320647" sideWeight="0.39957827" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Switch Verification Tool" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="State Machine Verification (NuSMV)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="mbeddr Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="mbeddr Analyze Error Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Feature Model Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Decision Table Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Verification (CBMC)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1501,79 +617,25 @@
       <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
     </default_view_options>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.constraints/AdapterMethodDeclarationMaker">
+    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="96" />
-                <property name="caretX" value="511" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:f439d4f0-8d32-4d88-a909-baa3b469572e(com.mbeddr.cpp.patterns.constraints)/8456210691478539472" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+            <selectionStack />
             <folded />
             <enabledHints />
           </memento>
@@ -1585,48 +647,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/DestructorDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_linkDeclaration" cellNumber="0" isInList="false">
-                  <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/2015268598019146107" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/2015268598019146107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://test.ex.patterns.adapter/test.ex.patterns.adapter.test/BuildConfiguration (t.e.p.a.test)">
+    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="8" />
-                <property name="caretX" value="71" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:bb1cb73e-6ba7-44e8-95bb-637a5d711da8(test.ex.patterns.adapter.test)/8456210691478375808" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+            <selectionStack />
             <folded />
             <enabledHints />
           </memento>
@@ -1638,7 +663,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://com.mbeddr.cpp.cext/com.mbeddr.cpp.cext.intentions/ConfigureBuildConfigForDesktopCpp">
+    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
@@ -1646,10 +703,13 @@
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
                 <property name="caretXRelative" value="0" />
-                <property name="caretX" value="47" />
+                <property name="caretX" value="315" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:ab2eb74f-bdf7-4f08-839c-11455dff83d4(com.mbeddr.cpp.cext.intentions)/8456210691477939324" />
+                <cellInfo cellNumber="4" isInList="false">
+                  <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
+                  <parent cellId="collection_1" cellNumber="0" isInList="false">
+                    <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
+                  </parent>
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1661,335 +721,6 @@
             <folded />
             <enabledHints />
           </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.behavior/ICppMemberVisibilityStrategy">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretXRelative" value="-31" />
-                <property name="caretX" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_359zr8_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/7295737679350470775" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.intentions/TuneAdapter">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="102" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="71" />
-                <property name="caretX" value="541" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_role" cellNumber="0" isInList="false">
-                  <node node_reference="r:6f892fef-7edc-4cd1-8e3f-8371ea589f1e(com.mbeddr.cpp.patterns.intentions)/8456210691480635313" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://test.ex.patterns.adapter/test.ex.patterns.adapter.test/AdapterSample">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="16">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="8" />
-                <property name="caretX" value="83" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:bb1cb73e-6ba7-44e8-95bb-637a5d711da8(test.ex.patterns.adapter.test)/8456210691478401777" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.structure/AdapterDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretXRelative" value="-15" />
-                <property name="caretX" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_ueqr71_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:ef62f835-4857-4b42-bffc-3574cab39b3e(com.mbeddr.cpp.patterns.structure)/8456210691477819595" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:ef62f835-4857-4b42-bffc-3574cab39b3e(com.mbeddr.cpp.patterns.structure)/8456210691477819595" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/FriendDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="155" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="TransactionalProperty_7v1nzk_b0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1940542844524686085" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1940542844524686085" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://jetbrains.mps.lang.editor/jetbrains.mps.lang.editor.structure/CellModel_Component">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_h1c0" cellNumber="0" isInList="false">
-                  <node node_reference="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1078939183254" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1078939183254" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/FriendFunctionDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="48" />
-                <property name="caretX" value="683" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/3860690561157748349" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/6865752029449918205" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.core.modules/com.mbeddr.core.modules.structure/FunctionSignature">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="147" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/7892328519581768557" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/7892328519581768557" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.structure/AdapterMethodDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="569" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Error_nb4xc9_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:d22c185e-b112-43b1-b218-ee6171435538(com.mbeddr.cpp.patterns.editor)/8456210691480675411" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:d22c185e-b112-43b1-b218-ee6171435538(com.mbeddr.cpp.patterns.editor)/8456210691478412344" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.core.modules/com.mbeddr.core.modules.structure/Function">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="8" />
-                <property name="caretX" value="79" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/7892328519581802674" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:890ea833-37c9-445e-a04d-3b69ce24aa30(com.mbeddr.core.modules.editor)/6437088627575726844" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.editor/methodSignature">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="8" />
-                <property name="caretX" value="711" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_text" cellNumber="0" isInList="false">
-                  <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/8456210691480703094" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/MethodDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="40" />
-                <property name="caretX" value="179" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_text" cellNumber="0" isInList="false">
-                  <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/4518568022543209044" />
-                </cellInfo>
-              </stackElement>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="selectionEnd" value="7" />
-                <property name="hasNonTrivialSelection" value="true" />
-                <property name="caretXRelative" value="40" />
-                <property name="selectionStart" value="0" />
-                <property name="caretX" value="179" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_text" cellNumber="0" isInList="false">
-                  <node node_reference="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/4518568022543209044" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:cd4fb032-98df-4fda-b33a-4b2c218e38f5(com.mbeddr.cpp.classes.editor)/4157133445514975874" />
         </state>
       </provider>
     </entry>
