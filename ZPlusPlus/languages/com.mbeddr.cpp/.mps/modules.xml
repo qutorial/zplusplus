@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/devkits/com.mbeddr.cpp/cpp.devkit" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/languages/HelloLanguage/HelloLanguage.mpl" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/cext.mpl" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/classes.mpl" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.mpl" folder="languages" />
+      <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.overloading/test.ex.cpp.overloading.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/solutions/test.ex.patterns.adapter/test.ex.patterns.adapter.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/tests/new/test.ex.cpp.gen.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/tests/test.ex.cpp.basics/basics.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/tests/test.ex.cpp.screenshots.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/tests/test.ex.cpp.templates/templates.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/tests/test.ex.cpp.vector/test.ex.cpp.vector.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/tests/test.ts.cpp.basics/basics.msd" folder="tests" />
+      <modulePath path="$PROJECT_DIR$/../devkits/com.mbeddr.cpp.patternskit/com.mbeddr.cpp.patternskit.devkit" folder="languages" />
+    </projectModules>
+  </component>
+</project>
+

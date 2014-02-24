@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="test.ex.cpp.screenshots.main.Makefile" file="Makefile" />
+  <dependency className="test.ex.cpp.screenshots.main.PointerCastPureVirtuals" file="PointerCastPureVirtuals.cpp" />
+  <dependency className="test.ex.cpp.screenshots.main.PointerCastPureVirtuals" file="PointerCastPureVirtuals.h" />
+  <dependency className="test.ex.cpp.screenshots.main.main" file="main.cpp" />
+  <dependency className="test.ex.cpp.screenshots.main.main" file="main.h" />
+</dependenciesRoot>
+

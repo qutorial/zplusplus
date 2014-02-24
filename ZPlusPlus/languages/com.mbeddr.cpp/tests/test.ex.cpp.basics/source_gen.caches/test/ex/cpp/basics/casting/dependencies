@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="test.ex.cpp.basics.casting.Makefile" file="Makefile" />
+</dependenciesRoot>
+

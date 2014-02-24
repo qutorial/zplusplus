@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-3dnfg6nm7o8gr1z6rhpu2ogyw19e2wb">
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:23911370-3645-4974-be70-79d5cfba7db1(jetbrains.mps.baseLanguage.jdk7.generator.template.main@generator)" />
+  <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" hash="-841l8gbe0zol1bn1merrwlaos7zkp2l" />
+  <dep model="r:9488318d-ce46-4320-b4e7-2566a511c366(com.mbeddr.core.modules.gen.structure)" hash="cluwcc0uz029qrqovsc68wf4csu4r25" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  <dep model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" hash="-66zv2plt5x0aecwyr0bp68oci4l2fz4" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" hash="6dhuozmt8s3f91lbhb1z7jnjqvv95u" />
+  <common hash="-d2ax854k1ftl2r6n8901gbp45ilqihy" dependsOnNodes="true">
+    <dep root="2017510268494169512" />
+    <dep root="2017510268494169519" />
+    <dep root="3465358579054571911" />
+    <dep root="3710575327008809827" />
+    <dep root="3710575327008942876" />
+    <dep root="3947421596133941821" />
+    <dep root="3947421596134069236" />
+    <dep root="3947421596134495128" />
+    <dep root="3947421596134495242" />
+    <dep root="3947421596134505499" />
+    <dep root="3947421596134505506" />
+    <dep root="4315577761883429916" />
+    <dep root="4315577761883429922" />
+    <dep root="4387763778170601606" />
+    <dep root="610576951245967257" />
+    <dep root="7024921229555594291" />
+    <dep root="8456210691474213609" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:23911370-3645-4974-be70-79d5cfba7db1(jetbrains.mps.baseLanguage.jdk7.generator.template.main@generator)" />
+    <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" />
+    <dep model="r:9488318d-ce46-4320-b4e7-2566a511c366(com.mbeddr.core.modules.gen.structure)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" />
+    <file name="StructureAspectDescriptor.java" />
+  </common>
+  <source id="610576951245967257" name="ReferenceType" hash="-a8cbf824a637vwf8wftmjqh2175zxja">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="4387763778170601606" name="CppImplementationModule" hash="-ceoh910us6s4tw2yomxf3jwh25sxv1n">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3465358579054571911" name="IRequiresCPPModule" hash="al5kvw0rvslr58abmvi7ea5rf2psexx">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="2017510268494169512" name="Namespace" hash="-83my0j7r5f0o6oo9w9xhenn0ly6qp8">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="2017510268494169519" name="INamespaceProvider" hash="-9c8ojnab5qt0u5mn06ci72e8jewzrw4">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="4315577761883429916" name="NamespaceResolutionOperator" hash="-2fkmo19qurw0fnxixuo2h09tlie8akl">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="4315577761883429922" name="IReferencableByNamespaceResolutionOperator" hash="-8wtzb8okgpypm3ow229gpi99mzbvlzr">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="7024921229555594291" name="ICppIdentifierNamedConcept" hash="5uloqetyme5bua9koi8x5bszo3dibdq">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3710575327008809827" name="INamespaceProviderReference" hash="8m9wth3x5icflpf8aaser54ihfgxvow">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3710575327008942876" name="NamespaceResolutionReference" hash="3h0a4cw53v3h6ykqp3uyog7l6sbg5tk">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3947421596133941821" name="NamespaceScopeExpr" hash="-ekhuesa7l4b65n2f1z8vp6zw604n5sy">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3947421596134069236" name="NamespaceRefExpr" hash="-1e1eri6ssy8qpfhwucg5i5f0xjpglf9">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3947421596134495128" name="INestedNamespaceRef" hash="2gd2g48crvww6jz7zplfkja4taiyonb">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3947421596134495242" name="INamespaceScoper" hash="5qvzu505ehme9kzrubwmw4nmf3keb8j">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3947421596134505499" name="NamespaceType" hash="-8u8c9vnu4xt1zc6igsrf0yf5vv52k41">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="3947421596134505506" name="NamespaceScopeType" hash="-ce88br5673yo1gg6gomtpel7oino05j">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="8456210691474213609" name="CppStandardHeaderImport" hash="-5t2rco4xqexap7crslogrwn9jeldpr0">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+</dependencies>
+

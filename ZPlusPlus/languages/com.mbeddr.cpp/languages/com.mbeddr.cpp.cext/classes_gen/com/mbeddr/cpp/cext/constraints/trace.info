@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="47" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.ConstraintsAspectDescriptor" />
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/2017510268494225302">
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="15" startPosition="43" endLine="16" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="20" startPosition="82" endLine="21" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="24" startPosition="40" endLine="25" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="29" startPosition="84" endLine="30" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2017510268494242128" fileName="INamespaceProvider_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="33" startPosition="7" endLine="34" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="INamespaceProvider_Constraints#()V" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnValidator#()Z" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="28" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;Ljetbrains/mps/smodel/IScope;)Z" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="21" startPosition="74" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="19" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultProperties#()Ljava/util/Map;" />
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="15" startPosition="43" endLine="16" endPosition="62" />
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="24" startPosition="40" endLine="25" endPosition="20" />
+    <scopeInfo nodeId="2017510268494242127" fileName="INamespaceProvider_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="91" />
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="29" startPosition="84" endLine="31" endPosition="91">
+      <varInfo nodeId="2017510268494225302" varName="propertyName" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="15" startPosition="0" endLine="18" endPosition="0" />
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="28" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="2017510268494225302" varName="node" />
+      <varInfo nodeId="2017510268494225302" varName="propertyValue" />
+      <varInfo nodeId="2017510268494225302" varName="scope" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="20" startPosition="82" endLine="34" endPosition="22">
+      <varInfo nodeId="2017510268494225302" varName="properties" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="19" startPosition="0" endLine="36" endPosition="0" />
+    <unitInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="22" startPosition="31" endLine="33" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.INamespaceProvider_Constraints$1" />
+    <unitInfo nodeId="2017510268494225302" fileName="INamespaceProvider_Constraints.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.INamespaceProvider_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/2017510268494225305">
+    <nodeInfo nodeId="2017510268494228209" fileName="CppNamingHelper.java" startLine="15" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="CppReservedKeywords" />
+    <nodeInfo nodeId="2017510268494229423" fileName="CppNamingHelper.java" startLine="16" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="CppOnlyKeywords" />
+    <nodeInfo nodeId="2017510268494227570" fileName="CppNamingHelper.java" startLine="18" startPosition="60" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227572" fileName="CppNamingHelper.java" startLine="19" startPosition="0" endLine="20" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2017510268494227649" fileName="CppNamingHelper.java" startLine="20" startPosition="84" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227684" fileName="CppNamingHelper.java" startLine="21" startPosition="0" endLine="22" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227690" fileName="CppNamingHelper.java" startLine="22" startPosition="65" endLine="23" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227696" fileName="CppNamingHelper.java" startLine="23" startPosition="65" endLine="24" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227702" fileName="CppNamingHelper.java" startLine="24" startPosition="61" endLine="25" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227708" fileName="CppNamingHelper.java" startLine="25" startPosition="64" endLine="26" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227714" fileName="CppNamingHelper.java" startLine="26" startPosition="61" endLine="27" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227744" fileName="CppNamingHelper.java" startLine="27" startPosition="62" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227720" fileName="CppNamingHelper.java" startLine="28" startPosition="0" endLine="29" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227726" fileName="CppNamingHelper.java" startLine="29" startPosition="64" endLine="30" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227732" fileName="CppNamingHelper.java" startLine="30" startPosition="63" endLine="31" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227738" fileName="CppNamingHelper.java" startLine="31" startPosition="62" endLine="32" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227745" fileName="CppNamingHelper.java" startLine="32" startPosition="63" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227653" fileName="CppNamingHelper.java" startLine="33" startPosition="0" endLine="34" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227748" fileName="CppNamingHelper.java" startLine="34" startPosition="62" endLine="35" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227754" fileName="CppNamingHelper.java" startLine="35" startPosition="63" endLine="36" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227760" fileName="CppNamingHelper.java" startLine="36" startPosition="62" endLine="37" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227766" fileName="CppNamingHelper.java" startLine="37" startPosition="66" endLine="38" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227543" fileName="CppNamingHelper.java" startLine="38" startPosition="66" endLine="39" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227773" fileName="CppNamingHelper.java" startLine="39" startPosition="63" endLine="40" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227779" fileName="CppNamingHelper.java" startLine="40" startPosition="63" endLine="41" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227785" fileName="CppNamingHelper.java" startLine="41" startPosition="63" endLine="42" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227791" fileName="CppNamingHelper.java" startLine="42" startPosition="67" endLine="43" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227797" fileName="CppNamingHelper.java" startLine="43" startPosition="68" endLine="44" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227808" fileName="CppNamingHelper.java" startLine="44" startPosition="66" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227803" fileName="CppNamingHelper.java" startLine="45" startPosition="0" endLine="46" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227810" fileName="CppNamingHelper.java" startLine="46" startPosition="66" endLine="47" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227816" fileName="CppNamingHelper.java" startLine="47" startPosition="65" endLine="48" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227822" fileName="CppNamingHelper.java" startLine="48" startPosition="64" endLine="49" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227828" fileName="CppNamingHelper.java" startLine="49" startPosition="60" endLine="50" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227834" fileName="CppNamingHelper.java" startLine="50" startPosition="64" endLine="51" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227845" fileName="CppNamingHelper.java" startLine="51" startPosition="70" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227840" fileName="CppNamingHelper.java" startLine="52" startPosition="0" endLine="53" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227847" fileName="CppNamingHelper.java" startLine="53" startPosition="62" endLine="54" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227853" fileName="CppNamingHelper.java" startLine="54" startPosition="62" endLine="55" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227859" fileName="CppNamingHelper.java" startLine="55" startPosition="66" endLine="56" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227865" fileName="CppNamingHelper.java" startLine="56" startPosition="64" endLine="57" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227876" fileName="CppNamingHelper.java" startLine="57" startPosition="64" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227871" fileName="CppNamingHelper.java" startLine="58" startPosition="0" endLine="59" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227878" fileName="CppNamingHelper.java" startLine="59" startPosition="63" endLine="60" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227884" fileName="CppNamingHelper.java" startLine="60" startPosition="63" endLine="61" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227890" fileName="CppNamingHelper.java" startLine="61" startPosition="61" endLine="62" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227907" fileName="CppNamingHelper.java" startLine="62" startPosition="64" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227896" fileName="CppNamingHelper.java" startLine="63" startPosition="0" endLine="64" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227908" fileName="CppNamingHelper.java" startLine="64" startPosition="62" endLine="65" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227902" fileName="CppNamingHelper.java" startLine="65" startPosition="0" endLine="66" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227910" fileName="CppNamingHelper.java" startLine="66" startPosition="60" endLine="67" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227916" fileName="CppNamingHelper.java" startLine="67" startPosition="64" endLine="68" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227921" fileName="CppNamingHelper.java" startLine="68" startPosition="61" endLine="69" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227923" fileName="CppNamingHelper.java" startLine="69" startPosition="0" endLine="70" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227934" fileName="CppNamingHelper.java" startLine="70" startPosition="62" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227929" fileName="CppNamingHelper.java" startLine="71" startPosition="0" endLine="72" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227941" fileName="CppNamingHelper.java" startLine="72" startPosition="65" endLine="73" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227936" fileName="CppNamingHelper.java" startLine="73" startPosition="0" endLine="74" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227935" fileName="CppNamingHelper.java" startLine="74" startPosition="67" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227943" fileName="CppNamingHelper.java" startLine="75" startPosition="0" endLine="76" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227949" fileName="CppNamingHelper.java" startLine="76" startPosition="61" endLine="77" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227956" fileName="CppNamingHelper.java" startLine="77" startPosition="66" endLine="78" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227962" fileName="CppNamingHelper.java" startLine="78" startPosition="61" endLine="79" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227969" fileName="CppNamingHelper.java" startLine="79" startPosition="64" endLine="80" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227987" fileName="CppNamingHelper.java" startLine="80" startPosition="65" endLine="81" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227982" fileName="CppNamingHelper.java" startLine="81" startPosition="0" endLine="82" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227989" fileName="CppNamingHelper.java" startLine="82" startPosition="66" endLine="83" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227995" fileName="CppNamingHelper.java" startLine="83" startPosition="60" endLine="84" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228000" fileName="CppNamingHelper.java" startLine="84" startPosition="63" endLine="85" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228002" fileName="CppNamingHelper.java" startLine="85" startPosition="0" endLine="86" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228008" fileName="CppNamingHelper.java" startLine="86" startPosition="65" endLine="87" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228014" fileName="CppNamingHelper.java" startLine="87" startPosition="67" endLine="88" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228019" fileName="CppNamingHelper.java" startLine="88" startPosition="64" endLine="89" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228021" fileName="CppNamingHelper.java" startLine="89" startPosition="0" endLine="90" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228027" fileName="CppNamingHelper.java" startLine="90" startPosition="66" endLine="91" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228033" fileName="CppNamingHelper.java" startLine="91" startPosition="74" endLine="92" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228038" fileName="CppNamingHelper.java" startLine="92" startPosition="64" endLine="93" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228040" fileName="CppNamingHelper.java" startLine="93" startPosition="0" endLine="94" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228046" fileName="CppNamingHelper.java" startLine="94" startPosition="63" endLine="95" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228052" fileName="CppNamingHelper.java" startLine="95" startPosition="64" endLine="96" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228058" fileName="CppNamingHelper.java" startLine="96" startPosition="64" endLine="97" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228064" fileName="CppNamingHelper.java" startLine="97" startPosition="64" endLine="98" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228070" fileName="CppNamingHelper.java" startLine="98" startPosition="71" endLine="99" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228077" fileName="CppNamingHelper.java" startLine="99" startPosition="69" endLine="100" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228084" fileName="CppNamingHelper.java" startLine="100" startPosition="64" endLine="101" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228096" fileName="CppNamingHelper.java" startLine="101" startPosition="64" endLine="102" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228091" fileName="CppNamingHelper.java" startLine="102" startPosition="0" endLine="103" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228098" fileName="CppNamingHelper.java" startLine="103" startPosition="66" endLine="104" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228104" fileName="CppNamingHelper.java" startLine="104" startPosition="62" endLine="105" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228110" fileName="CppNamingHelper.java" startLine="105" startPosition="70" endLine="106" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228116" fileName="CppNamingHelper.java" startLine="106" startPosition="63" endLine="107" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228122" fileName="CppNamingHelper.java" startLine="107" startPosition="62" endLine="108" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228128" fileName="CppNamingHelper.java" startLine="108" startPosition="61" endLine="109" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228134" fileName="CppNamingHelper.java" startLine="109" startPosition="65" endLine="110" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228146" fileName="CppNamingHelper.java" startLine="110" startPosition="64" endLine="111" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228139" fileName="CppNamingHelper.java" startLine="111" startPosition="66" endLine="112" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228141" fileName="CppNamingHelper.java" startLine="112" startPosition="0" endLine="113" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228152" fileName="CppNamingHelper.java" startLine="113" startPosition="63" endLine="114" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228158" fileName="CppNamingHelper.java" startLine="114" startPosition="66" endLine="115" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228163" fileName="CppNamingHelper.java" startLine="115" startPosition="63" endLine="116" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228165" fileName="CppNamingHelper.java" startLine="116" startPosition="0" endLine="117" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228171" fileName="CppNamingHelper.java" startLine="117" startPosition="65" endLine="118" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228177" fileName="CppNamingHelper.java" startLine="118" startPosition="62" endLine="119" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228182" fileName="CppNamingHelper.java" startLine="119" startPosition="66" endLine="120" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228184" fileName="CppNamingHelper.java" startLine="120" startPosition="0" endLine="121" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228190" fileName="CppNamingHelper.java" startLine="121" startPosition="65" endLine="122" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228195" fileName="CppNamingHelper.java" startLine="122" startPosition="63" endLine="123" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494228197" fileName="CppNamingHelper.java" startLine="123" startPosition="0" endLine="124" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494228203" fileName="CppNamingHelper.java" startLine="124" startPosition="61" endLine="125" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494227518" fileName="CppNamingHelper.java" startLine="125" startPosition="64" endLine="126" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494227210" fileName="CppNamingHelper.java" startLine="126" startPosition="0" endLine="127" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494229420" fileName="CppNamingHelper.java" startLine="132" startPosition="47" endLine="133" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494240568" fileName="CppNamingHelper.java" startLine="135" startPosition="64" endLine="136" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494240572" fileName="CppNamingHelper.java" startLine="137" startPosition="7" endLine="138" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5706473467948754890" fileName="CppNamingHelper.java" startLine="139" startPosition="12" endLine="140" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494229375" fileName="CppNamingHelper.java" startLine="141" startPosition="5" endLine="142" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494229387" fileName="CppNamingHelper.java" startLine="145" startPosition="51" endLine="146" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494229434" fileName="CppNamingHelper.java" startLine="149" startPosition="10" endLine="150" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494240506" fileName="CppNamingHelper.java" startLine="150" startPosition="69" endLine="151" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494229458" fileName="CppNamingHelper.java" startLine="151" startPosition="106" endLine="152" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494229462" fileName="CppNamingHelper.java" startLine="152" startPosition="0" endLine="153" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494229488" fileName="CppNamingHelper.java" startLine="153" startPosition="65" endLine="154" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2017510268494229526" fileName="CppNamingHelper.java" startLine="156" startPosition="49" endLine="157" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+    <nodeInfo nodeId="2017510268494229528" fileName="CppNamingHelper.java" startLine="158" startPosition="7" endLine="159" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5706473467948754888" fileName="CppNamingHelper.java" startLine="139" startPosition="10" endLine="141" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2017510268494229417" fileName="CppNamingHelper.java" startLine="131" startPosition="58" endLine="134" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2017510268494240536" fileName="CppNamingHelper.java" startLine="134" startPosition="7" endLine="137" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2017510268494229378" fileName="CppNamingHelper.java" startLine="145" startPosition="0" endLine="148" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="isCppKeyWord#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="2017510268494229520" fileName="CppNamingHelper.java" startLine="155" startPosition="47" endLine="158" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2017510268494229515" fileName="CppNamingHelper.java" startLine="154" startPosition="0" endLine="160" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="5706473467948754883" fileName="CppNamingHelper.java" startLine="130" startPosition="50" endLine="141" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2017510268494229368" fileName="CppNamingHelper.java" startLine="130" startPosition="0" endLine="144" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="isNameValid#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="2017510268494225307" fileName="CppNamingHelper.java" startLine="18" startPosition="0" endLine="129" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getCppReservedKeywords#()Ljava/lang/Iterable;" />
+    <scopeInfo nodeId="2017510268494229419" fileName="CppNamingHelper.java" startLine="132" startPosition="47" endLine="133" endPosition="21" />
+    <scopeInfo nodeId="2017510268494240537" fileName="CppNamingHelper.java" startLine="135" startPosition="64" endLine="136" endPosition="21" />
+    <scopeInfo nodeId="5706473467948754889" fileName="CppNamingHelper.java" startLine="139" startPosition="12" endLine="140" endPosition="19" />
+    <scopeInfo nodeId="2017510268494229381" fileName="CppNamingHelper.java" startLine="145" startPosition="51" endLine="146" endPosition="67" />
+    <scopeInfo nodeId="2017510268494229522" fileName="CppNamingHelper.java" startLine="156" startPosition="49" endLine="157" endPosition="17" />
+    <scopeInfo nodeId="2017510268494229378" fileName="CppNamingHelper.java" startLine="145" startPosition="0" endLine="148" endPosition="0">
+      <varInfo nodeId="2017510268494229385" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494229516" fileName="CppNamingHelper.java" startLine="155" startPosition="47" endLine="159" endPosition="62" />
+    <scopeInfo nodeId="2017510268494229515" fileName="CppNamingHelper.java" startLine="154" startPosition="0" endLine="160" endPosition="5">
+      <varInfo nodeId="2017510268494229517" varName="string" />
+    </scopeInfo>
+    <scopeInfo nodeId="5706473467948754884" fileName="CppNamingHelper.java" startLine="131" startPosition="58" endLine="138" endPosition="18" />
+    <scopeInfo nodeId="2017510268494229430" fileName="CppNamingHelper.java" startLine="149" startPosition="10" endLine="160" endPosition="5" />
+    <scopeInfo nodeId="2017510268494229371" fileName="CppNamingHelper.java" startLine="130" startPosition="50" endLine="142" endPosition="0" />
+    <scopeInfo nodeId="2017510268494229368" fileName="CppNamingHelper.java" startLine="130" startPosition="0" endLine="144" endPosition="0">
+      <varInfo nodeId="2017510268494229373" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494225310" fileName="CppNamingHelper.java" startLine="18" startPosition="60" endLine="127" endPosition="15">
+      <varInfo nodeId="2017510268494227573" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494225307" fileName="CppNamingHelper.java" startLine="18" startPosition="0" endLine="129" endPosition="0" />
+    <unitInfo nodeId="2017510268494225305" fileName="CppNamingHelper.java" startLine="14" startPosition="0" endLine="163" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.CppNamingHelper" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/2017510268494241300">
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="16" startPosition="34" endLine="17" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="21" startPosition="82" endLine="22" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="25" startPosition="37" endLine="26" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="30" startPosition="56" endLine="31" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="31" startPosition="49" endLine="32" endPosition="141" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2533033302498655211" fileName="Namespace_Constraints.java" startLine="31" startPosition="49" endLine="32" endPosition="141" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="37" startPosition="37" endLine="38" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="42" startPosition="56" endLine="43" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2270314131292730493" fileName="Namespace_Constraints.java" startLine="44" startPosition="64" endLine="45" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2270314131292730497" fileName="Namespace_Constraints.java" startLine="46" startPosition="9" endLine="47" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="51" startPosition="40" endLine="52" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="56" startPosition="84" endLine="57" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2017510268494241334" fileName="Namespace_Constraints.java" startLine="58" startPosition="64" endLine="59" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241339" fileName="Namespace_Constraints.java" startLine="60" startPosition="9" endLine="61" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="63" startPosition="7" endLine="64" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="16" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Namespace_Constraints#()V" />
+    <nodeInfo nodeId="2270314131292698934" fileName="Namespace_Constraints.java" startLine="43" startPosition="37" endLine="46" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2017510268494241304" fileName="Namespace_Constraints.java" startLine="57" startPosition="37" endLine="60" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnGetter#()Z" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnGetter#()Z" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="43" startPosition="37" endLine="47" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="50" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnValidator#()Z" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="57" startPosition="37" endLine="61" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="29" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IScope;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="41" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IScope;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="55" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;Ljetbrains/mps/smodel/IScope;)Z" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="22" startPosition="74" endLine="34" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="34" startPosition="7" endLine="63" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="20" startPosition="0" endLine="66" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultProperties#()Ljava/util/Map;" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="16" startPosition="34" endLine="17" endPosition="53" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="25" startPosition="37" endLine="26" endPosition="20" />
+    <scopeInfo nodeId="2533033302498655210" fileName="Namespace_Constraints.java" startLine="31" startPosition="49" endLine="32" endPosition="141" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="37" startPosition="37" endLine="38" endPosition="20" />
+    <scopeInfo nodeId="2270314131292698936" fileName="Namespace_Constraints.java" startLine="44" startPosition="64" endLine="45" endPosition="31" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="51" startPosition="40" endLine="52" endPosition="20" />
+    <scopeInfo nodeId="2017510268494241306" fileName="Namespace_Constraints.java" startLine="58" startPosition="64" endLine="59" endPosition="22" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="30" startPosition="56" endLine="32" endPosition="141">
+      <varInfo nodeId="2017510268494241300" varName="propertyName" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="16" startPosition="0" endLine="19" endPosition="0" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="2270314131292698933" fileName="Namespace_Constraints.java" startLine="43" startPosition="37" endLine="47" endPosition="59" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="50" startPosition="0" endLine="54" endPosition="0" />
+    <scopeInfo nodeId="2017510268494241303" fileName="Namespace_Constraints.java" startLine="57" startPosition="37" endLine="61" endPosition="91" />
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="29" startPosition="0" endLine="34" endPosition="0">
+      <varInfo nodeId="2017510268494241300" varName="node" />
+      <varInfo nodeId="2017510268494241300" varName="scope" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="42" startPosition="56" endLine="47" endPosition="59">
+      <varInfo nodeId="2017510268494241300" varName="propertyName" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="56" startPosition="84" endLine="61" endPosition="91">
+      <varInfo nodeId="2017510268494241300" varName="propertyName" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="41" startPosition="0" endLine="49" endPosition="0">
+      <varInfo nodeId="2017510268494241300" varName="node" />
+      <varInfo nodeId="2017510268494241300" varName="scope" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="55" startPosition="0" endLine="63" endPosition="0">
+      <varInfo nodeId="2017510268494241300" varName="node" />
+      <varInfo nodeId="2017510268494241300" varName="propertyValue" />
+      <varInfo nodeId="2017510268494241300" varName="scope" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="21" startPosition="82" endLine="64" endPosition="22">
+      <varInfo nodeId="2017510268494241300" varName="properties" />
+    </scopeInfo>
+    <scopeInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="20" startPosition="0" endLine="66" endPosition="0" />
+    <unitInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="23" startPosition="43" endLine="34" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.Namespace_Constraints$1" />
+    <unitInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="35" startPosition="31" endLine="63" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.Namespace_Constraints$2" />
+    <unitInfo nodeId="2017510268494241300" fileName="Namespace_Constraints.java" startLine="15" startPosition="0" endLine="67" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.Namespace_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/2533033302498584976">
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="26" startPosition="41" endLine="27" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="31" startPosition="83" endLine="32" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="35" startPosition="44" endLine="36" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498584992" fileName="NamespaceRefExpr_Constraints.java" startLine="47" startPosition="49" endLine="48" endPosition="110" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585010" fileName="NamespaceRefExpr_Constraints.java" startLine="53" startPosition="49" endLine="54" endPosition="110" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="61" startPosition="63" endLine="62" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="66" startPosition="7" endLine="67" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="70" startPosition="0" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_b3ihia_a0a1a0a0a1a0b0a1a1" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="26" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="NamespaceRefExpr_Constraints#()V" />
+    <nodeInfo nodeId="2533033302498584992" fileName="NamespaceRefExpr_Constraints.java" startLine="47" startPosition="0" endLine="50" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+    <nodeInfo nodeId="2533033302498585010" fileName="NamespaceRefExpr_Constraints.java" startLine="53" startPosition="0" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="60" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+    <nodeInfo nodeId="2533033302498584982" fileName="NamespaceRefExpr_Constraints.java" startLine="45" startPosition="147" endLine="50" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498584999" fileName="NamespaceRefExpr_Constraints.java" startLine="51" startPosition="20" endLine="56" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498584997" fileName="NamespaceRefExpr_Constraints.java" startLine="51" startPosition="18" endLine="57" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2533033302498584980" fileName="NamespaceRefExpr_Constraints.java" startLine="44" startPosition="142" endLine="57" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="43" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="41" startPosition="56" endLine="64" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="39" startPosition="0" endLine="66" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="32" startPosition="75" endLine="66" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="30" startPosition="0" endLine="69" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultReferences#()Ljava/util/Map;" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="26" startPosition="41" endLine="27" endPosition="60" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="35" startPosition="44" endLine="36" endPosition="20" />
+    <scopeInfo nodeId="2533033302498584992" fileName="NamespaceRefExpr_Constraints.java" startLine="47" startPosition="49" endLine="48" endPosition="110" />
+    <scopeInfo nodeId="2533033302498585010" fileName="NamespaceRefExpr_Constraints.java" startLine="53" startPosition="49" endLine="54" endPosition="110" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="61" startPosition="63" endLine="62" endPosition="58" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="26" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="2533033302498584992" fileName="NamespaceRefExpr_Constraints.java" startLine="47" startPosition="0" endLine="50" endPosition="0">
+      <varInfo nodeId="2533033302498584992" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585010" fileName="NamespaceRefExpr_Constraints.java" startLine="53" startPosition="0" endLine="56" endPosition="0">
+      <varInfo nodeId="2533033302498585010" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="60" startPosition="0" endLine="64" endPosition="0" />
+    <scopeInfo nodeId="2533033302498584981" fileName="NamespaceRefExpr_Constraints.java" startLine="45" startPosition="147" endLine="50" endPosition="17" />
+    <scopeInfo nodeId="2533033302498584998" fileName="NamespaceRefExpr_Constraints.java" startLine="51" startPosition="20" endLine="56" endPosition="17" />
+    <scopeInfo nodeId="2533033302498584979" fileName="NamespaceRefExpr_Constraints.java" startLine="44" startPosition="142" endLine="57" endPosition="13" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="43" startPosition="0" endLine="59" endPosition="0">
+      <varInfo nodeId="2533033302498584976" varName="_context" />
+      <varInfo nodeId="2533033302498584976" varName="operationContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="41" startPosition="56" endLine="64" endPosition="10" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="39" startPosition="0" endLine="66" endPosition="0" />
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="31" startPosition="83" endLine="67" endPosition="22">
+      <varInfo nodeId="2533033302498584976" varName="references" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="30" startPosition="0" endLine="69" endPosition="0" />
+    <unitInfo nodeId="2533033302498584992" fileName="NamespaceRefExpr_Constraints.java" startLine="46" startPosition="401" endLine="50" endPosition="15" unitName="com.mbeddr.cpp.cext.constraints.NamespaceRefExpr_Constraints$3" />
+    <unitInfo nodeId="2533033302498585010" fileName="NamespaceRefExpr_Constraints.java" startLine="52" startPosition="428" endLine="56" endPosition="15" unitName="com.mbeddr.cpp.cext.constraints.NamespaceRefExpr_Constraints$3" />
+    <unitInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="42" startPosition="19" endLine="64" endPosition="9" unitName="com.mbeddr.cpp.cext.constraints.NamespaceRefExpr_Constraints$2" />
+    <unitInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="33" startPosition="37" endLine="66" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.NamespaceRefExpr_Constraints$1" />
+    <unitInfo nodeId="2533033302498584976" fileName="NamespaceRefExpr_Constraints.java" startLine="25" startPosition="0" endLine="72" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.NamespaceRefExpr_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/2533033302498585047">
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="27" startPosition="38" endLine="28" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="32" startPosition="43" endLine="33" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="37" startPosition="200" endLine="38" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="38" startPosition="96" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="40" startPosition="51" endLine="41" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="42" startPosition="5" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="43" startPosition="0" endLine="44" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="48" startPosition="83" endLine="49" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="52" startPosition="44" endLine="53" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585100" fileName="NamespaceType_Constraints.java" startLine="65" startPosition="51" endLine="66" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585117" fileName="NamespaceType_Constraints.java" startLine="71" startPosition="51" endLine="72" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585081" fileName="NamespaceType_Constraints.java" startLine="78" startPosition="49" endLine="79" endPosition="110" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="86" startPosition="63" endLine="87" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="91" startPosition="7" endLine="92" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498670580" fileName="NamespaceType_Constraints.java" startLine="95" startPosition="148" endLine="96" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="99" startPosition="0" endLine="100" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="canBeChildBreakingPoint" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="100" startPosition="0" endLine="101" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_gl4c8m_a0a1a0a0a1a0b0a1a3" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="27" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="NamespaceType_Constraints#()V" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="39" startPosition="0" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2533033302498585100" fileName="NamespaceType_Constraints.java" startLine="65" startPosition="0" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+    <nodeInfo nodeId="2533033302498585117" fileName="NamespaceType_Constraints.java" startLine="71" startPosition="0" endLine="74" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+    <nodeInfo nodeId="2533033302498585081" fileName="NamespaceType_Constraints.java" startLine="78" startPosition="0" endLine="81" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="95" startPosition="0" endLine="98" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="static_canBeAChild#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IOperationContext;)Z" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnCanBeChildMethod#()Z" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="85" startPosition="0" endLine="89" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+    <nodeInfo nodeId="2533033302498585090" fileName="NamespaceType_Constraints.java" startLine="63" startPosition="149" endLine="68" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585106" fileName="NamespaceType_Constraints.java" startLine="69" startPosition="22" endLine="74" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585070" fileName="NamespaceType_Constraints.java" startLine="76" startPosition="20" endLine="81" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585104" fileName="NamespaceType_Constraints.java" startLine="69" startPosition="20" endLine="75" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2533033302498585124" fileName="NamespaceType_Constraints.java" startLine="76" startPosition="18" endLine="82" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="36" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canBeChild#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/CheckingNodeContext;)Z" />
+    <nodeInfo nodeId="2533033302498585088" fileName="NamespaceType_Constraints.java" startLine="62" startPosition="128" endLine="75" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2533033302498585120" fileName="NamespaceType_Constraints.java" startLine="61" startPosition="142" endLine="82" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="60" startPosition="0" endLine="84" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="58" startPosition="56" endLine="89" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="56" startPosition="0" endLine="91" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="49" startPosition="75" endLine="91" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="47" startPosition="0" endLine="94" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultReferences#()Ljava/util/Map;" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="27" startPosition="38" endLine="28" endPosition="57" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="32" startPosition="43" endLine="33" endPosition="16" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="40" startPosition="51" endLine="41" endPosition="67" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="52" startPosition="44" endLine="53" endPosition="20" />
+    <scopeInfo nodeId="2533033302498585100" fileName="NamespaceType_Constraints.java" startLine="65" startPosition="51" endLine="66" endPosition="112" />
+    <scopeInfo nodeId="2533033302498585117" fileName="NamespaceType_Constraints.java" startLine="71" startPosition="51" endLine="72" endPosition="112" />
+    <scopeInfo nodeId="2533033302498585081" fileName="NamespaceType_Constraints.java" startLine="78" startPosition="49" endLine="79" endPosition="110" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="86" startPosition="63" endLine="87" endPosition="58" />
+    <scopeInfo nodeId="2533033302498670579" fileName="NamespaceType_Constraints.java" startLine="95" startPosition="148" endLine="96" endPosition="109" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="27" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="2533033302498585100" fileName="NamespaceType_Constraints.java" startLine="65" startPosition="0" endLine="68" endPosition="0">
+      <varInfo nodeId="2533033302498585100" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585117" fileName="NamespaceType_Constraints.java" startLine="71" startPosition="0" endLine="74" endPosition="0">
+      <varInfo nodeId="2533033302498585117" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585081" fileName="NamespaceType_Constraints.java" startLine="78" startPosition="0" endLine="81" endPosition="0">
+      <varInfo nodeId="2533033302498585081" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="95" startPosition="0" endLine="98" endPosition="0">
+      <varInfo nodeId="2533033302498585047" varName="childConcept" />
+      <varInfo nodeId="2533033302498585047" varName="link" />
+      <varInfo nodeId="2533033302498585047" varName="node" />
+      <varInfo nodeId="2533033302498585047" varName="operationContext" />
+      <varInfo nodeId="2533033302498585047" varName="parentNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="51" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="85" startPosition="0" endLine="89" endPosition="0" />
+    <scopeInfo nodeId="2533033302498585089" fileName="NamespaceType_Constraints.java" startLine="63" startPosition="149" endLine="68" endPosition="19" />
+    <scopeInfo nodeId="2533033302498585105" fileName="NamespaceType_Constraints.java" startLine="69" startPosition="22" endLine="74" endPosition="19" />
+    <scopeInfo nodeId="2533033302498585125" fileName="NamespaceType_Constraints.java" startLine="76" startPosition="20" endLine="81" endPosition="17" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="37" startPosition="200" endLine="44" endPosition="18">
+      <varInfo nodeId="2533033302498585047" varName="result" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="36" startPosition="0" endLine="46" endPosition="0">
+      <varInfo nodeId="2533033302498585047" varName="checkingNodeContext" />
+      <varInfo nodeId="2533033302498585047" varName="childConcept" />
+      <varInfo nodeId="2533033302498585047" varName="link" />
+      <varInfo nodeId="2533033302498585047" varName="node" />
+      <varInfo nodeId="2533033302498585047" varName="operationContext" />
+      <varInfo nodeId="2533033302498585047" varName="parentNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585121" fileName="NamespaceType_Constraints.java" startLine="62" startPosition="128" endLine="75" endPosition="15" />
+    <scopeInfo nodeId="2533033302498585050" fileName="NamespaceType_Constraints.java" startLine="61" startPosition="142" endLine="82" endPosition="13" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="60" startPosition="0" endLine="84" endPosition="0">
+      <varInfo nodeId="2533033302498585047" varName="_context" />
+      <varInfo nodeId="2533033302498585047" varName="operationContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="58" startPosition="56" endLine="89" endPosition="10" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="56" startPosition="0" endLine="91" endPosition="0" />
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="48" startPosition="83" endLine="92" endPosition="22">
+      <varInfo nodeId="2533033302498585047" varName="references" />
+    </scopeInfo>
+    <scopeInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="47" startPosition="0" endLine="94" endPosition="0" />
+    <unitInfo nodeId="2533033302498585100" fileName="NamespaceType_Constraints.java" startLine="64" startPosition="421" endLine="68" endPosition="17" unitName="com.mbeddr.cpp.cext.constraints.NamespaceType_Constraints$3" />
+    <unitInfo nodeId="2533033302498585117" fileName="NamespaceType_Constraints.java" startLine="70" startPosition="429" endLine="74" endPosition="17" unitName="com.mbeddr.cpp.cext.constraints.NamespaceType_Constraints$3" />
+    <unitInfo nodeId="2533033302498585081" fileName="NamespaceType_Constraints.java" startLine="77" startPosition="427" endLine="81" endPosition="15" unitName="com.mbeddr.cpp.cext.constraints.NamespaceType_Constraints$3" />
+    <unitInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="59" startPosition="19" endLine="89" endPosition="9" unitName="com.mbeddr.cpp.cext.constraints.NamespaceType_Constraints$2" />
+    <unitInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="50" startPosition="37" endLine="91" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.NamespaceType_Constraints$1" />
+    <unitInfo nodeId="2533033302498585047" fileName="NamespaceType_Constraints.java" startLine="26" startPosition="0" endLine="102" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.NamespaceType_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/3465358579054571912">
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="14" startPosition="43" endLine="15" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="19" startPosition="43" endLine="20" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="24" startPosition="200" endLine="25" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="25" startPosition="96" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="27" startPosition="51" endLine="28" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="29" startPosition="5" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="30" startPosition="0" endLine="31" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3465358579054571915" fileName="IRequiresCPPModule_Constraints.java" startLine="34" startPosition="148" endLine="35" endPosition="131" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5031810689710942584" fileName="IRequiresCPPModule_Constraints.java" startLine="35" startPosition="131" endLine="36" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="5031810689710942574" fileName="IRequiresCPPModule_Constraints.java" startLine="36" startPosition="49" endLine="37" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="5031810689710942580" fileName="IRequiresCPPModule_Constraints.java" startLine="37" startPosition="14" endLine="38" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="41" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="canBeChildBreakingPoint" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="14" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="IRequiresCPPModule_Constraints#()V" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="26" startPosition="0" endLine="29" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnCanBeChildMethod#()Z" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="34" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="static_canBeAChild#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IOperationContext;)Z" />
+    <nodeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="23" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canBeChild#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/CheckingNodeContext;)Z" />
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="14" startPosition="43" endLine="15" endPosition="62" />
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="19" startPosition="43" endLine="20" endPosition="16" />
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="27" startPosition="51" endLine="28" endPosition="67" />
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="14" startPosition="0" endLine="17" endPosition="0" />
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="3465358579054571914" fileName="IRequiresCPPModule_Constraints.java" startLine="34" startPosition="148" endLine="38" endPosition="14" />
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="34" startPosition="0" endLine="40" endPosition="0">
+      <varInfo nodeId="3465358579054571912" varName="childConcept" />
+      <varInfo nodeId="3465358579054571912" varName="link" />
+      <varInfo nodeId="3465358579054571912" varName="node" />
+      <varInfo nodeId="3465358579054571912" varName="operationContext" />
+      <varInfo nodeId="3465358579054571912" varName="parentNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="24" startPosition="200" endLine="31" endPosition="18">
+      <varInfo nodeId="3465358579054571912" varName="result" />
+    </scopeInfo>
+    <scopeInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="23" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="3465358579054571912" varName="checkingNodeContext" />
+      <varInfo nodeId="3465358579054571912" varName="childConcept" />
+      <varInfo nodeId="3465358579054571912" varName="link" />
+      <varInfo nodeId="3465358579054571912" varName="node" />
+      <varInfo nodeId="3465358579054571912" varName="operationContext" />
+      <varInfo nodeId="3465358579054571912" varName="parentNode" />
+    </scopeInfo>
+    <unitInfo nodeId="3465358579054571912" fileName="IRequiresCPPModule_Constraints.java" startLine="13" startPosition="0" endLine="43" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.IRequiresCPPModule_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/3710575327008942890">
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="24" startPosition="53" endLine="25" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="29" startPosition="83" endLine="30" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="33" startPosition="44" endLine="34" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008947452" fileName="NamespaceResolutionReference_Constraints.java" startLine="42" startPosition="142" endLine="43" endPosition="423" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="47" startPosition="63" endLine="48" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="56" startPosition="56" endLine="57" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="59" startPosition="7" endLine="60" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="63" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_ma7atp_a0a1a0a0a1a0b0a1a1" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="24" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="NamespaceResolutionReference_Constraints#()V" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="41" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="46" startPosition="0" endLine="50" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="54" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="52" startPosition="7" endLine="59" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="39" startPosition="56" endLine="50" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="37" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="30" startPosition="75" endLine="52" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="28" startPosition="0" endLine="62" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultReferences#()Ljava/util/Map;" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="24" startPosition="53" endLine="25" endPosition="72" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="33" startPosition="44" endLine="34" endPosition="20" />
+    <scopeInfo nodeId="3710575327008942893" fileName="NamespaceResolutionReference_Constraints.java" startLine="42" startPosition="142" endLine="43" endPosition="423" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="47" startPosition="63" endLine="48" endPosition="58" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="56" startPosition="56" endLine="57" endPosition="42" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="24" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="41" startPosition="0" endLine="45" endPosition="0">
+      <varInfo nodeId="3710575327008942890" varName="_context" />
+      <varInfo nodeId="3710575327008942890" varName="operationContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="46" startPosition="0" endLine="50" endPosition="0" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="54" startPosition="0" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="39" startPosition="56" endLine="50" endPosition="10" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="37" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="29" startPosition="83" endLine="60" endPosition="22">
+      <varInfo nodeId="3710575327008942890" varName="references" />
+    </scopeInfo>
+    <scopeInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="28" startPosition="0" endLine="62" endPosition="0" />
+    <unitInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="57" startPosition="19" endLine="57" endPosition="41" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionReference_Constraints$3" />
+    <unitInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="53" startPosition="36" endLine="59" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionReference_Constraints$2" />
+    <unitInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="40" startPosition="19" endLine="50" endPosition="9" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionReference_Constraints$2" />
+    <unitInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="31" startPosition="39" endLine="52" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionReference_Constraints$1" />
+    <unitInfo nodeId="3710575327008942890" fileName="NamespaceResolutionReference_Constraints.java" startLine="23" startPosition="0" endLine="65" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionReference_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/3710575327008947579">
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="16" startPosition="52" endLine="17" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="21" startPosition="82" endLine="22" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="25" startPosition="37" endLine="26" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="30" startPosition="56" endLine="31" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="31" startPosition="37" endLine="32" endPosition="200" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3710575327008947583" fileName="INamespaceProviderReference_Constraints.java" startLine="31" startPosition="37" endLine="32" endPosition="200" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="34" startPosition="7" endLine="35" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="16" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="INamespaceProviderReference_Constraints#()V" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnGetter#()Z" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="29" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IScope;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="22" startPosition="74" endLine="34" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="20" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultProperties#()Ljava/util/Map;" />
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="16" startPosition="52" endLine="17" endPosition="71" />
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="25" startPosition="37" endLine="26" endPosition="20" />
+    <scopeInfo nodeId="3710575327008947582" fileName="INamespaceProviderReference_Constraints.java" startLine="31" startPosition="37" endLine="32" endPosition="200" />
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="30" startPosition="56" endLine="32" endPosition="200">
+      <varInfo nodeId="3710575327008947579" varName="propertyName" />
+    </scopeInfo>
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="16" startPosition="0" endLine="19" endPosition="0" />
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="29" startPosition="0" endLine="34" endPosition="0">
+      <varInfo nodeId="3710575327008947579" varName="node" />
+      <varInfo nodeId="3710575327008947579" varName="scope" />
+    </scopeInfo>
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="21" startPosition="82" endLine="35" endPosition="22">
+      <varInfo nodeId="3710575327008947579" varName="properties" />
+    </scopeInfo>
+    <scopeInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="20" startPosition="0" endLine="37" endPosition="0" />
+    <unitInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="23" startPosition="31" endLine="34" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.INamespaceProviderReference_Constraints$1" />
+    <unitInfo nodeId="3710575327008947579" fileName="INamespaceProviderReference_Constraints.java" startLine="15" startPosition="0" endLine="38" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.INamespaceProviderReference_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/3947421596133974921">
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="14" startPosition="43" endLine="15" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="19" startPosition="44" endLine="20" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="24" startPosition="188" endLine="25" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="25" startPosition="96" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="27" startPosition="51" endLine="28" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="29" startPosition="5" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="30" startPosition="0" endLine="31" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3947421596133974924" fileName="NamespaceScopeExpr_Constraints.java" startLine="34" startPosition="148" endLine="35" endPosition="335" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="38" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="canBeParentBreakingPoint" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="14" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="NamespaceScopeExpr_Constraints#()V" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="26" startPosition="0" endLine="29" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="34" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="static_canBeAParent#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IOperationContext;)Z" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnCanBeParentMethod#()Z" />
+    <nodeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="23" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canBeParent#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/CheckingNodeContext;)Z" />
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="14" startPosition="43" endLine="15" endPosition="62" />
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="19" startPosition="44" endLine="20" endPosition="16" />
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="27" startPosition="51" endLine="28" endPosition="68" />
+    <scopeInfo nodeId="3947421596133974923" fileName="NamespaceScopeExpr_Constraints.java" startLine="34" startPosition="148" endLine="35" endPosition="335" />
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="14" startPosition="0" endLine="17" endPosition="0" />
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="34" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="3947421596133974921" varName="childConcept" />
+      <varInfo nodeId="3947421596133974921" varName="childNode" />
+      <varInfo nodeId="3947421596133974921" varName="link" />
+      <varInfo nodeId="3947421596133974921" varName="node" />
+      <varInfo nodeId="3947421596133974921" varName="operationContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="24" startPosition="188" endLine="31" endPosition="18">
+      <varInfo nodeId="3947421596133974921" varName="result" />
+    </scopeInfo>
+    <scopeInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="23" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="3947421596133974921" varName="checkingNodeContext" />
+      <varInfo nodeId="3947421596133974921" varName="childConcept" />
+      <varInfo nodeId="3947421596133974921" varName="childNode" />
+      <varInfo nodeId="3947421596133974921" varName="link" />
+      <varInfo nodeId="3947421596133974921" varName="node" />
+      <varInfo nodeId="3947421596133974921" varName="operationContext" />
+    </scopeInfo>
+    <unitInfo nodeId="3947421596133974921" fileName="NamespaceScopeExpr_Constraints.java" startLine="13" startPosition="0" endLine="40" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.NamespaceScopeExpr_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/3947421596134495241">
+    <nodeInfo nodeId="3947421596134495241" fileName="INestedNamespaceRef_Constraints.java" startLine="8" startPosition="44" endLine="9" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="3947421596134495241" fileName="INestedNamespaceRef_Constraints.java" startLine="8" startPosition="0" endLine="11" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="INestedNamespaceRef_Constraints#()V" />
+    <scopeInfo nodeId="3947421596134495241" fileName="INestedNamespaceRef_Constraints.java" startLine="8" startPosition="44" endLine="9" endPosition="63" />
+    <scopeInfo nodeId="3947421596134495241" fileName="INestedNamespaceRef_Constraints.java" startLine="8" startPosition="0" endLine="11" endPosition="0" />
+    <unitInfo nodeId="3947421596134495241" fileName="INestedNamespaceRef_Constraints.java" startLine="7" startPosition="0" endLine="12" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.INestedNamespaceRef_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/4315577761883431824">
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="31" startPosition="52" endLine="32" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="36" startPosition="83" endLine="37" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="40" startPosition="44" endLine="41" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883390978" fileName="NamespaceResolutionOperator_Constraints.java" startLine="49" startPosition="142" endLine="50" endPosition="161" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4315577761883391014" fileName="NamespaceResolutionOperator_Constraints.java" startLine="50" startPosition="161" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4315577761883391082" fileName="NamespaceResolutionOperator_Constraints.java" startLine="51" startPosition="0" endLine="52" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4315577761883391150" fileName="NamespaceResolutionOperator_Constraints.java" startLine="52" startPosition="116" endLine="53" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4315577761883396116" fileName="NamespaceResolutionOperator_Constraints.java" startLine="53" startPosition="53" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587312" fileName="NamespaceResolutionOperator_Constraints.java" startLine="54" startPosition="0" endLine="55" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2638982587293583513" fileName="NamespaceResolutionOperator_Constraints.java" startLine="55" startPosition="58" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587323" fileName="NamespaceResolutionOperator_Constraints.java" startLine="57" startPosition="180" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587397" fileName="NamespaceResolutionOperator_Constraints.java" startLine="58" startPosition="0" endLine="59" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2638982587293587393" fileName="NamespaceResolutionOperator_Constraints.java" startLine="59" startPosition="33" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587405" fileName="NamespaceResolutionOperator_Constraints.java" startLine="62" startPosition="91" endLine="63" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2638982587293587433" fileName="NamespaceResolutionOperator_Constraints.java" startLine="63" startPosition="30" endLine="64" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.BreakStatement" />
+    <nodeInfo nodeId="2638982587293587324" fileName="NamespaceResolutionOperator_Constraints.java" startLine="66" startPosition="15" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587451" fileName="NamespaceResolutionOperator_Constraints.java" startLine="68" startPosition="24" endLine="69" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2638982587293583604" fileName="NamespaceResolutionOperator_Constraints.java" startLine="69" startPosition="80" endLine="70" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2638982587293587435" fileName="NamespaceResolutionOperator_Constraints.java" startLine="71" startPosition="15" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293583583" fileName="NamespaceResolutionOperator_Constraints.java" startLine="73" startPosition="13" endLine="74" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293583584" fileName="NamespaceResolutionOperator_Constraints.java" startLine="74" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587511" fileName="NamespaceResolutionOperator_Constraints.java" startLine="77" startPosition="176" endLine="78" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2638982587293587515" fileName="NamespaceResolutionOperator_Constraints.java" startLine="78" startPosition="35" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587528" fileName="NamespaceResolutionOperator_Constraints.java" startLine="81" startPosition="93" endLine="82" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2638982587293587532" fileName="NamespaceResolutionOperator_Constraints.java" startLine="82" startPosition="32" endLine="83" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.BreakStatement" />
+    <nodeInfo nodeId="2638982587293587533" fileName="NamespaceResolutionOperator_Constraints.java" startLine="85" startPosition="17" endLine="86" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="2638982587293587536" fileName="NamespaceResolutionOperator_Constraints.java" startLine="87" startPosition="26" endLine="88" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2638982587293587543" fileName="NamespaceResolutionOperator_Constraints.java" startLine="88" startPosition="82" endLine="89" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883391019" fileName="NamespaceResolutionOperator_Constraints.java" startLine="92" startPosition="13" endLine="93" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4315577761883391016" fileName="NamespaceResolutionOperator_Constraints.java" startLine="93" startPosition="0" endLine="94" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="98" startPosition="63" endLine="99" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="106" startPosition="44" endLine="107" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431834" fileName="NamespaceResolutionOperator_Constraints.java" startLine="115" startPosition="142" endLine="116" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431838" fileName="NamespaceResolutionOperator_Constraints.java" startLine="116" startPosition="87" endLine="117" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4315577761883431877" fileName="NamespaceResolutionOperator_Constraints.java" startLine="117" startPosition="0" endLine="118" endPosition="97" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431904" fileName="NamespaceResolutionOperator_Constraints.java" startLine="118" startPosition="97" endLine="119" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431930" fileName="NamespaceResolutionOperator_Constraints.java" startLine="119" startPosition="101" endLine="120" endPosition="95" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431936" fileName="NamespaceResolutionOperator_Constraints.java" startLine="120" startPosition="95" endLine="121" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431952" fileName="NamespaceResolutionOperator_Constraints.java" startLine="121" startPosition="106" endLine="122" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431951" fileName="NamespaceResolutionOperator_Constraints.java" startLine="122" startPosition="103" endLine="123" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4315577761883458327" fileName="NamespaceResolutionOperator_Constraints.java" startLine="123" startPosition="0" endLine="124" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3710575327008947448" fileName="NamespaceResolutionOperator_Constraints.java" startLine="124" startPosition="0" endLine="125" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="4315577761883480859" fileName="NamespaceResolutionOperator_Constraints.java" startLine="125" startPosition="59" endLine="126" endPosition="290" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="130" startPosition="63" endLine="131" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="135" startPosition="7" endLine="136" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="139" startPosition="0" endLine="140" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_4ml88h_a0a1a0a0a1a0b0a1a1" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="140" startPosition="0" endLine="141" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_4ml88h_a0a1a0a0a1a0b0a2a1" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="31" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="NamespaceResolutionOperator_Constraints#()V" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="2638982587293587331" fileName="NamespaceResolutionOperator_Constraints.java" startLine="61" startPosition="45" endLine="65" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2638982587293587440" fileName="NamespaceResolutionOperator_Constraints.java" startLine="67" startPosition="0" endLine="71" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2638982587293587520" fileName="NamespaceResolutionOperator_Constraints.java" startLine="80" startPosition="47" endLine="84" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2638982587293587534" fileName="NamespaceResolutionOperator_Constraints.java" startLine="86" startPosition="0" endLine="90" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="97" startPosition="0" endLine="101" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="105" startPosition="0" endLine="109" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="129" startPosition="0" endLine="133" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+    <nodeInfo nodeId="2638982587293587326" fileName="NamespaceResolutionOperator_Constraints.java" startLine="60" startPosition="0" endLine="66" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="2638982587293587516" fileName="NamespaceResolutionOperator_Constraints.java" startLine="79" startPosition="0" endLine="85" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="114" startPosition="0" endLine="128" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="4315577761883396124" fileName="NamespaceResolutionOperator_Constraints.java" startLine="76" startPosition="69" endLine="91" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="2638982587293583586" fileName="NamespaceResolutionOperator_Constraints.java" startLine="56" startPosition="0" endLine="73" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="4315577761883396119" fileName="NamespaceResolutionOperator_Constraints.java" startLine="75" startPosition="0" endLine="92" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="112" startPosition="56" endLine="133" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="110" startPosition="0" endLine="135" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="103" startPosition="7" endLine="135" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="48" startPosition="0" endLine="96" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="46" startPosition="56" endLine="101" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="44" startPosition="0" endLine="103" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="37" startPosition="75" endLine="103" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="35" startPosition="0" endLine="138" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultReferences#()Ljava/util/Map;" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="31" startPosition="52" endLine="32" endPosition="71" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="40" startPosition="44" endLine="41" endPosition="20" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="98" startPosition="63" endLine="99" endPosition="58" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="106" startPosition="44" endLine="107" endPosition="20" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="130" startPosition="63" endLine="131" endPosition="58" />
+    <scopeInfo nodeId="2638982587293587333" fileName="NamespaceResolutionOperator_Constraints.java" startLine="62" startPosition="91" endLine="64" endPosition="24" />
+    <scopeInfo nodeId="2638982587293587441" fileName="NamespaceResolutionOperator_Constraints.java" startLine="68" startPosition="24" endLine="70" endPosition="65" />
+    <scopeInfo nodeId="2638982587293587527" fileName="NamespaceResolutionOperator_Constraints.java" startLine="81" startPosition="93" endLine="83" endPosition="26" />
+    <scopeInfo nodeId="2638982587293587535" fileName="NamespaceResolutionOperator_Constraints.java" startLine="87" startPosition="26" endLine="89" endPosition="67" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="31" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="2638982587293587329" fileName="NamespaceResolutionOperator_Constraints.java" startLine="61" startPosition="45" endLine="65" endPosition="17" />
+    <scopeInfo nodeId="2638982587293587519" fileName="NamespaceResolutionOperator_Constraints.java" startLine="80" startPosition="47" endLine="84" endPosition="19" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="97" startPosition="0" endLine="101" endPosition="0" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="105" startPosition="0" endLine="109" endPosition="0" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="129" startPosition="0" endLine="133" endPosition="0" />
+    <scopeInfo nodeId="2638982587293587326" fileName="NamespaceResolutionOperator_Constraints.java" startLine="60" startPosition="0" endLine="66" endPosition="15">
+      <varInfo nodeId="2638982587293587327" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="2638982587293587516" fileName="NamespaceResolutionOperator_Constraints.java" startLine="79" startPosition="0" endLine="85" endPosition="17">
+      <varInfo nodeId="2638982587293587517" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883459205" fileName="NamespaceResolutionOperator_Constraints.java" startLine="115" startPosition="142" endLine="126" endPosition="290" />
+    <scopeInfo nodeId="4315577761883396127" fileName="NamespaceResolutionOperator_Constraints.java" startLine="77" startPosition="176" endLine="90" endPosition="17">
+      <varInfo nodeId="2638982587293587512" varName="add" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="114" startPosition="0" endLine="128" endPosition="0">
+      <varInfo nodeId="4315577761883431824" varName="_context" />
+      <varInfo nodeId="4315577761883431824" varName="operationContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="2638982587293583593" fileName="NamespaceResolutionOperator_Constraints.java" startLine="57" startPosition="180" endLine="72" endPosition="0">
+      <varInfo nodeId="2638982587293587398" varName="add" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883396122" fileName="NamespaceResolutionOperator_Constraints.java" startLine="76" startPosition="69" endLine="91" endPosition="15" />
+    <scopeInfo nodeId="4315577761883396124" fileName="NamespaceResolutionOperator_Constraints.java" startLine="76" startPosition="69" endLine="91" endPosition="15">
+      <varInfo nodeId="4315577761883396125" varName="namespace" />
+    </scopeInfo>
+    <scopeInfo nodeId="2638982587293583586" fileName="NamespaceResolutionOperator_Constraints.java" startLine="56" startPosition="0" endLine="73" endPosition="13">
+      <varInfo nodeId="2638982587293583587" varName="namespace" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883396119" fileName="NamespaceResolutionOperator_Constraints.java" startLine="75" startPosition="0" endLine="92" endPosition="13">
+      <varInfo nodeId="4315577761883396120" varName="module" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="112" startPosition="56" endLine="133" endPosition="10" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="110" startPosition="0" endLine="135" endPosition="0" />
+    <scopeInfo nodeId="2638982587293526433" fileName="NamespaceResolutionOperator_Constraints.java" startLine="49" startPosition="142" endLine="94" endPosition="23">
+      <varInfo nodeId="4315577761883390979" varName="parentModule" />
+      <varInfo nodeId="4315577761883391151" varName="res" />
+      <varInfo nodeId="4315577761883391083" varName="searchModules" />
+      <varInfo nodeId="2638982587293587313" varName="usedNames" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="48" startPosition="0" endLine="96" endPosition="0">
+      <varInfo nodeId="4315577761883431824" varName="_context" />
+      <varInfo nodeId="4315577761883431824" varName="operationContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="46" startPosition="56" endLine="101" endPosition="10" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="44" startPosition="0" endLine="103" endPosition="0" />
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="36" startPosition="83" endLine="136" endPosition="22">
+      <varInfo nodeId="4315577761883431824" varName="references" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="35" startPosition="0" endLine="138" endPosition="0" />
+    <unitInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="113" startPosition="19" endLine="133" endPosition="9" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionOperator_Constraints$3" />
+    <unitInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="104" startPosition="42" endLine="135" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionOperator_Constraints$2" />
+    <unitInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="47" startPosition="19" endLine="101" endPosition="9" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionOperator_Constraints$2" />
+    <unitInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="38" startPosition="44" endLine="103" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionOperator_Constraints$1" />
+    <unitInfo nodeId="4315577761883431824" fileName="NamespaceResolutionOperator_Constraints.java" startLine="30" startPosition="0" endLine="142" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionOperator_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/4315577761883473663">
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="15" startPosition="51" endLine="16" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="20" startPosition="82" endLine="21" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="24" startPosition="40" endLine="25" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="29" startPosition="84" endLine="30" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4315577761883473674" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="33" startPosition="7" endLine="34" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ICppIdentifierNamedConcept_Constraints#()V" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnValidator#()Z" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="28" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;Ljetbrains/mps/smodel/IScope;)Z" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="21" startPosition="74" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="19" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultProperties#()Ljava/util/Map;" />
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="15" startPosition="51" endLine="16" endPosition="70" />
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="24" startPosition="40" endLine="25" endPosition="20" />
+    <scopeInfo nodeId="7024921229555594297" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="91" />
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="29" startPosition="84" endLine="31" endPosition="91">
+      <varInfo nodeId="4315577761883473663" varName="propertyName" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="15" startPosition="0" endLine="18" endPosition="0" />
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="28" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="4315577761883473663" varName="node" />
+      <varInfo nodeId="4315577761883473663" varName="propertyValue" />
+      <varInfo nodeId="4315577761883473663" varName="scope" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="20" startPosition="82" endLine="34" endPosition="22">
+      <varInfo nodeId="4315577761883473663" varName="properties" />
+    </scopeInfo>
+    <scopeInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="19" startPosition="0" endLine="36" endPosition="0" />
+    <unitInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="22" startPosition="31" endLine="33" endPosition="5" unitName="com.mbeddr.cpp.cext.constraints.ICppIdentifierNamedConcept_Constraints$1" />
+    <unitInfo nodeId="4315577761883473663" fileName="ICppIdentifierNamedConcept_Constraints.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.ICppIdentifierNamedConcept_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/4387763778170601630">
+    <nodeInfo nodeId="4387763778170601630" fileName="CppImplementationModule_Constraints.java" startLine="8" startPosition="48" endLine="9" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="4387763778170601630" fileName="CppImplementationModule_Constraints.java" startLine="8" startPosition="0" endLine="11" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="CppImplementationModule_Constraints#()V" />
+    <scopeInfo nodeId="4387763778170601630" fileName="CppImplementationModule_Constraints.java" startLine="8" startPosition="48" endLine="9" endPosition="67" />
+    <scopeInfo nodeId="4387763778170601630" fileName="CppImplementationModule_Constraints.java" startLine="8" startPosition="0" endLine="11" endPosition="0" />
+    <unitInfo nodeId="4387763778170601630" fileName="CppImplementationModule_Constraints.java" startLine="7" startPosition="0" endLine="12" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.CppImplementationModule_Constraints" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/8845041571058190683">
+    <nodeInfo nodeId="8845041571058190685" fileName="NamespaceHelper.java" startLine="8" startPosition="0" endLine="9" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="validName" />
+    <nodeInfo nodeId="8845041571058194882" fileName="NamespaceHelper.java" startLine="10" startPosition="60" endLine="11" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8845041571058194876" fileName="NamespaceHelper.java" startLine="10" startPosition="0" endLine="13" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="isValidNamespace#(Ljava/lang/String;)Z" />
+    <scopeInfo nodeId="8845041571058194879" fileName="NamespaceHelper.java" startLine="10" startPosition="60" endLine="11" endPosition="50" />
+    <scopeInfo nodeId="8845041571058194876" fileName="NamespaceHelper.java" startLine="10" startPosition="0" endLine="13" endPosition="0">
+      <varInfo nodeId="8845041571058194880" varName="namespace" />
+    </scopeInfo>
+    <unitInfo nodeId="8845041571058190683" fileName="NamespaceHelper.java" startLine="7" startPosition="0" endLine="14" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.NamespaceHelper" />
+  </root>
+  <root nodeRef="r:02dda90b-4ca6-4f14-acc8-da356fbc98b1(com.mbeddr.cpp.cext.constraints)/8928893569897406681">
+    <nodeInfo nodeId="8928893569897406683" fileName="NamespaceResolutionOperatorDebug.java" startLine="7" startPosition="0" endLine="8" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ENABLED" />
+    <nodeInfo nodeId="8928893569897406719" fileName="NamespaceResolutionOperatorDebug.java" startLine="10" startPosition="21" endLine="11" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8928893569897406695" fileName="NamespaceResolutionOperatorDebug.java" startLine="12" startPosition="5" endLine="13" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8928893569897406712" fileName="NamespaceResolutionOperatorDebug.java" startLine="9" startPosition="38" endLine="12" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8928893569897406689" fileName="NamespaceResolutionOperatorDebug.java" startLine="9" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="debug#(Ljava/lang/String;)V" />
+    <scopeInfo nodeId="8928893569897406713" fileName="NamespaceResolutionOperatorDebug.java" startLine="10" startPosition="21" endLine="11" endPosition="13" />
+    <scopeInfo nodeId="8928893569897406692" fileName="NamespaceResolutionOperatorDebug.java" startLine="9" startPosition="38" endLine="13" endPosition="64" />
+    <scopeInfo nodeId="8928893569897406689" fileName="NamespaceResolutionOperatorDebug.java" startLine="9" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="8928893569897406693" varName="s" />
+    </scopeInfo>
+    <unitInfo nodeId="8928893569897406681" fileName="NamespaceResolutionOperatorDebug.java" startLine="6" startPosition="0" endLine="16" endPosition="0" unitName="com.mbeddr.cpp.cext.constraints.NamespaceResolutionOperatorDebug" />
+  </root>
+</debugInfo>
+

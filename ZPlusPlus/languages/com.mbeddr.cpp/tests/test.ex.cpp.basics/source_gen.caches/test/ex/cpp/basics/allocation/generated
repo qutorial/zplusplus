@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="c377kg0u5vc3wx7zietlgs7wicwyfkx">
+  <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" hash="98n7mv6umj93tp4y6xrhl07etbvi9ah" />
+  <dep model="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)" hash="bokivoyru9i8ea1ff24h34rjdyjh0nx" />
+  <common hash="-erfono8dc3e9cd90mel2ywfl9el60tf">
+    <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" />
+    <dep model="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)" />
+    <file name="ArrayAllocation.cpp" />
+    <file name="ArrayAllocation.h" />
+    <file name="Makefile" />
+  </common>
+  <source id="291176927575752329" name="ArrayAllocation" hash="-6rhn5ozazfr58tq12xn7oj2j498q4t8" />
+  <source id="291176927575752330" hash="53o49bkykonn99bxb206aiifvvd3dut" />
+  <source id="291176927575752331" name="TypeSizeConfiguration (t.e.c.b.allocation)" hash="bh736tum1lwppwd3p6xxt7tie8j9jwi" />
+  <source id="487313117837083461" name="BuildConfiguration (t.e.c.b.allocation)" hash="-58jya6cdxojx5t469vnfkupoep7ad80" />
+</dependencies>
+

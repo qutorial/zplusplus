@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="FindUsagesDescriptor.java" startLine="8" startPosition="0" endLine="17" endPosition="0" unitName="com.mbeddr.cpp.classes.findUsages.FindUsagesDescriptor" />
+  <root nodeRef="r:cd2f73e4-7968-47ea-ba22-86ea9418d6ce(com.mbeddr.cpp.classes.findUsages)/374287044671790292">
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="18" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="LOG" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="24" startPosition="34" endLine="25" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="29" startPosition="38" endLine="30" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="34" startPosition="30" endLine="35" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="39" startPosition="109" endLine="40" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="374287044671793488" fileName="findSubclasses_Finder.java" startLine="41" startPosition="9" endLine="42" endPosition="144" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="374287044671793527" fileName="findSubclasses_Finder.java" startLine="45" startPosition="94" endLine="46" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="50" startPosition="15" endLine="51" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="374287044671793632" fileName="findSubclasses_Finder.java" startLine="60" startPosition="45" endLine="61" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="20" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="findSubclasses_Finder#()V" />
+    <nodeInfo nodeId="374287044671793516" fileName="findSubclasses_Finder.java" startLine="44" startPosition="37" endLine="47" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="55" startPosition="0" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchedNodes#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/module/SearchScope;Ljava/util/List;)V" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLongDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="59" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNodeCategory#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="374287044671793503" fileName="findSubclasses_Finder.java" startLine="44" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="374287044671793496" fileName="findSubclasses_Finder.java" startLine="42" startPosition="144" endLine="49" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="40" startPosition="39" endLine="52" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.TryStatement" />
+    <nodeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="38" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="doFind#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/module/SearchScope;Ljava/util/List;Lorg/jetbrains/mps/openapi/util/ProgressMonitor;)V" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="20" startPosition="34" endLine="20" endPosition="34" />
+    <scopeInfo nodeId="374287044671793743" fileName="findSubclasses_Finder.java" startLine="56" startPosition="85" endLine="56" endPosition="85" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="24" startPosition="34" endLine="25" endPosition="24" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="29" startPosition="38" endLine="30" endPosition="14" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="34" startPosition="30" endLine="35" endPosition="63" />
+    <scopeInfo nodeId="374287044671793518" fileName="findSubclasses_Finder.java" startLine="45" startPosition="94" endLine="46" endPosition="59" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="50" startPosition="15" endLine="51" endPosition="21" />
+    <scopeInfo nodeId="374287044671793631" fileName="findSubclasses_Finder.java" startLine="60" startPosition="45" endLine="61" endPosition="16" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="20" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="374287044671793504" fileName="findSubclasses_Finder.java" startLine="44" startPosition="37" endLine="47" endPosition="11" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="55" startPosition="0" endLine="58" endPosition="0">
+      <varInfo nodeId="374287044671790292" varName="_results" />
+      <varInfo nodeId="374287044671790292" varName="node" />
+      <varInfo nodeId="374287044671790292" varName="scope" />
+    </scopeInfo>
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="59" startPosition="0" endLine="63" endPosition="0">
+      <varInfo nodeId="374287044671790292" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="374287044671793503" fileName="findSubclasses_Finder.java" startLine="44" startPosition="0" endLine="49" endPosition="0">
+      <varInfo nodeId="374287044671793503" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="374287044671790294" fileName="findSubclasses_Finder.java" startLine="41" startPosition="9" endLine="49" endPosition="9">
+      <varInfo nodeId="374287044671793489" varName="nodes" />
+    </scopeInfo>
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="39" startPosition="109" endLine="52" endPosition="5" />
+    <scopeInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="38" startPosition="0" endLine="54" endPosition="0">
+      <varInfo nodeId="374287044671790292" varName="_results" />
+      <varInfo nodeId="374287044671790292" varName="monitor" />
+      <varInfo nodeId="374287044671790292" varName="node" />
+      <varInfo nodeId="374287044671790292" varName="scope" />
+    </scopeInfo>
+    <unitInfo nodeId="374287044671793503" fileName="findSubclasses_Finder.java" startLine="43" startPosition="48" endLine="49" endPosition="7" unitName="com.mbeddr.cpp.classes.findUsages.findSubclasses_Finder$1" />
+    <unitInfo nodeId="374287044671790292" fileName="findSubclasses_Finder.java" startLine="17" startPosition="0" endLine="64" endPosition="0" unitName="com.mbeddr.cpp.classes.findUsages.findSubclasses_Finder" />
+  </root>
+</debugInfo>
+

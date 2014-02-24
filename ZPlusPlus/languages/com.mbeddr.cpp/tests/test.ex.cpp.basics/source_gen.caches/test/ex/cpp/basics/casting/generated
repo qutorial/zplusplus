@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-9cd6qi68r5ouwiohqzahftf1iydz6wr">
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:33527e56-fea6-47d6-9105-ca1061f3d17e(com.mbeddr.core.unittest.generator.template.main@generator)" hash="7qk6ad6gu9nfpgz1s6k3toyv7cvhuoz" />
+  <dep model="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" hash="-4429s9ptg0lrfbeayze6vtxr2lt9fqy" />
+  <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" hash="98n7mv6umj93tp4y6xrhl07etbvi9ah" />
+  <dep model="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)" hash="cvyuynjp7zvamb7ojrwy4vwoseft5bl" />
+  <dep model="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" hash="bt0m0ffxump8a46ros36wawrbpglq86" />
+  <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" hash="6piflw480gzbw867b5kvxtai24v49vv" />
+  <dep model="r:7db67fb8-d2c9-4e02-89e5-cbea9152661c(com.mbeddr.core.util.generator.template.main@generator)" hash="-57ewkuwsewbwc0ag1jfqckwppdf9qr4" />
+  <dep model="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" hash="-95uc7xdju4848v4w58mzkzgba0ursmm" />
+  <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" hash="sphsloww0f32w7ygl1wbavv1bqczi0" />
+  <common hash="-damsie39sjy1618jxdqj3zpwi9whl91">
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:33527e56-fea6-47d6-9105-ca1061f3d17e(com.mbeddr.core.unittest.generator.template.main@generator)" />
+    <dep model="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" />
+    <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" />
+    <dep model="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)" />
+    <dep model="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" />
+    <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" />
+    <dep model="r:7db67fb8-d2c9-4e02-89e5-cbea9152661c(com.mbeddr.core.util.generator.template.main@generator)" />
+    <dep model="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" />
+    <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" />
+    <file name="CastingToParent" />
+    <file name="Main" />
+    <file name="Makefile" />
+  </common>
+  <source id="487313117837083461" name="BuildConfiguration (t.e.c.b.casting)" hash="4s8tskvmozrvpxmkikhx2g7copljdhu" />
+  <source id="487313117837083462" name="CastingToParent" hash="-503qwkhn0hngas6utwa1hg7ptd31u9p" />
+  <source id="487313117837083463" name="TypeSizeConfiguration (t.e.c.b.casting)" hash="3vzmzue3wyck4iykdz4mrwh7ptao95e" />
+  <source id="487313117837083507" name="Main" hash="-26x3z1ibbuygqiec4pfce0elzt3mnzd" />
+  <source id="487313117837699704" name="CastingFromNotPolyParent" hash="e5i7cq1mg6rnpxqekio5x6gxlqo5dg2" />
+  <source id="487313117837729972" name="CastingFromPolyParent" hash="-6dk5rbr1lugke1zjlbrmmphlbpvx6m0" />
+  <source id="5192813628426148435" hash="81env7c0e09aaxyairp4trc9fi66pbk" />
+</dependencies>
+

@@ -1,0 +1,48 @@
+#!/bin/sh
+#set +v
+
+PROC_RET=0
+
+cd tests/test.ex.cpp.basics/source_gen/test/ex/cpp/basics/
+
+echo -------------------------------------
+echo classes
+cd classes
+make test
+PROC_RET=$(($?+$PROC_RET))
+
+
+cd ../../../../../../..
+cd test.ex.cpp.templates/source_gen/test/ex/cpp/templates
+
+echo -------------------------------------
+echo main
+cd main
+make test
+PROC_RET=$(($?+$PROC_RET))
+
+
+
+
+if [ "$PROC_RET" -ne "0" ]; 
+ then
+    echo ""
+    echo "" 
+    echo "================================================"
+    echo "================================================" 
+    echo "               $PROC_RET test(s) failed"
+    echo "================================================"
+    echo "================================================"
+    echo ""
+    echo ""
+ else
+  echo ""
+    echo "" 
+    echo "================================================"
+    echo "              OK - All tests green"
+    echo "================================================"
+    echo ""
+    echo ""
+fi
+
+exit $PROC_RET

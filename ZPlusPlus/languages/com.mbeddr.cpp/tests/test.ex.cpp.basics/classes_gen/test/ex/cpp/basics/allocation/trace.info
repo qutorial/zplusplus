@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:146e4180-0a56-4f87-9fa4-7be1b4f8223a(test.ex.cpp.basics.allocation)/291176927575752329">
+    <nodeInfo nodeId="291176927575752566" fileName="ArrayAllocation.cpp" startLine="8" startPosition="2" endLine="8" endPosition="11" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="291176927575752567" fileName="ArrayAllocation.cpp" startLine="8" startPosition="9" endLine="8" endPosition="10" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="291176927575752426" fileName="ArrayAllocation.cpp" startLine="21" startPosition="2" endLine="21" endPosition="15" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="291176927575752427" fileName="ArrayAllocation.cpp" startLine="21" startPosition="9" endLine="21" endPosition="14" conceptFqName="com.mbeddr.core.pointers.structure.DerefExpr" />
+    <nodeInfo nodeId="291176927575752429" fileName="ArrayAllocation.cpp" startLine="21" startPosition="10" endLine="21" endPosition="14" conceptFqName="com.mbeddr.cpp.classes.structure.ThisExpression" />
+    <nodeInfo nodeId="291176927575752504" fileName="ArrayAllocation.cpp" startLine="27" startPosition="2" endLine="27" endPosition="23" conceptFqName="com.mbeddr.core.statements.structure.LocalVariableDeclaration" />
+    <nodeInfo nodeId="291176927575752519" fileName="ArrayAllocation.cpp" startLine="27" startPosition="21" endLine="27" endPosition="22" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="291176927575752485" fileName="ArrayAllocation.cpp" startLine="28" startPosition="2" endLine="28" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="291176927575752431" fileName="ArrayAllocation.cpp" startLine="29" startPosition="2" endLine="29" endPosition="22" conceptFqName="com.mbeddr.core.statements.structure.LocalVariableDeclaration" />
+    <nodeInfo nodeId="291176927575752458" fileName="ArrayAllocation.cpp" startLine="29" startPosition="13" endLine="29" endPosition="21" conceptFqName="com.mbeddr.cpp.classes.structure.NewArrayExpression" />
+    <nodeInfo nodeId="291176927575752528" fileName="ArrayAllocation.cpp" startLine="29" startPosition="19" endLine="29" endPosition="20" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="291176927575752533" fileName="ArrayAllocation.cpp" startLine="30" startPosition="2" endLine="30" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="291176927575832628" fileName="ArrayAllocation.cpp" startLine="31" startPosition="2" endLine="31" endPosition="16" conceptFqName="com.mbeddr.core.statements.structure.LocalVariableDeclaration" />
+    <nodeInfo nodeId="291176927575832657" fileName="ArrayAllocation.cpp" startLine="31" startPosition="14" endLine="31" endPosition="15" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="291176927575752548" fileName="ArrayAllocation.cpp" startLine="32" startPosition="2" endLine="32" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="291176927575752617" fileName="ArrayAllocation.cpp" startLine="33" startPosition="8" endLine="33" endPosition="21" conceptFqName="com.mbeddr.core.statements.structure.ForVarDecl" propertyString="p" />
+    <nodeInfo nodeId="291176927575752630" fileName="ArrayAllocation.cpp" startLine="33" startPosition="15" endLine="33" endPosition="20" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="291176927575832672" fileName="ArrayAllocation.cpp" startLine="33" startPosition="22" endLine="33" endPosition="23" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="291176927575832683" fileName="ArrayAllocation.cpp" startLine="33" startPosition="22" endLine="33" endPosition="27" conceptFqName="com.mbeddr.core.expressions.structure.LessExpression" />
+    <nodeInfo nodeId="291176927575832686" fileName="ArrayAllocation.cpp" startLine="33" startPosition="26" endLine="33" endPosition="27" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="291176927575752672" fileName="ArrayAllocation.cpp" startLine="33" startPosition="29" endLine="33" endPosition="32" conceptFqName="com.mbeddr.core.expressions.structure.PreIncrementExpression" />
+    <nodeInfo nodeId="291176927575752682" fileName="ArrayAllocation.cpp" startLine="33" startPosition="31" endLine="33" endPosition="32" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="291176927575832696" fileName="ArrayAllocation.cpp" startLine="35" startPosition="4" endLine="35" endPosition="7" conceptFqName="com.mbeddr.core.expressions.structure.PreIncrementExpression" />
+    <nodeInfo nodeId="291176927575832695" fileName="ArrayAllocation.cpp" startLine="35" startPosition="4" endLine="35" endPosition="8" conceptFqName="com.mbeddr.core.statements.structure.ExpressionStatement" />
+    <nodeInfo nodeId="291176927575832706" fileName="ArrayAllocation.cpp" startLine="35" startPosition="6" endLine="35" endPosition="7" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="8456210691476136610" fileName="ArrayAllocation.cpp" startLine="36" startPosition="4" endLine="36" endPosition="4" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="8456210691476136670" fileName="ArrayAllocation.cpp" startLine="37" startPosition="9" endLine="37" endPosition="10" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="8456210691476136694" fileName="ArrayAllocation.cpp" startLine="37" startPosition="9" endLine="37" endPosition="21" conceptFqName="com.mbeddr.cpp.classes.structure.OoArrowExpression" />
+    <nodeInfo nodeId="8456210691476140566" fileName="ArrayAllocation.cpp" startLine="37" startPosition="9" endLine="37" endPosition="26" conceptFqName="com.mbeddr.core.expressions.structure.NotEqualsExpression" />
+    <nodeInfo nodeId="8456210691476142489" fileName="ArrayAllocation.cpp" startLine="37" startPosition="25" endLine="37" endPosition="26" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="8456210691476145829" fileName="ArrayAllocation.cpp" startLine="39" startPosition="6" endLine="39" endPosition="15" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="8456210691476145835" fileName="ArrayAllocation.cpp" startLine="39" startPosition="13" endLine="39" endPosition="14" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="291176927575752403" fileName="ArrayAllocation.cpp" startLine="44" startPosition="2" endLine="44" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="291176927575917605" fileName="ArrayAllocation.cpp" startLine="45" startPosition="2" endLine="45" endPosition="18" conceptFqName="com.mbeddr.cpp.classes.structure.DeleteArrayStatement" />
+    <nodeInfo nodeId="291176927575933003" fileName="ArrayAllocation.cpp" startLine="45" startPosition="12" endLine="45" endPosition="17" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="8456210691476133873" fileName="ArrayAllocation.cpp" startLine="46" startPosition="2" endLine="46" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="8456210691475710175" fileName="ArrayAllocation.cpp" startLine="47" startPosition="2" endLine="47" endPosition="11" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="8456210691475710176" fileName="ArrayAllocation.cpp" startLine="47" startPosition="9" endLine="47" endPosition="10" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="291176927575752408" fileName="ArrayAllocation.cpp" startLine="12" startPosition="26" endLine="14" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="291176927575752405" fileName="ArrayAllocation.cpp" startLine="16" startPosition="7" endLine="18" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="291176927575752558" fileName="ArrayAllocation.cpp" startLine="7" startPosition="21" endLine="10" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="291176927575752417" fileName="ArrayAllocation.cpp" startLine="20" startPosition="37" endLine="23" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="8456210691476136647" fileName="ArrayAllocation.cpp" startLine="38" startPosition="4" endLine="41" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="8456210691476136646" fileName="ArrayAllocation.cpp" startLine="37" startPosition="4" endLine="41" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.IfStatement" />
+    <nodeInfo nodeId="291176927575752607" fileName="ArrayAllocation.cpp" startLine="34" startPosition="2" endLine="43" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="291176927575752605" fileName="ArrayAllocation.cpp" startLine="33" startPosition="2" endLine="43" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.ForStatement" />
+    <nodeInfo nodeId="8456210691475710167" fileName="ArrayAllocation.cpp" startLine="26" startPosition="0" endLine="49" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="8456210691475710165" fileName="ArrayAllocation.cpp" startLine="25" startPosition="0" endLine="50" endPosition="0" conceptFqName="com.mbeddr.core.modules.structure.Function" propertyString="main" />
+    <unitInfo nodeId="291176927575752329" fileName="ArrayAllocation.cpp" startLine="1" startPosition="0" endLine="51" endPosition="0" unitName="test.ex.cpp.basics.allocation.ArrayAllocation" />
+    <unitInfo nodeId="291176927575752329" fileName="ArrayAllocation.h" startLine="1" startPosition="0" endLine="14" endPosition="6" unitName="test.ex.cpp.basics.allocation.ArrayAllocation" />
+  </root>
+  <root nodeRef="r:146e4180-0a56-4f87-9fa4-7be1b4f8223a(test.ex.cpp.basics.allocation)/487313117837083507" />
+</debugInfo>
+

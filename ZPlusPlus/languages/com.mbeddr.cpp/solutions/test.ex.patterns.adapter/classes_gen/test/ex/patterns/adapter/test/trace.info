@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:bb1cb73e-6ba7-44e8-95bb-637a5d711da8(test.ex.patterns.adapter.test)/8456210691477845797">
+    <nodeInfo nodeId="8456210691478375816" fileName="Main.cpp" startLine="9" startPosition="2" endLine="9" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="8456210691478375823" fileName="Main.cpp" startLine="10" startPosition="2" endLine="10" endPosition="11" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="8456210691478375824" fileName="Main.cpp" startLine="10" startPosition="9" endLine="10" endPosition="10" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="8456210691478375815" fileName="Main.cpp" startLine="8" startPosition="0" endLine="12" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="8456210691478375813" fileName="Main.cpp" startLine="7" startPosition="0" endLine="13" endPosition="0" conceptFqName="com.mbeddr.core.modules.structure.Function" propertyString="main" />
+    <unitInfo nodeId="8456210691477845797" fileName="Main.cpp" startLine="1" startPosition="0" endLine="14" endPosition="0" unitName="test.ex.patterns.adapter.test.Main" />
+    <unitInfo nodeId="8456210691477845797" fileName="Main.h" startLine="1" startPosition="0" endLine="6" endPosition="6" unitName="test.ex.patterns.adapter.test.Main" />
+  </root>
+</debugInfo>
+

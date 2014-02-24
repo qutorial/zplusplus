@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="37ic0v7ba7mdxfhv95py42v5eh3iktj">
+  <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" hash="98n7mv6umj93tp4y6xrhl07etbvi9ah" />
+  <dep model="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)" hash="e3j73l95g64ojnv1t6x1skufnan1mol" />
+  <common hash="-tnne5h0zlzqaam7ib4ovpw289x8c46">
+    <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" />
+    <dep model="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)" />
+    <file name="Main.cpp" />
+    <file name="Main.h" />
+    <file name="Makefile" />
+    <file name="SimpleClass.cpp" />
+    <file name="SimpleClass.h" />
+  </common>
+  <source id="2451009910641731348" name="SimpleClass" hash="-ehh2obs7s7eypp62oghkq850iwu3ae2" />
+  <source id="2451009910641731512" hash="2v3na8537ug50np2spelpgrdeo5m9zj" />
+  <source id="2451009910641734612" name="BuildConfiguration (t.e.c.g.test1)" hash="-27nihhelpnvu6t5e7dcfdwp39jg4hqc" />
+  <source id="2451009910641734957" name="Main" hash="c8rfm0bkqnum98ypaj66eevlg4kvroi" />
+  <source id="8456210691475429756" name="TypeSizeConfiguration (t.e.c.g.test1)" hash="-5icwmj7iz9ceo76738frdna7pbya2mc" />
+</dependencies>
+

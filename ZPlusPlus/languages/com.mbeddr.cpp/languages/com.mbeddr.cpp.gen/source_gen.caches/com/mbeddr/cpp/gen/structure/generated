@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="cnvpmwn2oewt8n4hizbom4w71tvkhr2">
+  <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" hash="-39lfgo2gi3arzruady9n97nitv569zc" />
+  <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" hash="6piflw480gzbw867b5kvxtai24v49vv" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" hash="sphsloww0f32w7ygl1wbavv1bqczi0" />
+  <common hash="-6l116z52ld07fiofddcj3wrln2ag2g3">
+    <dep root="1250172204141979116" />
+    <dep root="2451009910642363124" />
+    <dep root="2451009910644941257" />
+    <dep root="8456210691473528984" />
+    <dep root="8456210691473555071" />
+    <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" />
+    <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" />
+    <file name="StructureAspectDescriptor.java" />
+  </common>
+  <source id="1250172204141979116" name="GeneratedCppFile" hash="-7lij4evnqj1n3wp84cdf6z01n8ao9jl" />
+  <source id="2451009910642363124" name="GeneratedHeaderFile" hash="-cxn0fy6t5o9b17jet4rv38cxr6p8ibw" />
+  <source id="2451009910644941257" name="IncludeCommand" hash="-e4ugdzh9k2lwy6d03hhh6u8kbk6v6i2" />
+  <source id="8456210691473528984" name="IncludeOnceDirective" hash="-5jpno6m6p03hlgdqphug0m0p28dednn" />
+  <source id="8456210691473555071" name="EndOfIncludeOnceDirective" hash="-821jcjkh75k0fcypgyqcj0ltx12n0qe" />
+</dependencies>
+

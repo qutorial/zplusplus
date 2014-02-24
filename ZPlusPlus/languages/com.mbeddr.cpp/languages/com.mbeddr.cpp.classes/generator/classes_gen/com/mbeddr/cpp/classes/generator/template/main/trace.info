@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="QueriesGenerated.java" startLine="14" startPosition="0" endLine="23" endPosition="0" unitName="com.mbeddr.cpp.classes.generator.template.main.QueriesGenerated" />
+  <root nodeRef="r:bb553f0f-ed87-4af1-9be8-c198263dc923(com.mbeddr.cpp.classes.generator.template.main@generator)/3465358579054630493">
+    <nodeInfo nodeId="3465358579054630555" fileName="QueriesGenerated.java" startLine="17" startPosition="35" endLine="18" endPosition="111" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3465358579054630551" fileName="QueriesGenerated.java" startLine="17" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="3465358579054630496" fileName="QueriesGenerated.java" startLine="15" startPosition="145" endLine="20" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <scopeInfo nodeId="3465358579054630552" fileName="QueriesGenerated.java" startLine="17" startPosition="35" endLine="18" endPosition="111" />
+    <scopeInfo nodeId="3465358579054630551" fileName="QueriesGenerated.java" startLine="17" startPosition="0" endLine="20" endPosition="0">
+      <varInfo nodeId="3465358579054630551" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="3465358579054630495" fileName="QueriesGenerated.java" startLine="15" startPosition="145" endLine="20" endPosition="7" />
+    <unitInfo nodeId="3465358579054630551" fileName="QueriesGenerated.java" startLine="16" startPosition="149" endLine="20" endPosition="5" unitName="com.mbeddr.cpp.classes.generator.template.main.QueriesGenerated$1" />
+  </root>
+</debugInfo>
+

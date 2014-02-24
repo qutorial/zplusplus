@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="DFABuilders.java" startLine="8" startPosition="0" endLine="13" endPosition="0" unitName="com.mbeddr.cpp.classes.dataFlow.DFABuilders" />
+  <root nodeRef="r:29bb2fb9-15b8-4f3b-bddc-0a01df00c2f8(com.mbeddr.cpp.classes.dataFlow)/2533033302498645737">
+    <nodeInfo nodeId="2533033302498645740" fileName="OoDotExpression_DataFlow.java" startLine="15" startPosition="102" endLine="16" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2533033302498645737" fileName="OoDotExpression_DataFlow.java" startLine="12" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="OoDotExpression_DataFlow#()V" />
+    <nodeInfo nodeId="2533033302498645737" fileName="OoDotExpression_DataFlow.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="build#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/lang/dataFlow/DataFlowBuilderContext;)V" />
+    <scopeInfo nodeId="2533033302498645737" fileName="OoDotExpression_DataFlow.java" startLine="12" startPosition="37" endLine="12" endPosition="37" />
+    <scopeInfo nodeId="2533033302498645739" fileName="OoDotExpression_DataFlow.java" startLine="15" startPosition="102" endLine="16" endPosition="103" />
+    <scopeInfo nodeId="2533033302498645737" fileName="OoDotExpression_DataFlow.java" startLine="12" startPosition="0" endLine="14" endPosition="0" />
+    <scopeInfo nodeId="2533033302498645737" fileName="OoDotExpression_DataFlow.java" startLine="15" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="2533033302498645737" varName="_context" />
+      <varInfo nodeId="2533033302498645737" varName="operationContext" />
+    </scopeInfo>
+    <unitInfo nodeId="2533033302498645737" fileName="OoDotExpression_DataFlow.java" startLine="11" startPosition="0" endLine="19" endPosition="0" unitName="com.mbeddr.cpp.classes.dataFlow.OoDotExpression_DataFlow" />
+  </root>
+</debugInfo>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:89079a23-f22e-4457-b932-c2c7894e674e(test.ex.cpp.gen.test1)/2451009910641731348">
+    <nodeInfo nodeId="8456210691474208851" fileName="SimpleClass.cpp" startLine="8" startPosition="2" endLine="8" endPosition="14" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="8456210691474208864" fileName="SimpleClass.cpp" startLine="8" startPosition="9" endLine="8" endPosition="13" conceptFqName="com.mbeddr.core.pointers.structure.StringLiteral" />
+    <nodeInfo nodeId="2451009910642356805" fileName="SimpleClass.cpp" startLine="13" startPosition="2" endLine="13" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="8456210691474208685" fileName="SimpleClass.cpp" startLine="7" startPosition="27" endLine="10" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="2451009910642356727" fileName="SimpleClass.cpp" startLine="12" startPosition="27" endLine="15" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <unitInfo nodeId="2451009910641731348" fileName="SimpleClass.cpp" startLine="1" startPosition="0" endLine="17" endPosition="0" unitName="test.ex.cpp.gen.test1.SimpleClass" />
+    <unitInfo nodeId="2451009910641731348" fileName="SimpleClass.h" startLine="1" startPosition="0" endLine="13" endPosition="6" unitName="test.ex.cpp.gen.test1.SimpleClass" />
+  </root>
+  <root nodeRef="r:89079a23-f22e-4457-b932-c2c7894e674e(test.ex.cpp.gen.test1)/2451009910641734957">
+    <nodeInfo nodeId="8456210691474209307" fileName="Main.cpp" startLine="12" startPosition="2" endLine="12" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="8456210691474210643" fileName="Main.cpp" startLine="13" startPosition="2" endLine="13" endPosition="16" conceptFqName="com.mbeddr.core.statements.structure.LocalVariableDeclaration" />
+    <nodeInfo nodeId="8456210691474210339" fileName="Main.cpp" startLine="14" startPosition="2" endLine="14" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="8456210691474210176" fileName="Main.cpp" startLine="15" startPosition="2" endLine="15" endPosition="26" conceptFqName="com.mbeddr.cpp.classes.structure.Cout" />
+    <nodeInfo nodeId="8456210691474210180" fileName="Main.cpp" startLine="15" startPosition="2" endLine="15" endPosition="27" conceptFqName="com.mbeddr.core.statements.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8456210691474210963" fileName="Main.cpp" startLine="15" startPosition="16" endLine="15" endPosition="17" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="8456210691474211119" fileName="Main.cpp" startLine="15" startPosition="16" endLine="15" endPosition="25" conceptFqName="com.mbeddr.cpp.classes.structure.OoDotExpression" />
+    <nodeInfo nodeId="8456210691474209453" fileName="Main.cpp" startLine="16" startPosition="2" endLine="16" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.Statement" />
+    <nodeInfo nodeId="2451009910641734968" fileName="Main.cpp" startLine="17" startPosition="2" endLine="17" endPosition="11" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="2451009910641734969" fileName="Main.cpp" startLine="17" startPosition="9" endLine="17" endPosition="10" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="2451009910641734960" fileName="Main.cpp" startLine="11" startPosition="0" endLine="19" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="2451009910641734958" fileName="Main.cpp" startLine="10" startPosition="0" endLine="20" endPosition="0" conceptFqName="com.mbeddr.core.modules.structure.Function" propertyString="main" />
+    <unitInfo nodeId="2451009910641734957" fileName="Main.cpp" startLine="1" startPosition="0" endLine="21" endPosition="0" unitName="test.ex.cpp.gen.test1.Main" />
+    <unitInfo nodeId="2451009910641734957" fileName="Main.h" startLine="1" startPosition="0" endLine="4" endPosition="6" unitName="test.ex.cpp.gen.test1.Main" />
+  </root>
+</debugInfo>
+
