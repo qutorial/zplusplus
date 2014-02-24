@@ -13,19 +13,143 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ceff6e-8760-488c-ac6c-ff7104d667f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/HelloLanguage.mpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/generator/template/main@generator.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mps/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/typesystem.mps" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/classes_gen/com/mbeddr/cpp/classes/generator/template/main/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/structure.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.mps/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/template/com/mbeddr/cpp/classes/generator/template/main@generator.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/editor.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/behavior.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/behavior.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/test.ex.patterns.adapter/models/test/ex/patterns/adapter/test.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/constraints.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/typesystem.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/visibility.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/dataFlow.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.mps/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/structure.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/behavior.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/typesystem.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/namespaces.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HelloLanguage/HelloLanguage.mpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/classes.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/source_gen.caches/com/mbeddr/cpp/classes/generator/template/main/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/classes.mpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.mps/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ts.cpp.basics/basics.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen.caches/com/mbeddr/cpp/patterns/generator/template/main/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/structure.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/version.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.templates/models/test/ex/cpp/templates/main.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/editor.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/constructors.mps" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/modules.xml" afterPath="$PROJECT_DIR$/.mps/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/models/com/mbeddr/cpp/cext/pluginSolution/plugin.mps" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/models/com/mbeddr/cpp/cext/pluginSolution/plugin.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" afterPath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/typesystem.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/test/ex/cpp/basics/newnro.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.mps/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/constraints.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/source_gen/com/mbeddr/cpp/classes/generator/template/main/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/editor.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/test.ex.cpp.overloading/test.ex.cpp.overloading.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp.dev.mpr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/typesystem.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/markusNamespaces.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/template/main@generator.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/constraints.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/template/main@generator.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen.caches/com/mbeddr/cpp/gen/generator/template/main/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/constraints.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/casting.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/structure.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.mps/version.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/typesystem.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/test.ex.patterns.adapter/test.ex.patterns.adapter.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/basics.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/editor.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/allocation.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/editor.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build.properties.example" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/icons/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/source_gen.caches/test/ex/cpp/screenshots/main/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/style.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/constructors.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/typesystem.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/codeStyleSettings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/models/test/ex/cpp/screenshots/main.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/classes_gen/com/mbeddr/cpp/classes/generator/template/main/QueriesGenerated$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/findUsages.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen/com/mbeddr/cpp/patterns/generator/template/main/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/editor.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/textGen.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen.caches/com/mbeddr/cpp/patterns/generator/template/main/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.mps/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HelloLanguage/languageModels/structure.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/scripts.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/classes_gen/com/mbeddr/cpp/patterns/generator/template/main/QueriesGenerated.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/devkits/com.mbeddr.cpp/cpp.devkit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/intentions.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/structure.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/source_gen/com/mbeddr/cpp/patterns/generator/template/main/QueriesGenerated.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/inheritance.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.screenshots.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/makeTest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/source_gen.caches/com/mbeddr/cpp/classes/generator/template/main/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/source_gen.caches/test/ex/cpp/screenshots/main/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/QueriesGenerated$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/test.ex.cpp.overloading/models/test/ex/cpp/overloading/operators.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/structure.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/models/com/mbeddr/cpp/cext/pluginSolution/plugin.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/structure.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/constraints.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/intentions.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../devkits/com.mbeddr.cpp.patternskit/com.mbeddr.cpp.patternskit.devkit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/classes_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.mps/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/nestednamespaceproviders.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.vector/test.ex.cpp.vector.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/constraints.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/classes_gen/com/mbeddr/cpp/classes/generator/template/main/QueriesGenerated.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/visibility_friend_functions_bug.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/behavior.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/textGen.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ts.cpp.basics/models/t1.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/classes.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/generator/source_gen/com/mbeddr/cpp/classes/generator/template/main/QueriesGenerated.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/new/test.ex.cpp.gen.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.mps/libraries.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/generator/classes_gen/com/mbeddr/cpp/patterns/generator/template/main/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/behavior.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.mpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/behavior.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.templates/models/test/ex/cpp/templates/main.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.templates/templates.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/typesystem.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/generator/source_gen/com/mbeddr/cpp/gen/generator/template/main/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/cext.mpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/actions.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/new/models/test/ex/cpp/gen/test1.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ts.cpp.basics/models/t1.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.classes/languageModels/structure.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.gen/languageModels/structure.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/textGen.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HelloLanguage/generator/template/main@generator.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/intentions.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.patterns/languageModels/structure.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/com.mbeddr.cpp.cext/languageModels/actions.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/visibility.mps.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.vector/models/test/ex/cpp/vector/main.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test.ex.cpp.basics/models/test/ex/cpp/basics/inheritance.mps.orig" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
     </list>
     <ignored path="cpp.dev.iws" />
@@ -37,9 +161,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
-  <component name="ConsoleHistory">
-    <option name="state" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;model modelUID=&quot;r:ed1b33f5-e6c3-4b0d-bc55-c58f98794559(TempModel_30056180098330)&quot;&gt;&#10;  &lt;persistence version=&quot;8&quot; /&gt;&#10;  &lt;language namespace=&quot;de1ad86d-6e50-4a02-b306-d4d17f64c375(jetbrains.mps.console.base)&quot; /&gt;&#10;  &lt;language namespace=&quot;f26691d2-0def-4c06-aec6-2cb90c4af0a4(jetbrains.mps.console.scripts)&quot; /&gt;&#10;  &lt;language namespace=&quot;1a8554c4-eb84-43ba-8c34-6f0d90c6e75a(jetbrains.mps.console.blCommand)&quot; /&gt;&#10;  &lt;language namespace=&quot;a5e4de53-46a3-44da-aab3-68fdf1c34ed0(jetbrains.mps.console.ideCommands)&quot; /&gt;&#10;  &lt;language namespace=&quot;995a7394-7f76-4b8b-a929-c53448708106(jetbrains.mps.console.internalCommands)&quot; /&gt;&#10;  &lt;devkit namespace=&quot;fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)&quot; /&gt;&#10;  &lt;import index=&quot;eynw&quot; modelUID=&quot;r:359b1d2b-77c4-46df-9bf2-b25cbea32254(jetbrains.mps.console.base.structure)&quot; version=&quot;1&quot; /&gt;&#10;  &lt;import index=&quot;z2sp&quot; modelUID=&quot;r:e712f353-5c3c-4288-adce-87c956a52ffb(jetbrains.mps.console.scripts.structure)&quot; version=&quot;0&quot; /&gt;&#10;  &lt;import index=&quot;3xdn&quot; modelUID=&quot;r:935ba0ee-7291-4caa-a807-d76e8fc69391(jetbrains.mps.console.blCommand.structure)&quot; version=&quot;3&quot; /&gt;&#10;  &lt;import index=&quot;caxt&quot; modelUID=&quot;r:135a606f-0376-4c5c-9ab8-4030f051a062(jetbrains.mps.console.ideCommands.structure)&quot; version=&quot;-1&quot; /&gt;&#10;  &lt;import index=&quot;wns9&quot; modelUID=&quot;r:90445206-a973-4c1d-b760-30e5c77b7497(jetbrains.mps.console.internalCommands.structure)&quot; version=&quot;-1&quot; /&gt;&#10;  &lt;root type=&quot;eynw.ConsoleRoot&quot; typeId=&quot;eynw.1583916890557930028&quot; id=&quot;5376984553043056227&quot; nodeInfo=&quot;ng&quot;&gt;&#10;    &lt;node role=&quot;history&quot; roleId=&quot;eynw.1583916890557930415&quot; type=&quot;eynw.History&quot; typeId=&quot;eynw.757553790980850366&quot; id=&quot;5376984553043056228&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;    &lt;node role=&quot;commandHolder&quot; roleId=&quot;eynw.1583916890557930417&quot; type=&quot;eynw.CommandHolder&quot; typeId=&quot;eynw.351968380916615243&quot; id=&quot;5376984553043056229&quot; nodeInfo=&quot;ng&quot; /&gt;&#10;  &lt;/root&gt;&#10;&lt;/model&gt;&#10;&#10;" />
-  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -55,39 +176,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Concept" pinned="false" current="true" current-in-tab="true">
-        <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="315" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellNumber="4" isInList="false">
-                      <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
-                      <parent cellId="collection_1" cellNumber="0" isInList="false">
-                        <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
-                      </parent>
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-                <enabledHints />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -126,7 +215,7 @@
     <option name="warnings" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1906" />
+    <option name="width" value="1894" />
     <option name="height" value="1165" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -141,6 +230,31 @@
   </component>
   <component name="ProjectPluginManager">
     <option name="pluginsState">
+      <option name="com.lmsintl.accent.analyses.cprover.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.lmsintl.accent.analyses.remote.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.lmsintl.accent.blocks.composite.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.lmsintl.accent.blocks.logger.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.lmsintl.accent.coverage.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="com.mbeddr.analyses.cbmc.pluginSolution.plugin.PluginSolution_ProjectPlugin">
         <value>
           <PluginState />
@@ -220,6 +334,11 @@
           </PluginState>
         </value>
       </option>
+      <option name="com.mbeddr.mpsutil.typesystem.trace.rt.plugin.Rt_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="com.mbeddr.plantuml.pluginSolution.plugin.PluginSolution_ProjectPlugin">
         <value>
           <PluginState />
@@ -276,7 +395,7 @@
     </option>
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -291,7 +410,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -310,154 +428,9 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.actions">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.structure">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="namespace">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="HelloLanguage">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="languages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.pluginSolution">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com.mbeddr.cpp.cext.pluginSolution.plugin">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Favorites" />
       <pane id="FileSystem" />
     </panes>
   </component>
@@ -475,36 +448,6 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
-      <MyState />
-      <myJUnitSettings>
-        <MyState>
-          <option name="myModel" />
-          <option name="myModule" />
-          <option name="myTestCases">
-            <list />
-          </option>
-          <option name="myTestMethods">
-            <list />
-          </option>
-          <option name="myRunType" value="PROJECT" />
-        </MyState>
-      </myJUnitSettings>
-      <myJavaRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myJavaRunParameters>
-      <method />
-    </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="Application" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -561,53 +504,60 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1906" height="1165" extended-state="4" />
+    <frame x="0" y="0" width="1894" height="1165" extended-state="4" />
     <editor active="false" />
     <layout>
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33115062" sideWeight="0.6004217" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.49973586" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.5002636" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32802248" sideWeight="0.39957827" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32540438" sideWeight="0.5871985" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3530037" sideWeight="0.6679353" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24828677" sideWeight="0.6736441" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Switch Verification Tool" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Datalogger Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Type System Performance Data" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="mbeddr Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="State Machine Verification (NuSMV)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.5002636" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="mbeddr Analyze Error Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Feature Model Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35253334" sideWeight="0.6679353" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33115062" sideWeight="0.6004217" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Decision Table Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Verification (CBMC)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Accent Remote Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32802248" sideWeight="0.39957827" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="ACCENT Test Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Block Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Accent CProver Tool" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="State Machine Verification (NuSMV)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="mbeddr Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="mbeddr Analyze Error Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Feature Model Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32540438" sideWeight="0.5871985" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24828677" sideWeight="0.6736441" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Model Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.49973643" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Decision Table Verification (Yices)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Verification (CBMC)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UsagesViewTool">
@@ -629,101 +579,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://com.mbeddr.cpp.classes/com.mbeddr.cpp.classes.structure/Concept">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="315" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellNumber="4" isInList="false">
-                  <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
-                  <parent cellId="collection_1" cellNumber="0" isInList="false">
-                    <node node_reference="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)/1022708226502493617" />
-                  </parent>
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-            <enabledHints />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
 

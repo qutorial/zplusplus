@@ -10,14 +10,14 @@
   <unitInfo fileName="ClassMember_BehaviorDescriptor.java" startLine="13" startPosition="0" endLine="42" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ClassMember_BehaviorDescriptor" />
   <unitInfo fileName="ClassRefExpr_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ClassRefExpr_BehaviorDescriptor" />
   <unitInfo fileName="ClassRef_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ClassRef_BehaviorDescriptor" />
-  <unitInfo fileName="ClassifierType_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="63" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ClassifierType_BehaviorDescriptor" />
+  <unitInfo fileName="ClassifierType_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="67" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ClassifierType_BehaviorDescriptor" />
   <unitInfo fileName="Classifier_BehaviorDescriptor.java" startLine="18" startPosition="0" endLine="128" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.Classifier_BehaviorDescriptor" />
   <unitInfo fileName="ConceptRealizationClause_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRealizationClause_BehaviorDescriptor" />
   <unitInfo fileName="ConceptRef_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRef_BehaviorDescriptor" />
-  <unitInfo fileName="ConceptRestrictedTemplateParameterType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRestrictedTemplateParameterType_BehaviorDescriptor" />
+  <unitInfo fileName="ConceptRestrictedTemplateParameterType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="25" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRestrictedTemplateParameterType_BehaviorDescriptor" />
   <unitInfo fileName="ConceptRestrictedTemplateParameter_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRestrictedTemplateParameter_BehaviorDescriptor" />
   <unitInfo fileName="ConceptRestrictedTypeRefExpr_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="20" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRestrictedTypeRefExpr_BehaviorDescriptor" />
-  <unitInfo fileName="ConceptType_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptType_BehaviorDescriptor" />
+  <unitInfo fileName="ConceptType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptType_BehaviorDescriptor" />
   <unitInfo fileName="Concept_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="45" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.Concept_BehaviorDescriptor" />
   <unitInfo fileName="ConstructorCallExpression_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="45" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConstructorCallExpression_BehaviorDescriptor" />
   <unitInfo fileName="ConstructorDeclaration_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="20" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConstructorDeclaration_BehaviorDescriptor" />
@@ -69,7 +69,7 @@
   <unitInfo fileName="SafeDeleteStatement_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.SafeDeleteStatement_BehaviorDescriptor" />
   <unitInfo fileName="SquareBracketsOperatorDesignator_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.SquareBracketsOperatorDesignator_BehaviorDescriptor" />
   <unitInfo fileName="TemplateClassParameter_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.TemplateClassParameter_BehaviorDescriptor" />
-  <unitInfo fileName="TemplateParamType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.TemplateParamType_BehaviorDescriptor" />
+  <unitInfo fileName="TemplateParamType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="25" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.TemplateParamType_BehaviorDescriptor" />
   <unitInfo fileName="TemplateParameter_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.TemplateParameter_BehaviorDescriptor" />
   <unitInfo fileName="TemplatePrimitiveParameter_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.TemplatePrimitiveParameter_BehaviorDescriptor" />
   <unitInfo fileName="Template_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.Template_BehaviorDescriptor" />
@@ -358,17 +358,23 @@
   </root>
   <root nodeRef="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/1022708226504635856">
     <nodeInfo nodeId="1022708226504635865" fileName="TemplateParamType_Behavior.java" startLine="13" startPosition="78" endLine="14" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="167128860417249894" fileName="TemplateParamType_Behavior.java" startLine="17" startPosition="78" endLine="18" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="10" startPosition="0" endLine="12" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
     <nodeInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="13" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getPresentation_1213877396640#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="17" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getUsedBytes_6941595764870551407#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
     <scopeInfo nodeId="1022708226504635858" fileName="TemplateParamType_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
     <scopeInfo nodeId="1022708226504635862" fileName="TemplateParamType_Behavior.java" startLine="13" startPosition="78" endLine="14" endPosition="102" />
+    <scopeInfo nodeId="167128860417249763" fileName="TemplateParamType_Behavior.java" startLine="17" startPosition="78" endLine="18" endPosition="13" />
     <scopeInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="10" startPosition="0" endLine="12" endPosition="0">
       <varInfo nodeId="1022708226504635856" varName="thisNode" />
     </scopeInfo>
     <scopeInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="13" startPosition="0" endLine="16" endPosition="0">
       <varInfo nodeId="1022708226504635856" varName="thisNode" />
     </scopeInfo>
-    <unitInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.TemplateParamType_Behavior" />
+    <scopeInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="17" startPosition="0" endLine="20" endPosition="0">
+      <varInfo nodeId="1022708226504635856" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="1022708226504635856" fileName="TemplateParamType_Behavior.java" startLine="9" startPosition="0" endLine="21" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.TemplateParamType_Behavior" />
   </root>
   <root nodeRef="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/1022708226504867670">
     <nodeInfo nodeId="8616684942293462935" fileName="ITemplateInstantiator_Behavior.java" startLine="17" startPosition="81" endLine="18" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
@@ -555,6 +561,20 @@
       <varInfo nodeId="158014820112568481" varName="thisNode" />
     </scopeInfo>
     <unitInfo nodeId="158014820112568481" fileName="Field_Behavior.java" startLine="10" startPosition="0" endLine="52" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.Field_Behavior" />
+  </root>
+  <root nodeRef="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/167128860417244227">
+    <nodeInfo nodeId="167128860417244241" fileName="ConceptType_Behavior.java" startLine="11" startPosition="78" endLine="12" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="167128860417244227" fileName="ConceptType_Behavior.java" startLine="8" startPosition="0" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="167128860417244227" fileName="ConceptType_Behavior.java" startLine="11" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getUsedBytes_6941595764870551407#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
+    <scopeInfo nodeId="167128860417244229" fileName="ConceptType_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+    <scopeInfo nodeId="167128860417244234" fileName="ConceptType_Behavior.java" startLine="11" startPosition="78" endLine="12" endPosition="13" />
+    <scopeInfo nodeId="167128860417244227" fileName="ConceptType_Behavior.java" startLine="8" startPosition="0" endLine="10" endPosition="0">
+      <varInfo nodeId="167128860417244227" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="167128860417244227" fileName="ConceptType_Behavior.java" startLine="11" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="167128860417244227" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="167128860417244227" fileName="ConceptType_Behavior.java" startLine="7" startPosition="0" endLine="15" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptType_Behavior" />
   </root>
   <root nodeRef="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/1782955756756783926">
     <nodeInfo nodeId="1782955756756783926" fileName="OoMemberRef_Behavior.java" startLine="15" startPosition="75" endLine="16" endPosition="124" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
@@ -1030,6 +1050,7 @@
     <nodeInfo nodeId="5855706895499781823" fileName="ClassifierType_Behavior.java" startLine="105" startPosition="119" endLine="106" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
     <nodeInfo nodeId="5855706895499781836" fileName="ClassifierType_Behavior.java" startLine="107" startPosition="37" endLine="108" endPosition="178" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="5855706895499781829" fileName="ClassifierType_Behavior.java" startLine="109" startPosition="5" endLine="110" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="167128860417238960" fileName="ClassifierType_Behavior.java" startLine="113" startPosition="78" endLine="114" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="13" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
     <nodeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="16" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getPresentation_1213877396640#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
     <nodeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="20" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_canBeConst_2941277002447374595#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
@@ -1040,6 +1061,7 @@
     <nodeInfo nodeId="3285537971613418118" fileName="ClassifierType_Behavior.java" startLine="52" startPosition="0" endLine="55" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <nodeInfo nodeId="3285537971613418181" fileName="ClassifierType_Behavior.java" startLine="65" startPosition="0" endLine="68" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <nodeInfo nodeId="5855706895499781820" fileName="ClassifierType_Behavior.java" startLine="106" startPosition="0" endLine="109" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="113" startPosition="0" endLine="116" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getUsedBytes_6941595764870551407#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
     <nodeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="99" startPosition="0" endLine="103" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_isAllowedInExpression_3285537971614217179#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
     <nodeInfo nodeId="8489939682834809697" fileName="ClassifierType_Behavior.java" startLine="40" startPosition="59" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
     <nodeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="28" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getClassDeclaration_1022708226504867673#(Lorg/jetbrains/mps/openapi/model/SNode;)Lorg/jetbrains/mps/openapi/model/SNode;" />
@@ -1063,6 +1085,7 @@
     <scopeInfo nodeId="3285537971613418182" fileName="ClassifierType_Behavior.java" startLine="66" startPosition="34" endLine="67" endPosition="18" />
     <scopeInfo nodeId="5855706895499781714" fileName="ClassifierType_Behavior.java" startLine="81" startPosition="68" endLine="82" endPosition="37" />
     <scopeInfo nodeId="5855706895499781822" fileName="ClassifierType_Behavior.java" startLine="107" startPosition="37" endLine="108" endPosition="178" />
+    <scopeInfo nodeId="167128860417177116" fileName="ClassifierType_Behavior.java" startLine="113" startPosition="78" endLine="114" endPosition="13" />
     <scopeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="13" startPosition="0" endLine="15" endPosition="0">
       <varInfo nodeId="2941277002447374805" varName="thisNode" />
     </scopeInfo>
@@ -1082,6 +1105,9 @@
       <varInfo nodeId="2941277002447374805" varName="thisNode" />
     </scopeInfo>
     <scopeInfo nodeId="8489939682834809698" fileName="ClassifierType_Behavior.java" startLine="41" startPosition="211" endLine="44" endPosition="7" />
+    <scopeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="113" startPosition="0" endLine="116" endPosition="0">
+      <varInfo nodeId="2941277002447374805" varName="thisNode" />
+    </scopeInfo>
     <scopeInfo nodeId="1022708226504867748" fileName="ClassifierType_Behavior.java" startLine="28" startPosition="87" endLine="32" endPosition="16" />
     <scopeInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="99" startPosition="0" endLine="103" endPosition="0">
       <varInfo nodeId="5855706895499781701" varName="aae" />
@@ -1128,7 +1154,7 @@
       <varInfo nodeId="5855706895499781644" varName="aae" />
       <varInfo nodeId="2941277002447374805" varName="thisNode" />
     </scopeInfo>
-    <unitInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="12" startPosition="0" endLine="113" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ClassifierType_Behavior" />
+    <unitInfo nodeId="2941277002447374805" fileName="ClassifierType_Behavior.java" startLine="12" startPosition="0" endLine="117" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ClassifierType_Behavior" />
   </root>
   <root nodeRef="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/3152709411796856780">
     <nodeInfo nodeId="3152709411796856780" fileName="FriendDeclaration_Behavior.java" startLine="15" startPosition="74" endLine="16" endPosition="150" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
@@ -2697,17 +2723,23 @@
   </root>
   <root nodeRef="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/7494111203194221924">
     <nodeInfo nodeId="7494111203194221933" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="13" startPosition="78" endLine="14" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="167128860417814793" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="17" startPosition="78" endLine="18" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="10" startPosition="0" endLine="12" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
     <nodeInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="13" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getPresentation_1213877396640#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="17" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getUsedBytes_6941595764870551407#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
     <scopeInfo nodeId="7494111203194221926" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
     <scopeInfo nodeId="7494111203194221930" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="13" startPosition="78" endLine="14" endPosition="106" />
+    <scopeInfo nodeId="167128860417814666" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="17" startPosition="78" endLine="18" endPosition="13" />
     <scopeInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="10" startPosition="0" endLine="12" endPosition="0">
       <varInfo nodeId="7494111203194221924" varName="thisNode" />
     </scopeInfo>
     <scopeInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="13" startPosition="0" endLine="16" endPosition="0">
       <varInfo nodeId="7494111203194221924" varName="thisNode" />
     </scopeInfo>
-    <unitInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRestrictedTemplateParameterType_Behavior" />
+    <scopeInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="17" startPosition="0" endLine="20" endPosition="0">
+      <varInfo nodeId="7494111203194221924" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="7494111203194221924" fileName="ConceptRestrictedTemplateParameterType_Behavior.java" startLine="9" startPosition="0" endLine="21" endPosition="0" unitName="com.mbeddr.cpp.classes.behavior.ConceptRestrictedTemplateParameterType_Behavior" />
   </root>
   <root nodeRef="r:309fa391-fbb1-4e9e-aee7-425fefab09dd(com.mbeddr.cpp.classes.behavior)/7494111203194232458">
     <nodeInfo nodeId="7494111203194232458" fileName="FieldAccessExpression_Behavior.java" startLine="8" startPosition="0" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />

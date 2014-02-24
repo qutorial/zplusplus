@@ -39,6 +39,10 @@ public class ClassifierType_BehaviorDescriptor extends Type_BehaviorDescriptor i
     return ClassifierType_Behavior.virtual_getTypeOfOperation_3285537971614217186(thisNode, aae);
   }
 
+  public int virtual_getUsedBytes_6941595764870551407(SNode thisNode) {
+    return ClassifierType_Behavior.virtual_getUsedBytes_6941595764870551407(thisNode);
+  }
+
   public boolean virtual_isAllowedInBinaryExpression_892278390190633819(SNode thisNode, SNode be) {
     return ClassifierType_Behavior.virtual_isAllowedInBinaryExpression_892278390190633819(thisNode, be);
   }

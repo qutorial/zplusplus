@@ -2,14 +2,13 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="languages/com.mbeddr.cpp/devkits/com.mbeddr.cpp/cpp.devkit" folder="" />
-      <modulePath path="languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.cext/cext.mpl" folder="" />
-      <modulePath path="languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" folder="" />
-      <modulePath path="languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.classes/classes.mpl" folder="" />
-      <modulePath path="languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" folder="" />
-      <modulePath path="languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.patterns/com.mbeddr.cpp.patterns.mpl" folder="" />
-      <modulePath path="languages/com.mbeddr.cpp/solutions/test.ex.cpp.overloading/test.ex.cpp.overloading.msd" folder="" />
-      <modulePath path="languages/com.mbeddr.cpp/tests/test.ex.cpp.screenshots.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/devkits/com.mbeddr.cpp/cpp.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.cext/cext.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.classes/classes.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/solutions/test.ex.cpp.overloading/test.ex.cpp.overloading.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/tests/test.ex.cpp.screenshots.msd" folder="" />
     </projectModules>
   </component>
 </project>

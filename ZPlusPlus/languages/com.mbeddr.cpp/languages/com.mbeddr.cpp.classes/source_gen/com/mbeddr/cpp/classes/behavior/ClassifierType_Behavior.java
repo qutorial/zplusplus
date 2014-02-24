@@ -109,4 +109,8 @@ public class ClassifierType_Behavior {
     }
     return null;
   }
+
+  public static int virtual_getUsedBytes_6941595764870551407(SNode thisNode) {
+    return 4;
+  }
 }

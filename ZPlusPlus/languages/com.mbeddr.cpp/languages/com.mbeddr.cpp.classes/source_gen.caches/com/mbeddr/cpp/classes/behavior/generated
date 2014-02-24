@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-5vs4l0vj52osvlm1u46k0k19z9wvvj1">
+<dependencies version="2" modelHash="-3mogkzu7bes3bsjo2r5ptdvw5p6x0t8">
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang.reflect(JDK/java.lang.reflect@java_stub)" />
@@ -49,7 +49,7 @@
   <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" hash="6dhuozmt8s3f91lbhb1z7jnjqvv95u" />
   <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
   <dep model="r:fd2980c8-676c-4b19-b524-18c70e02f8b7(com.mbeddr.core.base.behavior)" hash="-35v819wumschgjsx2g7a8a4l6488jcj" />
-  <common hash="-9zvupwav8k3yuk0wssb5ky2lcc3w3dw" dependsOnNodes="true">
+  <common hash="74c8a721kbjt89vhv3tlsm4nfckmvht" dependsOnNodes="true">
     <dep root="1022708226502685368" />
     <dep root="1022708226502685739" />
     <dep root="1022708226502967194" />
@@ -60,6 +60,7 @@
     <dep root="1488442383166333055" />
     <dep root="158014820112242829" />
     <dep root="158014820112568481" />
+    <dep root="167128860417244227" />
     <dep root="1782955756756783926" />
     <dep root="1782955756756783934" />
     <dep root="1782955756756783972" />
@@ -214,7 +215,7 @@
     <file name="ThisExpression_BehaviorDescriptor.java" />
     <file name="TypeRefExpr_BehaviorDescriptor.java" />
   </common>
-  <source id="4157133445514984448" name="ClassDeclaration_Behavior" hash="-ccqrh258biwpy2xrfcxn21z4p6shxa2">
+  <source id="4157133445514984448" name="ClassDeclaration_Behavior" hash="-ajqrc09qbvcc5c7akbnn0yp0h7ovfgi">
     <dep root="1022708226502685368" />
     <dep root="3152709411796856780" />
     <dep root="610576951245997246" />
@@ -632,7 +633,7 @@
     <dep model="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" />
     <file name="IClassMember_Behavior.java" />
   </source>
-  <source id="2941277002447374805" name="ClassifierType_Behavior" hash="c9sb3eh64alraa3t0utueh684nls0b5">
+  <source id="2941277002447374805" name="ClassifierType_Behavior" hash="-44euviyb62u1y3537ld9czvx4i3sftc">
     <dep root="1022708226504867670" />
     <dep root="892278390190962633" />
     <dep root="998890089994455156" />
@@ -733,7 +734,7 @@
     <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
     <file name="ICanBeInTemplateContext_Behavior.java" />
   </source>
-  <source id="1022708226502685368" name="Classifier_Behavior" hash="1uvfz2rc0pf1mt69ty8m7tszwk5qe38">
+  <source id="1022708226502685368" name="Classifier_Behavior" hash="-el2z2ys2l4ufl6vmmjdbbsf2cg4czo5">
     <dep root="2015268598019204064" />
     <dep root="8616684942293509486" />
     <dep root="998890089994455156" />
@@ -836,7 +837,7 @@
     <dep model="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" />
     <file name="OoDotExpression_Behavior.java" />
   </source>
-  <source id="1022708226504635856" name="TemplateParamType_Behavior" hash="3sckpdysfij73ayawrlhm9krek0ptwa">
+  <source id="1022708226504635856" name="TemplateParamType_Behavior" hash="1k5dj55dbh7ktgzclnm4o13saem3u28">
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#8865b7a8-5271-43d3-884c-6fd1d9cfdd34#org.jetbrains.mps.openapi.model(MPS.OpenAPI/org.jetbrains.mps.openapi.model@java_stub)" />
@@ -852,6 +853,7 @@
     <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <dep model="r:c3548bac-30eb-4a2a-937c-0111d5697309(jetbrains.mps.lang.smodel.generator.smodelAdapter)" />
+    <dep model="r:c6ce92e7-5a98-4a6f-866a-ec8b9e945dd8(com.mbeddr.core.expressions.behavior)" />
     <dep model="r:c71b740e-a20d-4190-9688-0f8df932da4d(jetbrains.mps.baseLanguage.tuples.generator.template.main@generator)" />
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <dep model="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" />
@@ -1291,10 +1293,11 @@
     <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
     <file name="ConceptLocator.java" />
   </source>
-  <source id="7494111203194221924" name="ConceptRestrictedTemplateParameterType_Behavior" hash="-2m7qf831rkhdydl21jmfcqfc3n4a38p">
+  <source id="7494111203194221924" name="ConceptRestrictedTemplateParameterType_Behavior" hash="-bqlzvypoyqedo9eoucp80r75x4f6we6">
     <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902b7(jetbrains.mps.lang.typesystem.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c89590369(jetbrains.mps.lang.plugin.generator.baseLanguage.template.main@generator)" />
@@ -1303,6 +1306,7 @@
     <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <dep model="r:c3548bac-30eb-4a2a-937c-0111d5697309(jetbrains.mps.lang.smodel.generator.smodelAdapter)" />
+    <dep model="r:c6ce92e7-5a98-4a6f-866a-ec8b9e945dd8(com.mbeddr.core.expressions.behavior)" />
     <dep model="r:c71b740e-a20d-4190-9688-0f8df932da4d(jetbrains.mps.baseLanguage.tuples.generator.template.main@generator)" />
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <dep model="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" />
@@ -1370,6 +1374,19 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <dep model="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" />
     <file name="ConceptRestrictedTypeRefExpr_Behavior.java" />
+  </source>
+  <source id="167128860417244227" name="ConceptType_Behavior" hash="311apc9p5nryljrwpg0zw49uyn1oiyp">
+    <dep model="r:00000000-0000-4000-0000-011c895902b7(jetbrains.mps.lang.typesystem.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590580(jetbrains.mps.baseLanguage.logging.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:c6ce92e7-5a98-4a6f-866a-ec8b9e945dd8(com.mbeddr.core.expressions.behavior)" />
+    <dep model="r:c71b740e-a20d-4190-9688-0f8df932da4d(jetbrains.mps.baseLanguage.tuples.generator.template.main@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" />
+    <file name="ConceptType_Behavior.java" />
   </source>
 </dependencies>
 

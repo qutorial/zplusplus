@@ -13,6 +13,10 @@ public class TemplateParamType_BehaviorDescriptor extends Type_BehaviorDescripto
     return TemplateParamType_Behavior.virtual_getPresentation_1213877396640(thisNode);
   }
 
+  public int virtual_getUsedBytes_6941595764870551407(SNode thisNode) {
+    return TemplateParamType_Behavior.virtual_getUsedBytes_6941595764870551407(thisNode);
+  }
+
   @Override
   public String getConceptFqName() {
     return "com.mbeddr.cpp.classes.structure.TemplateParamType";

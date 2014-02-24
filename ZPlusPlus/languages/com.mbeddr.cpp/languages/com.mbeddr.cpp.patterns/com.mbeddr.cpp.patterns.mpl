@@ -39,6 +39,7 @@
   </usedDevKits>
   <extendedLanguages>
     <extendedLanguage>edb2cb9c-58b5-4b7f-b577-647bf9b98eee(com.mbeddr.cpp.cext)</extendedLanguage>
+    <extendedLanguage>31b871c8-3ba6-4751-8c9e-b20f99ee6b69(com.mbeddr.cpp.classes)</extendedLanguage>
   </extendedLanguages>
 </language>
 

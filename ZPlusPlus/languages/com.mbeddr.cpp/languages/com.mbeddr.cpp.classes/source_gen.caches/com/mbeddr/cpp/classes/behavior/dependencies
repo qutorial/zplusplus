@@ -365,10 +365,15 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
+  <dependency className="com.mbeddr.cpp.classes.behavior.ConceptType_Behavior" file="ConceptType_Behavior.java">
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+  </dependency>
   <dependency className="com.mbeddr.cpp.classes.behavior.ConceptType_BehaviorDescriptor" file="ConceptType_BehaviorDescriptor.java">
     <classNode dependClassName="com.mbeddr.core.expressions.behavior.Type_BehaviorDescriptor" />
+    <classNode dependClassName="com.mbeddr.cpp.classes.behavior.ConceptType_Behavior" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="com.mbeddr.cpp.classes.behavior.Concept_Behavior" file="Concept_Behavior.java">

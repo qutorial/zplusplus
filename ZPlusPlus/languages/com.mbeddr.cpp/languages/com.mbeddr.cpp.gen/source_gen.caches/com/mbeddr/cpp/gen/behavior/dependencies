@@ -12,6 +12,18 @@
     <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
   </dependency>
+  <dependency className="com.mbeddr.cpp.gen.behavior.CppHeaderEpilogueAbstract_BehaviorDescriptor" file="CppHeaderEpilogueAbstract_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="com.mbeddr.cpp.gen.behavior.CppHeaderPreambleAbstract_BehaviorDescriptor" file="CppHeaderPreambleAbstract_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="com.mbeddr.cpp.gen.behavior.CppImplementationMaker" file="CppImplementationMaker.java">
     <classNode dependClassName="java.lang.Iterable" />
     <classNode dependClassName="java.util.List" />
@@ -22,18 +34,9 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
   </dependency>
   <dependency className="com.mbeddr.cpp.gen.behavior.EndOfIncludeOnceDirective_BehaviorDescriptor" file="EndOfIncludeOnceDirective_BehaviorDescriptor.java">
-    <classNode dependClassName="com.mbeddr.core.base.behavior.IIdentifierNamedConcept_Behavior" />
-    <classNode dependClassName="com.mbeddr.core.modules.behavior.IModuleContent_Behavior" />
-    <classNode dependClassName="com.mbeddr.core.modules.behavior.IModuleContent_BehaviorDescriptor" />
-    <classNode dependClassName="java.lang.Iterable" />
+    <classNode dependClassName="com.mbeddr.cpp.gen.behavior.CppHeaderEpilogueAbstract_BehaviorDescriptor" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
-    <classNode dependClassName="java.util.List" />
-    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
-    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
-    <classNode dependClassName="org.jetbrains.mps.openapi.language.SConcept" />
-    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
-    <classNode extendsClassName="java.lang.Cloneable" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="com.mbeddr.cpp.gen.behavior.GeneratedCppFile_Behavior" file="GeneratedCppFile_Behavior.java">
@@ -47,11 +50,11 @@
   </dependency>
   <dependency className="com.mbeddr.cpp.gen.behavior.GeneratedCppFile_BehaviorDescriptor" file="GeneratedCppFile_BehaviorDescriptor.java">
     <classNode dependClassName="com.mbeddr.core.base.behavior.IIdentifierNamedConcept_Behavior" />
+    <classNode dependClassName="com.mbeddr.core.base.behavior.IVisibleElementProvider_Behavior" />
+    <classNode dependClassName="com.mbeddr.core.base.behavior.IVisibleElementProvider_BehaviorDescriptor" />
     <classNode dependClassName="com.mbeddr.core.modules.behavior.IModuleContentContainer_BehaviorDescriptor" />
-    <classNode dependClassName="com.mbeddr.core.modules.behavior.IVisibleElementProvider_BehaviorDescriptor" />
     <classNode dependClassName="com.mbeddr.cpp.cext.behavior.CppImplementationModule_BehaviorDescriptor" />
     <classNode dependClassName="com.mbeddr.cpp.gen.behavior.GeneratedCppFile_Behavior" />
-    <classNode dependClassName="java.lang.Iterable" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
@@ -71,11 +74,11 @@
   </dependency>
   <dependency className="com.mbeddr.cpp.gen.behavior.GeneratedHeaderFile_BehaviorDescriptor" file="GeneratedHeaderFile_BehaviorDescriptor.java">
     <classNode dependClassName="com.mbeddr.core.base.behavior.IIdentifierNamedConcept_Behavior" />
+    <classNode dependClassName="com.mbeddr.core.base.behavior.IVisibleElementProvider_Behavior" />
+    <classNode dependClassName="com.mbeddr.core.base.behavior.IVisibleElementProvider_BehaviorDescriptor" />
     <classNode dependClassName="com.mbeddr.core.modules.behavior.IModuleContentContainer_BehaviorDescriptor" />
-    <classNode dependClassName="com.mbeddr.core.modules.behavior.IVisibleElementProvider_BehaviorDescriptor" />
     <classNode dependClassName="com.mbeddr.cpp.cext.behavior.CppImplementationModule_BehaviorDescriptor" />
     <classNode dependClassName="com.mbeddr.cpp.gen.behavior.GeneratedHeaderFile_Behavior" />
-    <classNode dependClassName="java.lang.Iterable" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
@@ -110,13 +113,9 @@
   <dependency className="com.mbeddr.cpp.gen.behavior.IncludeOnceDirective_BehaviorDescriptor" file="IncludeOnceDirective_BehaviorDescriptor.java">
     <classNode dependClassName="com.mbeddr.core.base.behavior.IIdentifierNamedConcept_Behavior" />
     <classNode dependClassName="com.mbeddr.core.base.behavior.IIdentifierNamedConcept_BehaviorDescriptor" />
-    <classNode dependClassName="com.mbeddr.core.modules.behavior.IModuleContent_Behavior" />
-    <classNode dependClassName="com.mbeddr.core.modules.behavior.IModuleContent_BehaviorDescriptor" />
-    <classNode dependClassName="java.lang.Iterable" />
+    <classNode dependClassName="com.mbeddr.cpp.gen.behavior.CppHeaderPreambleAbstract_BehaviorDescriptor" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
-    <classNode dependClassName="java.util.List" />
-    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
     <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
     <classNode dependClassName="org.jetbrains.mps.openapi.language.SConcept" />
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />

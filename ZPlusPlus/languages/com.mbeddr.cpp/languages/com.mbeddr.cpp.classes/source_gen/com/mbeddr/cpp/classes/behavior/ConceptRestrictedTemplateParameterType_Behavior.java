@@ -13,4 +13,8 @@ public class ConceptRestrictedTemplateParameterType_Behavior {
   public static String virtual_getPresentation_1213877396640(SNode thisNode) {
     return SPropertyOperations.getString(SLinkOperations.getTarget(thisNode, "parameter", false), "name");
   }
+
+  public static int virtual_getUsedBytes_6941595764870551407(SNode thisNode) {
+    return 4;
+  }
 }
