@@ -2,3 +2,4 @@ classes_gen/
 source_gen/
 source_gen.caches/
 *.iws
+workspace.xml
