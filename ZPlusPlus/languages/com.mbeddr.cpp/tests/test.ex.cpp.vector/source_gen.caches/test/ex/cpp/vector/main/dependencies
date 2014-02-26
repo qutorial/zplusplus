@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dependenciesRoot>
-  <dependency className="test.ex.cpp.vector.main.Makefile" file="Makefile" />
-  <dependency className="test.ex.cpp.vector.main.main" file="main.cpp" />
-  <dependency className="test.ex.cpp.vector.main.vector" file="vector.cpp" />
-</dependenciesRoot>
-

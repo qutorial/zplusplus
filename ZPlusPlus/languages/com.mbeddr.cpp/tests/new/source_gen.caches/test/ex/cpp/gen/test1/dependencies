@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dependenciesRoot>
-  <dependency className="test.ex.cpp.gen.test1.Main" file="Main.cpp" />
-  <dependency className="test.ex.cpp.gen.test1.Main" file="Main.h" />
-  <dependency className="test.ex.cpp.gen.test1.Makefile" file="Makefile" />
-  <dependency className="test.ex.cpp.gen.test1.SimpleClass" file="SimpleClass.cpp" />
-  <dependency className="test.ex.cpp.gen.test1.SimpleClass" file="SimpleClass.h" />
-</dependenciesRoot>
-
