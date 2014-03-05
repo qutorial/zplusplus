@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dependenciesRoot>
-  <dependency className="test.ex.cpp.basics.allocation.ArrayAllocation" file="ArrayAllocation.cpp" />
-  <dependency className="test.ex.cpp.basics.allocation.ArrayAllocation" file="ArrayAllocation.h" />
-  <dependency className="test.ex.cpp.basics.allocation.Makefile" file="Makefile" />
-</dependenciesRoot>
-

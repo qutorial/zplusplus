@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dependenciesRoot>
-  <dependency className="test.ex.cpp.screenshots.main.Makefile" file="Makefile" />
-  <dependency className="test.ex.cpp.screenshots.main.TypeSizeConfiguration (t.e.c.s.main)" file="TypeSizeConfiguration (t.e.c.s.main)" />
-</dependenciesRoot>
-
