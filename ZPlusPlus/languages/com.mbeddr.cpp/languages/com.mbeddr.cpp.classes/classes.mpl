@@ -44,6 +44,7 @@
   </generators>
   <sourcePath />
   <dependencies>
+    <dependency reexport="false">6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)</dependency>
     <dependency reexport="false">efda956e-491e-4f00-ba14-36af2f213ecf(com.mbeddr.core.udt)</dependency>
     <dependency reexport="false">edb2cb9c-58b5-4b7f-b577-647bf9b98eee(com.mbeddr.cpp.cext)</dependency>
     <dependency reexport="false">c72da2b9-7cce-4447-8389-f407dc1158b7(jetbrains.mps.lang.structure)</dependency>
