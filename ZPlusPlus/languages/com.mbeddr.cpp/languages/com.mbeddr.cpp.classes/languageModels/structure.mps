@@ -670,8 +670,8 @@
     <property name="virtualPackage" nameId="tpck.1193676396447" value="inheritance" />
     <property name="name" nameId="tpck.1169194664001" value="InheritanceDefinition" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
-    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="4625929837922166019" nodeInfo="ig">
-      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="8286829972465886370" nodeInfo="ig">
+      <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
       <property name="role" nameId="tpce.1071599776563" value="baseClassType" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="4157133445515154384" resolveInfo="ClassifierType" />
