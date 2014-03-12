@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="3feu" modelUID="r:b1d79e19-deff-4cad-9e7b-d213f051ba61(NewLanguage.typesystem)" version="-1" />
+      <model index="75jo" modelUID="r:dc433d0c-c915-4f51-b5c6-4683fc16070a(NewLanguage.structure)" version="1" />
+      <model index="3vgw" modelUID="r:b1604231-4a38-4879-a312-2a8e893f71d6(NewLanguage.plugin)" version="-1" />
+      <model index="ro0f" modelUID="r:51385b76-5b00-49c3-856e-065b14959ca1(NewLanguage.behavior)" version="-1" />
+      <model index="y1m7" modelUID="r:adce67a3-85b3-427f-8604-0a27825ddb54(NewLanguage.constraints)" version="-1" />
+      <model index="lbpc" modelUID="r:f073e716-50cc-4d2f-8f6d-75be6aa2dc07(NewLanguage.generator.template.main@generator)" version="-1" />
+      <model index="7s9w" modelUID="r:8d875197-2d8c-42c1-99f6-c6d4840fa366(NewLanguage.editor)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:8d875197-2d8c-42c1-99f6-c6d4840fa366(NewLanguage.editor)" newModel="r:8d875197-2d8c-42c1-99f6-c6d4840fa366(DocumentMetaModelPlugin.editor)" />
+    <RenameModel oldModel="r:b1604231-4a38-4879-a312-2a8e893f71d6(NewLanguage.plugin)" newModel="r:b1604231-4a38-4879-a312-2a8e893f71d6(DocumentMetaModelPlugin.plugin)" />
+    <RenameModel oldModel="r:51385b76-5b00-49c3-856e-065b14959ca1(NewLanguage.behavior)" newModel="r:51385b76-5b00-49c3-856e-065b14959ca1(DocumentMetaModelPlugin.behavior)" />
+    <RenameModel oldModel="r:dc433d0c-c915-4f51-b5c6-4683fc16070a(NewLanguage.structure)" newModel="r:dc433d0c-c915-4f51-b5c6-4683fc16070a(DocumentMetaModelPlugin.structure)" />
+    <RenameModel oldModel="r:b1d79e19-deff-4cad-9e7b-d213f051ba61(NewLanguage.typesystem)" newModel="r:b1d79e19-deff-4cad-9e7b-d213f051ba61(DocumentMetaModelPlugin.typesystem)" />
+    <RenameModel oldModel="r:adce67a3-85b3-427f-8604-0a27825ddb54(NewLanguage.constraints)" newModel="r:adce67a3-85b3-427f-8604-0a27825ddb54(DocumentMetaModelPlugin.constraints)" />
+    <RenameModel oldModel="r:f073e716-50cc-4d2f-8f6d-75be6aa2dc07(NewLanguage.generator.template.main@generator)" newModel="r:f073e716-50cc-4d2f-8f6d-75be6aa2dc07(DocumentMetaModelPlugin.generator.template.main@generator)" />
+  </StructureModification>
+</history>
+
