@@ -945,7 +945,8 @@
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="6634216202587375921" nodeInfo="ig">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="CoutStub" />
     <property name="name" nameId="tpck.1169194664001" value="EndlStub" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="endl" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
   </root>
 </model>
 
