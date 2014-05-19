@@ -168,6 +168,9 @@
     <property name="virtualPackage" nameId="tpck.1193676396447" value="memberAccess" />
     <property name="abstract" nameId="tpce.4628067390765956802" value="true" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
+    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="6571839489912570505" nodeInfo="ig">
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="mj1l.4620120465980511009" resolveInfo="IGenericDotTarget" />
+    </node>
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="4157133445515648191" nodeInfo="ig">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="memberAccess" />
