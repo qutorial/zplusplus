@@ -2525,7 +2525,7 @@
     </node>
   </root>
   <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="487313117837648022" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="CoutStub" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="IostreamStub" />
     <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.487313117837648020" resolveInfo="Cout" />
     <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="487313117837648024" nodeInfo="nn">
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="487313117837648027" nodeInfo="nn">
@@ -2807,7 +2807,7 @@
     </node>
   </root>
   <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="6634216202587400662" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="CoutStub" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="IostreamStub" />
     <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.6634216202587375921" resolveInfo="EndlStub" />
     <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="6634216202587402206" nodeInfo="nn">
       <property name="text" nameId="tpc2.1073389577007" value="endl" />

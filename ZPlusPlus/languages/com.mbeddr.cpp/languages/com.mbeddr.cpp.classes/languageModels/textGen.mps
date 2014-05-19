@@ -2195,7 +2195,7 @@
     </node>
   </root>
   <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="487313117837648031" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="CoutStub" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="IostreamStub" />
     <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.487313117837648020" resolveInfo="Cout" />
     <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="487313117837648032" nodeInfo="nn">
       <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="487313117837648033" nodeInfo="sn">
@@ -2388,7 +2388,7 @@
     </node>
   </root>
   <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="6634216202587402209" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="CoutStub" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="IostreamStub" />
     <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.6634216202587375921" resolveInfo="EndlStub" />
     <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="6634216202587402210" nodeInfo="nn">
       <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="6634216202587402211" nodeInfo="sn">
