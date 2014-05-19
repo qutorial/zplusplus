@@ -11,7 +11,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="5" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="30" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="33" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="34" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="7" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="9" implicit="yes" />
   <import index="87nw" modelUID="r:ca2ab6bb-f6e7-4c0f-a88c-b78b9b31fff3(de.slisson.mps.richtext.structure)" version="5" implicit="yes" />
@@ -633,44 +633,44 @@
       <node role="body" roleId="vv6f.610576951245971333" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="2358546969245511026" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="2358546969245511059" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.AssignmentExpr" typeId="mj1l.22102029902365709" id="2358546969245511071" nodeInfo="ng">
-            <node role="right" roleId="mj1l.8860443239512128065" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="2358546969245511077" nodeInfo="ng">
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245511074" nodeInfo="ng">
+            <node role="right" roleId="mj1l.8860443239512128065" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="2358546969245511077" nodeInfo="ng">
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245511074" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="2358546969245511028" resolveInfo="originial" />
               </node>
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511082" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511082" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="5516725038417115881" resolveInfo="valAPublic" />
               </node>
             </node>
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="2358546969245511063" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511067" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="2358546969245511063" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511067" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="5516725038417115881" resolveInfo="valAPublic" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="2358546969245511060" nodeInfo="ng" />
+              <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="2358546969245511060" nodeInfo="ng" />
             </node>
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="2358546969245511035" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.AssignmentExpr" typeId="mj1l.22102029902365709" id="2358546969245511047" nodeInfo="ng">
-            <node role="right" roleId="mj1l.8860443239512128065" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="2358546969245511053" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511057" nodeInfo="ng">
+            <node role="right" roleId="mj1l.8860443239512128065" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="2358546969245511053" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511057" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="5516725038417115875" resolveInfo="valAProtected" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245511050" nodeInfo="ng">
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245511050" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="2358546969245511028" resolveInfo="originial" />
               </node>
             </node>
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="2358546969245511039" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511043" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="2358546969245511039" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511043" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="5516725038417115875" resolveInfo="valAProtected" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="2358546969245511036" nodeInfo="ng" />
+              <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="2358546969245511036" nodeInfo="ng" />
             </node>
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="2358546969245511145" nodeInfo="ng">
-          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="2358546969245511151" nodeInfo="ng">
-            <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="2358546969245511146" nodeInfo="ng" />
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMemberRef" typeId="vv6f.4157133445515648189" id="2358546969245511162" nodeInfo="ng" />
+          <node role="expr" roleId="c4fa.7254843406768833939" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="2358546969245511151" nodeInfo="ng">
+            <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="2358546969245511146" nodeInfo="ng" />
+            <node role="member" type="vv6f.OoMemberRef" typeId="vv6f.4157133445515648189" id="2358546969245511162" nodeInfo="ng" />
           </node>
         </node>
       </node>
@@ -699,19 +699,19 @@
       <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="2358546969245579525" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="2358546969245579588" nodeInfo="ng">
           <node role="expression" roleId="x27k.8967919205527146150" type="mj1l.GreaterEqualsExpression" typeId="mj1l.8860443239512147447" id="2358546969245579603" nodeInfo="ng">
-            <node role="right" roleId="mj1l.8860443239512128065" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="2358546969245579609" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245579613" nodeInfo="ng">
+            <node role="right" roleId="mj1l.8860443239512128065" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="2358546969245579609" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245579613" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="5516725038417115871" resolveInfo="valAPrivate" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245579606" nodeInfo="ng">
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245579606" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="2358546969245579583" resolveInfo="a2" />
               </node>
             </node>
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="2358546969245579592" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245579596" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="2358546969245579592" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245579596" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="5516725038417115871" resolveInfo="valAPrivate" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245579589" nodeInfo="ng">
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="2358546969245579589" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="2358546969245579578" resolveInfo="a1" />
               </node>
             </node>
@@ -755,11 +755,11 @@
       <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="2358546969245511088" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="2358546969245511098" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="2358546969245511099" nodeInfo="ng">
-            <node role="expr" roleId="vv6f.487313117837648028" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="2358546969245511105" nodeInfo="ng">
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1405519801787890214" nodeInfo="ng">
+            <node role="expr" roleId="vv6f.487313117837648028" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="2358546969245511105" nodeInfo="ng">
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1405519801787890214" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="1405519801787890211" resolveInfo="b" />
               </node>
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511109" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="2358546969245511109" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="5516725038417115881" resolveInfo="valAPublic" />
               </node>
             </node>
@@ -767,9 +767,9 @@
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="2358546969245579556" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="2358546969245579557" nodeInfo="ng">
-            <node role="expr" roleId="vv6f.487313117837648028" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="2358546969245579562" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMemberRef" typeId="vv6f.4157133445515648189" id="2358546969245579563" nodeInfo="ng" />
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1405519801787890215" nodeInfo="ng">
+            <node role="expr" roleId="vv6f.487313117837648028" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="2358546969245579562" nodeInfo="ng">
+              <node role="member" type="vv6f.OoMemberRef" typeId="vv6f.4157133445515648189" id="2358546969245579563" nodeInfo="ng" />
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1405519801787890215" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="1405519801787890211" resolveInfo="b" />
               </node>
             </node>
@@ -777,9 +777,9 @@
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="2358546969245579568" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="2358546969245579569" nodeInfo="ng">
-            <node role="expr" roleId="vv6f.487313117837648028" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="2358546969245579574" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMemberRef" typeId="vv6f.4157133445515648189" id="2358546969245579575" nodeInfo="ng" />
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1405519801787890219" nodeInfo="ng">
+            <node role="expr" roleId="vv6f.487313117837648028" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="2358546969245579574" nodeInfo="ng">
+              <node role="member" type="vv6f.OoMemberRef" typeId="vv6f.4157133445515648189" id="2358546969245579575" nodeInfo="ng" />
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1405519801787890219" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="1405519801787890211" resolveInfo="b" />
               </node>
             </node>
@@ -916,17 +916,17 @@
               <property name="value" nameId="mj1l.2212975673976043696" value="3.14" />
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="mj1l.MultiExpression" typeId="mj1l.5763383285156373020" id="7872059521589798204" nodeInfo="ng">
-              <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="7872059521589798205" nodeInfo="ng">
-                <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="7872059521589798206" nodeInfo="ng">
+              <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="7872059521589798205" nodeInfo="ng">
+                <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="7872059521589798206" nodeInfo="ng">
                   <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="7872059521589798169" resolveInfo="mRadius" />
                 </node>
-                <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="7872059521589798207" nodeInfo="ng" />
+                <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="7872059521589798207" nodeInfo="ng" />
               </node>
-              <node role="right" roleId="mj1l.8860443239512128065" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="7872059521589798208" nodeInfo="ng">
-                <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="7872059521589798209" nodeInfo="ng">
+              <node role="right" roleId="mj1l.8860443239512128065" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="7872059521589798208" nodeInfo="ng">
+                <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="7872059521589798209" nodeInfo="ng">
                   <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="7872059521589798169" resolveInfo="mRadius" />
                 </node>
-                <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="7872059521589798210" nodeInfo="ng" />
+                <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="7872059521589798210" nodeInfo="ng" />
               </node>
             </node>
           </node>
@@ -1010,11 +1010,11 @@
       <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="7872059521589798235" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="7872059521589798236" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="7872059521589798237" nodeInfo="ng">
-            <node role="expr" roleId="vv6f.487313117837648028" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="7872059521589798238" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="7872059521589798239" nodeInfo="ng">
+            <node role="expr" roleId="vv6f.487313117837648028" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="7872059521589798238" nodeInfo="ng">
+              <node role="member" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="7872059521589798239" nodeInfo="ng">
                 <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7872059521589798140" resolveInfo="getArea" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="7872059521589798240" nodeInfo="ng">
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="7872059521589798240" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="7872059521589798241" resolveInfo="shape" />
               </node>
             </node>
@@ -1436,9 +1436,9 @@
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="4176456596133331233" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="4176456596133331238" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.AssignmentExpr" typeId="mj1l.22102029902365709" id="4176456596133331239" nodeInfo="ng">
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="4176456596133331240" nodeInfo="ng">
-              <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331241" nodeInfo="ng" />
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331242" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="4176456596133331240" nodeInfo="ng">
+              <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331241" nodeInfo="ng" />
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331242" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="4176456596133331215" resolveInfo="mWidth" />
               </node>
             </node>
@@ -1471,9 +1471,9 @@
       <link role="method" roleId="vv6f.610576951245971290" targetNodeId="4176456596133331218" resolveInfo="getWidth" />
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="4176456596133331221" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="4176456596133331224" nodeInfo="ng">
-          <node role="expression" roleId="x27k.8967919205527146150" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="4176456596133331225" nodeInfo="ng">
-            <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331226" nodeInfo="ng" />
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331227" nodeInfo="ng">
+          <node role="expression" roleId="x27k.8967919205527146150" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="4176456596133331225" nodeInfo="ng">
+            <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331226" nodeInfo="ng" />
+            <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331227" nodeInfo="ng">
               <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="4176456596133331215" resolveInfo="mWidth" />
             </node>
           </node>
@@ -1585,9 +1585,9 @@
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="4176456596133331290" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="4176456596133331296" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="mj1l.AssignmentExpr" typeId="mj1l.22102029902365709" id="4176456596133331297" nodeInfo="ng">
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="4176456596133331298" nodeInfo="ng">
-              <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331299" nodeInfo="ng" />
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331300" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="4176456596133331298" nodeInfo="ng">
+              <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331299" nodeInfo="ng" />
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331300" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="4176456596133331271" resolveInfo="mSurface" />
               </node>
             </node>
@@ -1632,9 +1632,9 @@
       <link role="method" roleId="vv6f.610576951245971290" targetNodeId="4176456596133331274" resolveInfo="getSurface" />
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="4176456596133331277" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="4176456596133331280" nodeInfo="ng">
-          <node role="expression" roleId="x27k.8967919205527146150" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="4176456596133331281" nodeInfo="ng">
-            <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331282" nodeInfo="ng" />
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331283" nodeInfo="ng">
+          <node role="expression" roleId="x27k.8967919205527146150" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="4176456596133331281" nodeInfo="ng">
+            <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4176456596133331282" nodeInfo="ng" />
+            <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4176456596133331283" nodeInfo="ng">
               <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="4176456596133331271" resolveInfo="mSurface" />
             </node>
           </node>
@@ -1996,11 +1996,11 @@
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="7059128309967442621" nodeInfo="ng" />
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="7059128309967442684" nodeInfo="ng">
-          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="7059128309967442688" nodeInfo="ng">
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="7059128309967442692" nodeInfo="ng">
+          <node role="expr" roleId="c4fa.7254843406768833939" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="7059128309967442688" nodeInfo="ng">
+            <node role="member" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="7059128309967442692" nodeInfo="ng">
               <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7059128309967442646" resolveInfo="DoSomething" />
             </node>
-            <node role="object" roleId="vv6f.4157133445515664648" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="7059128309967442685" nodeInfo="ng">
+            <node role="object" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="7059128309967442685" nodeInfo="ng">
               <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="7059128309967442674" resolveInfo="a" />
             </node>
           </node>
@@ -2203,14 +2203,14 @@
       <link role="method" roleId="vv6f.610576951245971290" targetNodeId="1022708226502645804" resolveInfo="compare" />
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="1022708226502645809" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="1022708226502775401" nodeInfo="ng">
-          <node role="expression" roleId="x27k.8967919205527146150" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="1022708226502775431" nodeInfo="ng">
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1022708226502775435" nodeInfo="ng">
+          <node role="expression" roleId="x27k.8967919205527146150" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="1022708226502775431" nodeInfo="ng">
+            <node role="member" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1022708226502775435" nodeInfo="ng">
               <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="8616684942293874382" resolveInfo="compare" />
               <node role="actuals" roleId="vv6f.2015268598019221854" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1022708226502775436" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="1022708226502775417" resolveInfo="other" />
               </node>
             </node>
-            <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1022708226502775428" nodeInfo="ng">
+            <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1022708226502775428" nodeInfo="ng">
               <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="1022708226502775415" resolveInfo="element" />
             </node>
           </node>
@@ -2433,18 +2433,18 @@
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="1843005692377827335" nodeInfo="ng">
-          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="1843005692377827369" nodeInfo="ng">
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1843005692377827467" nodeInfo="ng">
+          <node role="expr" roleId="c4fa.7254843406768833939" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="1843005692377827369" nodeInfo="ng">
+            <node role="member" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1843005692377827467" nodeInfo="ng">
               <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="1843005692377801235" resolveInfo="bla" />
             </node>
-            <node role="object" roleId="vv6f.4157133445515664648" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="1843005692377827334" nodeInfo="ng">
+            <node role="object" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="1843005692377827334" nodeInfo="ng">
               <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="1843005692377790594" resolveInfo="t" />
             </node>
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="1843005692377827540" nodeInfo="ng">
-          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="1843005692377827578" nodeInfo="ng">
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1843005692377827666" nodeInfo="ng">
+          <node role="expr" roleId="c4fa.7254843406768833939" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="1843005692377827578" nodeInfo="ng">
+            <node role="member" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1843005692377827666" nodeInfo="ng">
               <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="1022708226502645804" resolveInfo="compare" />
               <node role="actuals" roleId="vv6f.2015268598019221854" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="1843005692377828290" nodeInfo="ng">
                 <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
@@ -2455,7 +2455,7 @@
                 <property name="value" nameId="mj1l.2212975673976043696" value="6" />
               </node>
             </node>
-            <node role="object" roleId="vv6f.4157133445515664648" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="1843005692377827539" nodeInfo="ng">
+            <node role="object" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="1843005692377827539" nodeInfo="ng">
               <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="1843005692377790594" resolveInfo="t" />
             </node>
           </node>
@@ -2488,11 +2488,11 @@
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="1843005692377826548" nodeInfo="ng">
-          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="1843005692377826575" nodeInfo="ng">
-            <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1843005692377826673" nodeInfo="ng">
+          <node role="expr" roleId="c4fa.7254843406768833939" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="1843005692377826575" nodeInfo="ng">
+            <node role="member" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="1843005692377826673" nodeInfo="ng">
               <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="1843005692377826321" resolveInfo="hello" />
             </node>
-            <node role="object" roleId="vv6f.4157133445515664648" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="1843005692377826547" nodeInfo="ng">
+            <node role="object" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="1843005692377826547" nodeInfo="ng">
               <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="1843005692377826462" resolveInfo="s" />
             </node>
           </node>
@@ -2526,11 +2526,11 @@
             <node role="right" roleId="mj1l.8860443239512128065" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="1022708226504635017" nodeInfo="ng">
               <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="1022708226504634998" resolveInfo="v" />
             </node>
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="1022708226504635007" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226504635010" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="1022708226504635007" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="1022708226504635010" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226504273680" resolveInfo="mValue" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226504635004" nodeInfo="ng" />
+              <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="1022708226504635004" nodeInfo="ng" />
             </node>
           </node>
         </node>
@@ -2556,19 +2556,19 @@
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="1022708226504634421" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="1022708226504634428" nodeInfo="ng">
           <node role="expression" roleId="x27k.8967919205527146150" type="mj1l.MinusExpression" typeId="mj1l.5763383285156373018" id="4960825442249648191" nodeInfo="ng">
-            <node role="right" roleId="mj1l.8860443239512128065" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="4960825442249648197" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4960825442249648201" nodeInfo="ng">
+            <node role="right" roleId="mj1l.8860443239512128065" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="4960825442249648197" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4960825442249648201" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226504273680" resolveInfo="mValue" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="4960825442249648194" nodeInfo="ng">
+              <node role="object" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="4960825442249648194" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="1022708226504634424" resolveInfo="other" />
               </node>
             </node>
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoArrowExpression" typeId="vv6f.4157133445515664462" id="4960825442249648181" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4960825442249648184" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoArrowExpression" id="4960825442249648181" nodeInfo="ng">
+              <node role="member" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="4960825442249648184" nodeInfo="ng">
                 <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="1022708226504273680" resolveInfo="mValue" />
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4960825442249648178" nodeInfo="ng" />
+              <node role="object" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="4960825442249648178" nodeInfo="ng" />
             </node>
           </node>
         </node>
@@ -2634,8 +2634,8 @@
               <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
               <property name="value" nameId="mj1l.2212975673976043696" value="42" />
             </node>
-            <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.OoDotExpression" typeId="vv6f.4157133445515648173" id="8612963791515018879" nodeInfo="ng">
-              <node role="member" roleId="vv6f.4157133445515664649" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="8612963791515019455" nodeInfo="ng">
+            <node role="left" roleId="mj1l.8860443239512128064" type=".com.mbeddr.cpp.classes.structure.OoDotExpression" id="8612963791515018879" nodeInfo="ng">
+              <node role="member" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="8612963791515019455" nodeInfo="ng">
                 <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="1022708226502645804" resolveInfo="compare" />
                 <node role="actuals" roleId="vv6f.2015268598019221854" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="8612963791515020002" nodeInfo="ng">
                   <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="1022708226504634455" resolveInfo="n1" />
@@ -2644,7 +2644,7 @@
                   <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="1022708226504634459" resolveInfo="n2" />
                 </node>
               </node>
-              <node role="object" roleId="vv6f.4157133445515664648" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="8612963791515018855" nodeInfo="ng">
+              <node role="object" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="8612963791515018855" nodeInfo="ng">
                 <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="1022708226504634430" resolveInfo="ol" />
               </node>
             </node>
