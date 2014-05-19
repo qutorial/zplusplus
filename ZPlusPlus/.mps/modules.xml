@@ -9,6 +9,7 @@
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/solutions/test.ex.cpp.overloading/test.ex.cpp.overloading.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/tests/test.ex.cpp.screenshots.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.sioux.goal1/test.ex.cpp.sioux.goal1.msd" folder="" />
     </projectModules>
   </component>
 </project>
