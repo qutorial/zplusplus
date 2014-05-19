@@ -449,18 +449,6 @@
     <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <property name="name" nameId="tpck.1169194664001" value="ICanBeInTemplateContext" />
   </root>
-  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="998890089994514830" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="ClassRefExpr" />
-    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="class reference expression" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="3487377644351351085" resolveInfo="TypeRefExpr" />
-    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="998890089994514831" nodeInfo="ig">
-      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
-      <property name="role" nameId="tpce.1071599776563" value="cls" />
-      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
-      <link role="target" roleId="tpce.1071599976176" targetNodeId="4157133445514936980" resolveInfo="ClassDeclaration" />
-    </node>
-  </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1022708226502392455" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="Classifier" />
     <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
@@ -593,19 +581,6 @@
       <property name="role" nameId="tpce.1071599776563" value="type" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="mj1l.8860443239512128054" resolveInfo="Type" />
-    </node>
-  </root>
-  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3487377644351351087" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="PrimitiveTypeRefExpr" />
-    <property name="conceptShortDescription" nameId="tpce.4628067390765907488" value="a primitive type" />
-    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="#" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="3487377644351351085" resolveInfo="TypeRefExpr" />
-    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="3487377644351351088" nodeInfo="ig">
-      <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
-      <property name="role" nameId="tpce.1071599776563" value="primitiveType" />
-      <property name="sourceCardinality" nameId="tpce.1071599893252" value="0..1" />
-      <link role="target" roleId="tpce.1071599976176" targetNodeId="mj1l.8860443239512128056" resolveInfo="PrimitiveType" />
     </node>
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3248094640537049936" nodeInfo="ig">
@@ -930,12 +905,6 @@
     <property name="name" nameId="tpck.1169194664001" value="EndlStub" />
     <property name="conceptAlias" nameId="tpce.5092175715804935370" value="endl" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
-  </root>
-  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="722491762812618279" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="ClassifierTypeExpression" />
-    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="classifier type expression" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="3487377644351351085" resolveInfo="TypeRefExpr" />
   </root>
 </model>
 
