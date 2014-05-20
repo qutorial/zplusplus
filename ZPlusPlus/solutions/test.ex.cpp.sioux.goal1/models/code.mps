@@ -304,12 +304,11 @@
       </node>
       <node role="inheritanceDefinitions" roleId="vv6f.4625929837922077780" type="vv6f.InheritanceDefinition" typeId="vv6f.4625929837922040127" id="1548643237735069879" nodeInfo="ng">
         <property name="inheritanceType" nameId="vv6f.4625929837922040130" value="2" />
-        <node role="baseClassType" roleId="vv6f.8286829972465886370" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="722491762813643944" nodeInfo="ng">
+        <node role="baseClassType" roleId="vv6f.8286829972465886370" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="688557343458182257" nodeInfo="ng">
           <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="6571839489911618652" resolveInfo="IProcessor" />
-          <node role="templateActuals" roleId="vv6f.8616684942293463254" type="vv6f.TypeRefExpr" typeId="vv6f.3487377644351351085" id="722491762814678907" nodeInfo="ng">
-            <node role="type" roleId="vv6f.722491762812612645" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="722491762814679147" nodeInfo="ng">
-              <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="6634216202588984450" resolveInfo="Data" />
-            </node>
+          <node role="templateActuals" roleId="vv6f.8616684942293463254" type="mj1l.Type" typeId="mj1l.8860443239512128054" id="688557343458182265" nodeInfo="ng">
+            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
           </node>
         </node>
       </node>
