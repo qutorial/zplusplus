@@ -16,7 +16,7 @@ public:
         doProcessingImpl(data);
      };
     virtual void doProcessingImpl(const T& data) = 0;
-    ~IProcessor() {} // Coding standard
+    virtual ~IProcessor() {} // Coding standard
 private:
     IProcessor(const IProcessor& p) {} // Coding standard
     IProcessor& operator= (const IProcessor& p) {} // Coding standard
@@ -30,7 +30,7 @@ public:
     {
         cout << data.a << endl;
     }
-    ~Processor() {} // Coding standard
+    virtual ~Processor() {} // Coding standard
 private:
     Processor(const Processor& p) {} // Coding standard
     Processor& operator= (const Processor& p) {} // Coding standard
