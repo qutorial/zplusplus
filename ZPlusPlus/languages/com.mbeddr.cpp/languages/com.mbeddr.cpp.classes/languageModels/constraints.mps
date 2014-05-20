@@ -1896,7 +1896,7 @@
     <property name="virtualPackage" nameId="tpck.1193676396447" value="_debugging" />
     <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="5516725038417446991" nodeInfo="nn" />
     <node role="member" roleId="tpee.5375687026011219971" type="tpee.StaticFieldDeclaration" typeId="tpee.1070462154015" id="5516725038417402417" nodeInfo="igu">
-      <property name="name" nameId="tpck.1169194664001" value="ENABLED" />
+      <property name="name" nameId="tpck.1169194664001" value="DEBUG" />
       <node role="visibility" roleId="tpee.1178549979242" type="tpee.PrivateVisibility" typeId="tpee.1146644623116" id="5516725038417402418" nodeInfo="nn" />
       <node role="type" roleId="tpee.5680397130376446158" type="tpee.BooleanType" typeId="tpee.1070534644030" id="5516725038417402420" nodeInfo="in" />
       <node role="initializer" roleId="tpee.1068431790190" type="tpee.BooleanConstant" typeId="tpee.1068580123137" id="5516725038417402422" nodeInfo="nn" />
@@ -1911,7 +1911,9 @@
       <property name="name" nameId="tpck.1169194664001" value="DebugClassBehavior" />
       <node role="visibility" roleId="tpee.1178549979242" type="tpee.PrivateVisibility" typeId="tpee.1146644623116" id="4518568022543002293" nodeInfo="nn" />
       <node role="type" roleId="tpee.5680397130376446158" type="tpee.BooleanType" typeId="tpee.1070534644030" id="4518568022543002294" nodeInfo="in" />
-      <node role="initializer" roleId="tpee.1068431790190" type="tpee.BooleanConstant" typeId="tpee.1068580123137" id="4518568022543002295" nodeInfo="nn" />
+      <node role="initializer" roleId="tpee.1068431790190" type="tpee.BooleanConstant" typeId="tpee.1068580123137" id="4518568022543002295" nodeInfo="nn">
+        <property name="value" nameId="tpee.1068580123138" value="true" />
+      </node>
     </node>
     <node role="member" roleId="tpee.5375687026011219971" type="tpee.StaticFieldDeclaration" typeId="tpee.1070462154015" id="5516725038417446958" nodeInfo="igu">
       <property name="name" nameId="tpck.1169194664001" value="DebugAllBaseClassesAlgorithm" />
@@ -2039,7 +2041,7 @@
             </node>
           </node>
           <node role="condition" roleId="tpee.1068580123160" type="tpee.VariableReference" typeId="tpee.1068498886296" id="8418506114724832819" nodeInfo="nn">
-            <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5516725038417402417" resolveInfo="ENABLED" />
+            <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5516725038417402417" resolveInfo="DEBUG" />
           </node>
         </node>
       </node>
