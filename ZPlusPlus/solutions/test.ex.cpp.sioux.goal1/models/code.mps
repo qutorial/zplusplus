@@ -359,9 +359,11 @@
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="688557343459318059" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="688557343459319245" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="688557343459319241" nodeInfo="ng">
-            <node role="expr" roleId="vv6f.487313117837648028" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="688557343459319268" nodeInfo="ng">
-              <node role="target" roleId="mj1l.7034214596252529803" type="mj1l.IGenericDotTarget" typeId="mj1l.4620120465980511009" id="688557343459319269" nodeInfo="ng" />
-              <node role="expression" roleId="mj1l.7254843406768839760" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="688557343459319258" nodeInfo="ng">
+            <node role="expr" roleId="vv6f.487313117837648028" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="688557343459411582" nodeInfo="ng">
+              <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="688557343459871548" nodeInfo="ng">
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="6634216202588985010" resolveInfo="mA" />
+              </node>
+              <node role="expression" roleId="mj1l.7254843406768839760" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="688557343459411572" nodeInfo="ng">
                 <link role="arg" roleId="x27k.2093108837558505659" targetNodeId="688557343459318062" resolveInfo="d" />
               </node>
             </node>
