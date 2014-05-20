@@ -204,5 +204,11 @@
     </dependencies>
     <rename id="vv6f.4625929837922166019" type="REFERENCE" from="baseClass" to="baseClassType" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="33" />
+    </dependencies>
+    <rename id="vv6f.722491762812618279" type="CONCEPT" from="ClassifierRefExpression" to="ClassifierTypeExpression" />
+  </StructureModification>
 </history>
 
