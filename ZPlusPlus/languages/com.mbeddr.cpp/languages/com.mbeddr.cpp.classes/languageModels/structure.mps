@@ -571,18 +571,6 @@
     <property name="conceptAlias" nameId="tpce.5092175715804935370" value="private" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="8616684942293620746" resolveInfo="MemberList" />
   </root>
-  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3487377644351351085" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="TypeRefExpr" />
-    <property name="abstract" nameId="tpce.4628067390765956802" value="false" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
-    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="722491762812612645" nodeInfo="ig">
-      <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
-      <property name="role" nameId="tpce.1071599776563" value="type" />
-      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
-      <link role="target" roleId="tpce.1071599976176" targetNodeId="mj1l.8860443239512128054" resolveInfo="Type" />
-    </node>
-  </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3248094640537049936" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="FieldInitializer" />
     <property name="virtualPackage" nameId="tpck.1193676396447" value="constructors" />
@@ -886,18 +874,6 @@
       <property name="role" nameId="tpce.1071599776563" value="field" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="4157133445515062333" resolveInfo="Field" />
-    </node>
-  </root>
-  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="7069250747274491093" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="ConceptRestrictedTypeRefExpr" />
-    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="concept restricted type" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="3487377644351351085" resolveInfo="TypeRefExpr" />
-    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="7069250747274491094" nodeInfo="ig">
-      <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
-      <property name="role" nameId="tpce.1071599776563" value="Type" />
-      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
-      <link role="target" roleId="tpce.1071599976176" targetNodeId="292433000620034958" resolveInfo="ConceptRestrictedTemplateParameterType" />
     </node>
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="6634216202587375921" nodeInfo="ig">

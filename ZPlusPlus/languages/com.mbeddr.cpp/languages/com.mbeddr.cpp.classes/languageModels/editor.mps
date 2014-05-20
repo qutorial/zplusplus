@@ -1272,9 +1272,24 @@
     <property name="virtualPackage" nameId="tpck.1193676396447" value="methods" />
     <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.2015268598019146107" resolveInfo="DestructorDeclaration" />
     <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="2015268598019146131" nodeInfo="nn">
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="688557343458641695" nodeInfo="nn">
+        <property name="text" nameId="tpc2.1073389577007" value="virtual" />
+        <node role="renderingCondition" roleId="tpc2.1142887637401" type="tpc2.QueryFunction_NodeCondition" typeId="tpc2.1142886221719" id="688557343458641709" nodeInfo="nn">
+          <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="688557343458641710" nodeInfo="sn">
+            <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="688557343458642042" nodeInfo="nn">
+              <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="688557343458642923" nodeInfo="nn">
+                <node role="operand" roleId="tpee.1197027771414" type="tpc2.ConceptFunctionParameter_node" typeId="tpc2.1142886811589" id="688557343458642041" nodeInfo="nn" />
+                <node role="operation" roleId="tpee.1197027833540" type="tp25.SPropertyAccess" typeId="tp25.1138056022639" id="688557343458686368" nodeInfo="nn">
+                  <link role="property" roleId="tp25.1138056395725" targetNodeId="vv6f.4157133445515143745" resolveInfo="virtual" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
       <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="2015268598019146133" nodeInfo="nn" />
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="2015268598019146134" nodeInfo="nn">
-        <property name="text" nameId="tpc2.1073389577007" value="˜" />
+        <property name="text" nameId="tpc2.1073389577007" value=" ˜ " />
         <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.PunctuationRightStyleClassItem" typeId="tpc2.1233759184865" id="2015268598019162990" nodeInfo="nn">
           <property name="flag" nameId="tpc2.1186414551515" value="true" />
         </node>
@@ -2574,13 +2589,6 @@
       </node>
     </node>
   </root>
-  <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="7069250747274491095" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.7069250747274491093" resolveInfo="ConceptRestrictedTypeRefExpr" />
-    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="7069250747274491097" nodeInfo="ng">
-      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="vv6f.7069250747274491094" />
-    </node>
-  </root>
   <root type="tpc2.EditorComponentDeclaration" typeId="tpc2.1078938745671" id="8456210691480689676" nodeInfo="ng">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="methods" />
     <property name="name" nameId="tpck.1169194664001" value="methodSignature" />
@@ -2656,13 +2664,6 @@
     <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.6634216202587375921" resolveInfo="EndlStub" />
     <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="6634216202587402206" nodeInfo="nn">
       <property name="text" nameId="tpc2.1073389577007" value="endl" />
-    </node>
-  </root>
-  <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="1548643237735959437" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="vv6f.3487377644351351085" resolveInfo="TypeRefExpr" />
-    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="722491762812616934" nodeInfo="ng">
-      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="vv6f.722491762812612645" />
     </node>
   </root>
   <root type="tpc2.EditorComponentDeclaration" typeId="tpc2.1078938745671" id="1548643237737311281" nodeInfo="ng">
