@@ -831,18 +831,6 @@
       <link role="target" roleId="tpce.1071599976176" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
     </node>
   </root>
-  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="292433000619572479" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="ConceptRestrictedTemplateParameter" />
-    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="concept parameter" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="8675670401742479520" resolveInfo="TemplateParameter" />
-    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="292433000619882412" nodeInfo="ig">
-      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
-      <property name="role" nameId="tpce.1071599776563" value="concept" />
-      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
-      <link role="target" roleId="tpce.1071599976176" targetNodeId="1022708226502493617" resolveInfo="Concept" />
-    </node>
-  </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="292433000619749319" nodeInfo="ig">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
     <property name="name" nameId="tpck.1169194664001" value="ConceptType" />
@@ -852,17 +840,6 @@
       <property name="role" nameId="tpce.1071599776563" value="concept" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="1022708226502493617" resolveInfo="Concept" />
-    </node>
-  </root>
-  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="292433000620034958" nodeInfo="ig">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="ConceptRestrictedTemplateParameterType" />
-    <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128054" resolveInfo="Type" />
-    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="292433000620034959" nodeInfo="ig">
-      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
-      <property name="role" nameId="tpce.1071599776563" value="parameter" />
-      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
-      <link role="target" roleId="tpce.1071599976176" targetNodeId="292433000619572479" resolveInfo="ConceptRestrictedTemplateParameter" />
     </node>
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="7494111203194232320" nodeInfo="ig">
