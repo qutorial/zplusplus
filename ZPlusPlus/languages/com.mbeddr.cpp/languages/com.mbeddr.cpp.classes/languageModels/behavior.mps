@@ -89,7 +89,7 @@
                 <node role="actualArgument" roleId="tpee.1068499141038" type="1i04.ThisNodeExpression" typeId="1i04.1225194691553" id="7540295501294914950" nodeInfo="nn" />
               </node>
               <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="7540295501294914951" nodeInfo="nn">
-                <property name="value" nameId="tpee.1070475926801" value="originial" />
+                <property name="value" nameId="tpee.1070475926801" value="original" />
               </node>
             </node>
           </node>
@@ -191,7 +191,7 @@
                 <node role="actualArgument" roleId="tpee.1068499141038" type="1i04.ThisNodeExpression" typeId="1i04.1225194691553" id="7540295501294914884" nodeInfo="nn" />
               </node>
               <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="7540295501294914885" nodeInfo="nn">
-                <property name="value" nameId="tpee.1070475926801" value="originial" />
+                <property name="value" nameId="tpee.1070475926801" value="original" />
               </node>
             </node>
           </node>
