@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="34">
+<model modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="38">
   <persistence version="8" />
   <language namespace="c72da2b9-7cce-4447-8389-f407dc1158b7(jetbrains.mps.lang.structure)" />
   <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="5" />
@@ -10,7 +10,7 @@
   <import index="yq40" modelUID="r:152b3fc0-83a1-4bab-a8cd-565eb8483785(com.mbeddr.core.pointers.structure)" version="4" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpce" modelUID="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)" version="0" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="34" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="38" implicit="yes" />
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="4157133445514936980" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="ClassDeclaration" />
     <property name="conceptShortDescription" nameId="tpce.4628067390765907488" value="a C++ class" />
@@ -198,7 +198,7 @@
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="4157133445515747743" resolveInfo="INewCreator" />
     </node>
     <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="2015268598020325268" nodeInfo="ig">
-      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="2015268598019221852" resolveInfo="IMethodOrConsCall" />
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="2015268598019221852" resolveInfo="IMethodOrConstructorCall" />
     </node>
     <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="1022708226504867679" nodeInfo="ig">
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="1022708226504867669" resolveInfo="ITemplateInstantiator" />
@@ -219,7 +219,7 @@
       <link role="specializedLink" roleId="tpce.1071599698500" targetNodeId="2015268598019257721" />
     </node>
     <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="2015268598019221853" nodeInfo="ig">
-      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="2015268598019221852" resolveInfo="IMethodOrConsCall" />
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="2015268598019221852" resolveInfo="IMethodOrConstructorCall" />
     </node>
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="2015268598018507597" nodeInfo="ig">
@@ -265,7 +265,7 @@
   </root>
   <root type="tpce.InterfaceConceptDeclaration" typeId="tpce.1169125989551" id="2015268598019221852" nodeInfo="ig">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="memberAccess" />
-    <property name="name" nameId="tpck.1169194664001" value="IMethodOrConsCall" />
+    <property name="name" nameId="tpck.1169194664001" value="IMethodOrConstructorCall" />
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="2015268598019221854" nodeInfo="ig">
       <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
       <property name="role" nameId="tpce.1071599776563" value="actuals" />
@@ -392,7 +392,7 @@
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="8675670401742714813" nodeInfo="ig">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="TemplateParamType" />
+    <property name="name" nameId="tpck.1169194664001" value="TemplateClassParameterType" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128054" resolveInfo="Type" />
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="8675670401742714814" nodeInfo="ig">
       <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
@@ -436,7 +436,7 @@
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="998890089994379454" nodeInfo="ig">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
-    <property name="name" nameId="tpck.1169194664001" value="PrimitiveTemplateParamRef" />
+    <property name="name" nameId="tpck.1169194664001" value="TemplatePrimitivePrameterReference" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="998890089994379455" nodeInfo="ig">
       <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
@@ -881,6 +881,18 @@
     <property name="name" nameId="tpck.1169194664001" value="EndlStub" />
     <property name="conceptAlias" nameId="tpce.5092175715804935370" value="endl" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
+  </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="815394528077018544" nodeInfo="ig">
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="templates" />
+    <property name="name" nameId="tpck.1169194664001" value="TemplateAndTypeMarryingConcept" />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="type with an expression inside (dangerous stuff)" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="mj1l.8860443239512128054" resolveInfo="Type" />
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="815394528077018545" nodeInfo="ig">
+      <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
+      <property name="role" nameId="tpce.1071599776563" value="expression" />
+      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="mj1l.8860443239512128050" resolveInfo="Expression" />
+    </node>
   </root>
 </model>
 

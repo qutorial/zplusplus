@@ -210,5 +210,29 @@
     </dependencies>
     <rename id="vv6f.722491762812618279" type="CONCEPT" from="ClassifierRefExpression" to="ClassifierTypeExpression" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="34" />
+    </dependencies>
+    <rename id="vv6f.2015268598019221852" type="CONCEPT" from="IMethodOrConsCall" to="IMethodOrConstructorCall" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="35" />
+    </dependencies>
+    <rename id="vv6f.8675670401742714813" type="CONCEPT" from="TemplateClassParameType" to="TemplateClassParameterType" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="36" />
+    </dependencies>
+    <rename id="vv6f.998890089994379454" type="CONCEPT" from="PrimitiveTemplateParamRef" to="TemplatePrimitivePrameterReference" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="37" />
+    </dependencies>
+    <rename id="vv6f.8675670401742714813" type="CONCEPT" from="TemplateParamType" to="TemplateClassParameterType" />
+  </StructureModification>
 </history>
 
