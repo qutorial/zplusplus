@@ -36,5 +36,29 @@
     </dependencies>
     <move id="sg22.3947421596134069237" to="sg22.3947421596134495240" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="5" />
+    </dependencies>
+    <rename id="sg22.1449305573944712374" type="CONCEPT" from="TryCatch" to="TryCatchStatement" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="6" />
+    </dependencies>
+    <rename id="sg22.1449305573945007510" type="CHILD" from="expression" to="exceptionObject" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="7" />
+    </dependencies>
+    <rename id="sg22.1449305573944712374" type="CONCEPT" from="TryCatchStatement" to="TryStatement" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="8" />
+    </dependencies>
+    <rename id="sg22.1449305573946695468" type="CHILD" from="body" to="tryBody" />
+  </StructureModification>
 </history>
 
