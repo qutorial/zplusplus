@@ -150,6 +150,9 @@
         </node>
       </node>
     </node>
+    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="6264605580371991333" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="empty_1402938906583_3" />
+    </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.MethodImplementation" typeId="vv6f.4157133445514984355" id="6628281505962948464" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="SomeClass__publicFunction_" />
       <link role="method" roleId="vv6f.610576951245971290" targetNodeId="6628281505962948447" resolveInfo="publicFunction" />
@@ -192,8 +195,8 @@
         </node>
       </node>
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="6628281505962984316" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="empty_1401734549244_9" />
+    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="6264605580371280895" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="empty_1402938430671_2" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.MethodImplementation" typeId="vv6f.4157133445514984355" id="6628281505962961983" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="SomeClass__protectedFunction_" />
@@ -824,6 +827,7 @@
     <property name="GetPrefix" nameId="vv6f.158014820112293950" value="get" />
     <property name="SetPrefix" nameId="vv6f.158014820112293951" value="set" />
     <property name="SetterArgPrefix" nameId="vv6f.158014820112688201" value="the" />
+    <property name="MemberPrefix" nameId="vv6f.158014820112242828" value="m" />
   </root>
 </model>
 
