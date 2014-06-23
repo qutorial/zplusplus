@@ -35,7 +35,7 @@
       <property name="name" nameId="tpck.1169194664001" value="SomeClass" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="6628281505962942480" nodeInfo="ng">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="6628281505962948310" nodeInfo="ng">
-          <property name="name" nameId="tpck.1169194664001" value="publicMember" />
+          <property name="name" nameId="tpck.1169194664001" value="mpublicMember" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="6628281505962948308" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -99,7 +99,7 @@
           </node>
         </node>
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="6628281505962951483" nodeInfo="ng">
-          <property name="name" nameId="tpck.1169194664001" value="privateMember" />
+          <property name="name" nameId="tpck.1169194664001" value="mprivateMember" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="6628281505962951481" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -125,7 +125,7 @@
       </node>
       <node role="protectedMemberList" roleId="vv6f.8616684942293620790" type="vv6f.ProtectedMemberList" typeId="vv6f.8616684942293620765" id="6628281505962951159" nodeInfo="ng">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="6628281505962951246" nodeInfo="ng">
-          <property name="name" nameId="tpck.1169194664001" value="protectedMember" />
+          <property name="name" nameId="tpck.1169194664001" value="mprotectedMember" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="6628281505962951245" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -656,7 +656,7 @@
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="6628281505963461625" nodeInfo="ng">
               <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="6628281505963461763" nodeInfo="ng">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="6628281505962948310" resolveInfo="publicMember" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="6628281505962948310" resolveInfo="mpublicMember" />
               </node>
               <node role="expression" roleId="mj1l.7254843406768839760" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="6628281505963460463" nodeInfo="ng">
                 <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="6628281505963438943" resolveInfo="c" />
@@ -671,7 +671,7 @@
           </node>
           <node role="actual" roleId="yz9a.7755897872837031765" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="6628281505963514850" nodeInfo="ng">
             <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="6628281505963517456" nodeInfo="ng">
-              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="6628281505962948310" resolveInfo="publicMember" />
+              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="6628281505962948310" resolveInfo="mpublicMember" />
             </node>
             <node role="expression" roleId="mj1l.7254843406768839760" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="6628281505963513201" nodeInfo="ng">
               <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="6628281505963438943" resolveInfo="c" />
@@ -685,7 +685,7 @@
           </node>
           <node role="actual" roleId="yz9a.7755897872837031765" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="6628281505963612979" nodeInfo="ng">
             <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="6628281505963614465" nodeInfo="ng">
-              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="6628281505962948310" resolveInfo="publicMember" />
+              <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="6628281505962948310" resolveInfo="mpublicMember" />
             </node>
             <node role="expression" roleId="mj1l.7254843406768839760" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="6628281505963612971" nodeInfo="ng">
               <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="6628281505963593877" resolveInfo="p" />

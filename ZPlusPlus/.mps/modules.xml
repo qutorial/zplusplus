@@ -12,6 +12,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.cext/test.ex.cpp.cext.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.classes/test.ex.cpp.classes.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.sioux.goal1/test.ex.cpp.sioux.goal1.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/test.ts.cpp.classes/test.ts.cpp.classes.msd" folder="" />
     </projectModules>
   </component>
 </project>
