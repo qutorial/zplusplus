@@ -2435,6 +2435,7 @@
                 <property name="text" nameId="tpc2.1073389577007" value="Member prefix: " />
               </node>
               <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="158014820112293949" nodeInfo="ng">
+                <property name="allowEmptyText" nameId="tpc2.1140114345053" value="true" />
                 <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="vv6f.158014820112242828" resolveInfo="MemberPrefix" />
               </node>
             </node>
@@ -2444,6 +2445,7 @@
                 <property name="text" nameId="tpc2.1073389577007" value="Getter prefix: " />
               </node>
               <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="158014820112398122" nodeInfo="ng">
+                <property name="allowEmptyText" nameId="tpc2.1140114345053" value="true" />
                 <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="vv6f.158014820112293950" resolveInfo="GetPrefix" />
               </node>
             </node>
@@ -2453,6 +2455,7 @@
                 <property name="text" nameId="tpc2.1073389577007" value="Setter prefix: " />
               </node>
               <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="158014820112398134" nodeInfo="ng">
+                <property name="allowEmptyText" nameId="tpc2.1140114345053" value="true" />
                 <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="vv6f.158014820112293951" resolveInfo="SetPrefix" />
               </node>
             </node>
@@ -2462,6 +2465,7 @@
                 <property name="text" nameId="tpc2.1073389577007" value="Setter argument prefix: " />
               </node>
               <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="158014820112688203" nodeInfo="ng">
+                <property name="allowEmptyText" nameId="tpc2.1140114345053" value="true" />
                 <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="vv6f.158014820112688201" resolveInfo="SetterArgPrefix" />
               </node>
             </node>
