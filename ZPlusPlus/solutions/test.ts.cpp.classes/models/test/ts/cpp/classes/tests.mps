@@ -716,13 +716,61 @@
             </node>
           </node>
         </node>
+        <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="7945015384274044500" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="empty_1408362062319_6" />
+        </node>
+        <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="7945015384274054032" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="empty_1408362090303_9" />
+        </node>
+        <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="7945015384274054527" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="empty_1408362092575_10" />
+        </node>
+        <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="7945015384274049276" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="NonConstructable" />
+          <node role="privateMemberList" roleId="vv6f.8616684942293620791" type="vv6f.PrivateMemberList" typeId="vv6f.8616684942293620777" id="7945015384274056601" nodeInfo="ng">
+            <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.ConstructorDeclaration" typeId="vv6f.2015268598019131870" id="7945015384274049278" nodeInfo="ng">
+              <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
+              <property name="explicit" nameId="vv6f.1621920714581833667" value="true" />
+            </node>
+          </node>
+        </node>
+        <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="7945015384274056615" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="empty_1408362098631_11" />
+        </node>
+        <node role="contents" roleId="x27k.6437088627575722833" type="x27k.GlobalVariableDeclaration" typeId="x27k.6610873504380335822" id="7945015384274057621" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="nc" />
+          <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="7945015384274059310" nodeInfo="ng">
+            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+            <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="7945015384274049276" resolveInfo="NonConstructable" />
+          </node>
+          <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="7945015384274061198" nodeInfo="ng">
+            <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="7945015384274061199" nodeInfo="ng" />
+          </node>
+        </node>
         <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="1768392128270878649" nodeInfo="ng">
           <property name="name" nameId="tpck.1169194664001" value="empty_1405362990393_9" />
+        </node>
+        <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="7945015384274053538" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="empty_1408362089591_8" />
         </node>
         <node role="contents" roleId="x27k.6437088627575722833" type="x27k.Function" typeId="x27k.6437088627575724001" id="3959768935609421679" nodeInfo="ng">
           <property name="name" nameId="tpck.1169194664001" value="test" />
           <property name="exported" nameId="x27k.1317894735999272944" value="false" />
           <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="3959768935609421681" nodeInfo="ng">
+            <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="7945015384274061405" nodeInfo="ng" />
+            <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.LocalVariableDeclaration" typeId="c4fa.4185783222026475238" id="7945015384274061722" nodeInfo="ng">
+              <property name="name" nameId="tpck.1169194664001" value="nc2" />
+              <node role="type" roleId="mj1l.318113533128716676" type="vv6f.ClassifierType" typeId="vv6f.4157133445515154384" id="7945015384274061720" nodeInfo="ng">
+                <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+                <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+                <link role="cls" roleId="vv6f.4157133445515154385" targetNodeId="7945015384274049276" resolveInfo="NonConstructable" />
+              </node>
+              <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="7945015384274064240" nodeInfo="ng">
+                <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="7945015384274064241" nodeInfo="ng" />
+              </node>
+            </node>
+            <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="7945015384274061479" nodeInfo="ng" />
             <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.CommentStatement" typeId="c4fa.1679452829930336984" id="1768392128270879302" nodeInfo="ng">
               <node role="textblock" roleId="c4fa.8624890525768479139" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="1768392128270879304" nodeInfo="ng">
                 <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="1768392128270879305" nodeInfo="ng">
