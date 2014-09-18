@@ -11,6 +11,7 @@
   </usedLanguages>
   <usedDevKits>
     <usedDevKit>b8457cc4-cb06-42fd-88a9-5bcfc0b7035d(com.mbeddr.cpp)</usedDevKit>
+    <usedDevKit>54c79f9f-f3ba-4167-91f1-eb4e98a9c47c(com.mbeddr.documentation)</usedDevKit>
   </usedDevKits>
 </solution>
 

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:4d4d30d0-cca6-4e96-8675-cf64211ebfed(test.ex.cpp.tutorial.classes1)">
+<model modelUID="r:4d4d30d0-cca6-4e96-8675-cf64211ebfed(test.ex.cpp.tutorial.cpp_tutorial_classes)">
   <persistence version="8" />
   <language namespace="2d7fadf5-33f6-4e80-a78f-0f739add2bde(com.mbeddr.core.buildconfig)" />
   <devkit namespace="b8457cc4-cb06-42fd-88a9-5bcfc0b7035d(com.mbeddr.cpp)" />
+  <devkit namespace="54c79f9f-f3ba-4167-91f1-eb4e98a9c47c(com.mbeddr.documentation)" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
-  <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="5" implicit="yes" />
+  <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="9" implicit="yes" />
   <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="38" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="33" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="9" implicit="yes" />
@@ -13,6 +14,7 @@
   <import index="vs0r" modelUID="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" version="25" implicit="yes" />
   <import index="yq40" modelUID="r:152b3fc0-83a1-4bab-a8cd-565eb8483785(com.mbeddr.core.pointers.structure)" version="5" implicit="yes" />
   <import index="51wr" modelUID="r:b31f1c3c-99aa-4f1e-a329-cba27efb1a6b(com.mbeddr.core.buildconfig.structure)" version="1" implicit="yes" />
+  <import index="2c95" modelUID="r:5f7188a9-e7b4-4a2e-bef9-38d2cf379fdc(com.mbeddr.doc.structure)" version="16" implicit="yes" />
   <root type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="107031638831787792" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="Classes1" />
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.Function" typeId="x27k.6437088627575724001" id="107031638831879916" nodeInfo="ng">
@@ -111,7 +113,7 @@
       </node>
       <node role="privateMemberList" roleId="vv6f.8616684942293620791" type="vv6f.PrivateMemberList" typeId="vv6f.8616684942293620777" id="107031638831801497" nodeInfo="ng">
         <node role="members" roleId="vv6f.8616684942293620748" type="vv6f.Field" typeId="vv6f.4157133445515062333" id="107031638831842232" nodeInfo="ng">
-          <property name="name" nameId="tpck.1169194664001" value="mWidth" />
+          <property name="name" nameId="tpck.1169194664001" value="width" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="107031638831842645" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -174,7 +176,7 @@
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="107031638831851443" nodeInfo="ng">
               <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="107031638831851557" nodeInfo="ng">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="107031638831842232" resolveInfo="mWidth" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="107031638831842232" resolveInfo="width" />
               </node>
               <node role="expression" roleId="mj1l.7254843406768839760" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="107031638831851413" nodeInfo="ng" />
             </node>
@@ -193,6 +195,7 @@
             </node>
           </node>
         </node>
+        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="5746593851487003013" nodeInfo="ng" />
       </node>
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="107031638831847777" nodeInfo="ng">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
@@ -213,8 +216,8 @@
         </node>
       </node>
     </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="107031638832131779" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="empty_1410899005013_3" />
+    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="5746593851486937830" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="empty_1411063194514_2" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ConstructorImplementation" typeId="vv6f.610576951245971328" id="107031638832089884" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="Rectangle__Rectangle__Int32tType_Int32tType" />
@@ -227,7 +230,7 @@
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="107031638832122468" nodeInfo="ng">
               <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="107031638832122582" nodeInfo="ng">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="107031638831842232" resolveInfo="mWidth" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="107031638831842232" resolveInfo="width" />
               </node>
               <node role="expression" roleId="mj1l.7254843406768839760" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="107031638832122439" nodeInfo="ng" />
             </node>
@@ -279,7 +282,7 @@
               <link role="field" roleId="vv6f.7494111203194232321" targetNodeId="107031638831842854" resolveInfo="mHeight" />
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="vv6f.FieldAccessExpression" typeId="vv6f.7494111203194232320" id="107031638831869587" nodeInfo="ng">
-              <link role="field" roleId="vv6f.7494111203194232321" targetNodeId="107031638831842232" resolveInfo="mWidth" />
+              <link role="field" roleId="vv6f.7494111203194232321" targetNodeId="107031638831842232" resolveInfo="width" />
             </node>
           </node>
         </node>
@@ -316,7 +319,7 @@
             </node>
             <node role="left" roleId="mj1l.8860443239512128064" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="107031638832159398" nodeInfo="ng">
               <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoFieldAccess" typeId="vv6f.4157133445515648191" id="107031638832159512" nodeInfo="ng">
-                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="107031638831842232" resolveInfo="mWidth" />
+                <link role="field" roleId="vv6f.4157133445515648192" targetNodeId="107031638831842232" resolveInfo="width" />
               </node>
               <node role="expression" roleId="mj1l.7254843406768839760" type="vv6f.ThisExpression" typeId="vv6f.2015268598018507597" id="107031638832159381" nodeInfo="ng" />
             </node>
@@ -581,6 +584,88 @@
     </node>
     <node role="descriptors" roleId="x27k.6116558314501417978" type="x27k.HeaderDescriptor" typeId="x27k.6116558314501417952" id="6634216202587344130" nodeInfo="ng">
       <property name="path" nameId="x27k.6116558314501417936" value="&lt;iostream&gt;" />
+    </node>
+  </root>
+  <root type="2c95.Document" typeId="2c95.3350625596579911728" id="5746593851486875497" nodeInfo="ng">
+    <property name="chapterStartIndex" nameId="2c95.5572730672710143343" value="1" />
+    <property name="name" nameId="tpck.1169194664001" value="CPPTutorial" />
+    <link role="config" roleId="2c95.6657644269295214800" targetNodeId="5746593851486875702" resolveInfo="CPPTutorialConfig" />
+    <node role="authors" roleId="2c95.126932837435370865" type="2c95.Author" typeId="2c95.126932837435370850" id="5746593851486876119" nodeInfo="ng">
+      <property name="name" nameId="2c95.126932837435370851" value="Eugen Schindler" />
+      <property name="email" nameId="2c95.126932837435370852" value="eugen.schindler@sioux.eu" />
+    </node>
+    <node role="authors" roleId="2c95.126932837435370865" type="2c95.Author" typeId="2c95.126932837435370850" id="5746593851486876121" nodeInfo="ng">
+      <property name="name" nameId="2c95.126932837435370851" value="Klemens Schindler" />
+      <property name="email" nameId="2c95.126932837435370852" value="klemens.schindler@sioux.eu" />
+    </node>
+    <node role="authors" roleId="2c95.126932837435370865" type="2c95.Author" typeId="2c95.126932837435370850" id="5746593851486876124" nodeInfo="ng">
+      <property name="name" nameId="2c95.126932837435370851" value="Remi Bosman" />
+      <property name="email" nameId="2c95.126932837435370852" value="remi.bosman@sioux.eu" />
+    </node>
+    <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Chapter" typeId="2c95.4208238404730191274" id="5746593851486876338" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="Classes-I" />
+      <property name="text" nameId="2c95.3350625596580064225" value="Classes (I)" />
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.TextParagraph" typeId="2c95.3350625596580089586" id="5746593851486876551" nodeInfo="ng">
+        <node role="text" roleId="2c95.3350625596580089613" type="87nw.Text" typeId="87nw.2557074442922380897" id="5746593851486876552" nodeInfo="ng">
+          <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="5746593851486876553" nodeInfo="ng">
+            <property name="escapedValue" nameId="87nw.2557074442922438158" value="Classes are an expanded concept of data structures: like data structures, they can contain data members, but they can also contain functions as members.\n\n8&lt;-------------------------------------------------------------------------------------------------------------\n\n\nHere is the complete example of class Rectangle:" />
+          </node>
+        </node>
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.CCodeParagraph" typeId="2c95.6955693250238922834" id="5746593851486880159" nodeInfo="ng">
+        <property name="language" nameId="2c95.6955693250238922836" value="mbeddr" />
+        <property name="showCode" nameId="2c95.6955693250238922823" value="true" />
+        <node role="codeptr" roleId="2c95.6955693250238922822" type="2c95.CodePointer" typeId="2c95.2286331641395238583" id="5746593851486880160" nodeInfo="ng">
+          <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="5746593851486881414" nodeInfo="ng">
+            <link role="node" roleId="2c95.2286331641395252233" targetNodeId="107031638831787792" resolveInfo="Classes1" />
+          </node>
+          <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="5746593851486886539" nodeInfo="ng">
+            <link role="node" roleId="2c95.2286331641395252233" targetNodeId="107031638831790562" resolveInfo="Rectangle" />
+          </node>
+        </node>
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.CCodeParagraph" typeId="2c95.6955693250238922834" id="5746593851486987825" nodeInfo="ng">
+        <property name="language" nameId="2c95.6955693250238922836" value="mbeddr" />
+        <property name="showCode" nameId="2c95.6955693250238922823" value="true" />
+        <node role="codeptr" roleId="2c95.6955693250238922822" type="2c95.CodePointer" typeId="2c95.2286331641395238583" id="5746593851486987826" nodeInfo="ng">
+          <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="5746593851486987837" nodeInfo="ng">
+            <link role="node" roleId="2c95.2286331641395252233" targetNodeId="107031638831787792" resolveInfo="Classes1" />
+          </node>
+          <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="5746593851486987842" nodeInfo="ng">
+            <link role="node" roleId="2c95.2286331641395252233" targetNodeId="107031638831847774" resolveInfo="Rectangle__set_values__Int32tType_Int32tType" />
+          </node>
+        </node>
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.TextParagraph" typeId="2c95.3350625596580089586" id="5746593851487028928" nodeInfo="ng">
+        <node role="text" roleId="2c95.3350625596580089613" type="87nw.Text" typeId="87nw.2557074442922380897" id="5746593851487028929" nodeInfo="ng">
+          <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="5746593851487028930" nodeInfo="ng">
+            <property name="escapedValue" nameId="87nw.2557074442922438158" value="This example reintroduces the scope operator (::, two colons), seen in earlier chapters in relation to namespaces. Here it is used in the definition of function set_values to define a member of a class outside the class itself.\n\nNotice that the definition of the member function area has been included directly within the definition of class Rectangle given its extreme simplicity. Conversely, set_values it is merely declared with its prototype within the class, but its definition is outside it. In this outside definition, the operator of scope (::) is used to specify that the function being defined is a member of the class Rectangle and not a regular non-member function.\n\nThe scope operator (::) specifies the class to which the member being declared belongs, granting exactly the same scope properties as if this function definition was directly included within the class definition. For example, the function set_values in the previous example has access to the variables width and height, which are private members of class Rectangle, and thus only accessible from other members of the class, such as this.\n\nThe only difference between defining a member function completely within the class definition or to just include its declaration in the function and define it later outside the class, is that in the first case the function is automatically considered an inline member function by the compiler, while in the second it is a normal (not-inline) class member function. This causes no differences in behavior, but only on possible compiler optimizations.\n\nMembers width and height have private access (remember that if nothing else is specified, all members of a class defined with keyword class have private access). By declaring them private, access from outside the class is not allowed. This makes sense, since we have already defined a member function to set values for those members within the object: the member function set_values. Therefore, the rest of the program does not need to have direct access to them. Perhaps in a so simple example as this, it is difficult to see how restricting access to these variables may be useful, but in greater projects it may be very important that values cannot be modified in an unexpected way (unexpected from the point of view of the object).\n\nThe most important property of a class is that it is a type, and as such, we can declare multiple objects of it. For example, following with the previous example of class Rectangle, we could have declared the object rectb in addition to object rect:\n8&lt;-------------------------------------------------------------------------------------\n\n\nis a pointer to an object of class Rectangle.\n\nSimilarly as with plain data structures, the members of an object can be accessed directly from a pointer by using the arrow operator (-&gt;). Here is an example with some possible combinations:" />
+          </node>
+        </node>
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.CCodeParagraph" typeId="2c95.6955693250238922834" id="5746593851487039043" nodeInfo="ng">
+        <property name="language" nameId="2c95.6955693250238922836" value="mbeddr" />
+        <property name="showCode" nameId="2c95.6955693250238922823" value="true" />
+        <node role="codeptr" roleId="2c95.6955693250238922822" type="2c95.CodePointer" typeId="2c95.2286331641395238583" id="5746593851487039044" nodeInfo="ng">
+          <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="5746593851487039074" nodeInfo="ng">
+            <link role="node" roleId="2c95.2286331641395252233" targetNodeId="107031638831787792" resolveInfo="Classes1" />
+          </node>
+          <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="5746593851487039079" nodeInfo="ng">
+            <link role="node" roleId="2c95.2286331641395252233" targetNodeId="107031638831888843" resolveInfo="main" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+  <root type="2c95.DocumentConfig" typeId="2c95.6386504476136472782" id="5746593851486875702" nodeInfo="ng">
+    <property name="name" nameId="tpck.1169194664001" value="CPPTutorialConfig" />
+    <node role="defaultTempPath" roleId="2c95.5785245534401182264" type="2c95.PathDefinition" typeId="2c95.6386504476136472795" id="5746593851486875703" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="cpptutorial" />
+      <node role="pathPicker" roleId="2c95.2642765975824057986" type="vs0r.SolutionRelativeDirPicker" typeId="vs0r.2642765975824060179" id="5746593851486875704" nodeInfo="ng">
+        <property name="pointOnlyToExistingFile" nameId="vs0r.2711621784026951428" value="true" />
+        <property name="mayBeEmpty" nameId="vs0r.9294901202237533" value="false" />
+        <property name="path" nameId="vs0r.6156524541422553710" value="cpptutorial" />
+      </node>
     </node>
   </root>
 </model>
