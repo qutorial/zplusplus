@@ -17,28 +17,6 @@
   <import index="2c95" modelUID="r:5f7188a9-e7b4-4a2e-bef9-38d2cf379fdc(com.mbeddr.doc.structure)" version="16" implicit="yes" />
   <root type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="107031638831787792" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="Classes1" />
-    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.Function" typeId="x27k.6437088627575724001" id="107031638831879916" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="doc" />
-      <property name="exported" nameId="x27k.1317894735999272944" value="false" />
-      <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="107031638831879918" nodeInfo="ng">
-        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.CommentStatement" typeId="c4fa.1679452829930336984" id="107031638831881756" nodeInfo="ng">
-          <node role="textblock" roleId="c4fa.8624890525768479139" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="107031638831881758" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="107031638831881759" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="107031638831881760" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="Based on:\nhttp://www.cplusplus.com/doc/tutorial/classes/\n\nCombining several of the tutorial fragments in one" />
-              </node>
-            </node>
-          </node>
-        </node>
-      </node>
-      <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="107031638831877773" nodeInfo="ng">
-        <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
-        <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-      </node>
-    </node>
-    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.EmptyModuleContent" typeId="x27k.8934095934011938595" id="107031638831876049" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="empty_1410897823343_6" />
-    </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="107031638831790562" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="Rectangle" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="107031638831790563" nodeInfo="ng">
@@ -548,6 +526,15 @@
     </node>
     <node role="imports" roleId="x27k.1317894735999304826" type="vs0r.DefaultGenericChunkDependency" typeId="vs0r.747084250476811597" id="107031638831965735" nodeInfo="ng">
       <link role="chunk" roleId="vs0r.747084250476878887" targetNodeId="6634216202587344129" resolveInfo="iostream" />
+    </node>
+    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="vs0r.ElementDocumentation" typeId="vs0r.3857533489766146428" id="5746593851487598206" nodeInfo="ng">
+      <node role="text" roleId="vs0r.4052432714772608243" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="5746593851487598207" nodeInfo="ng">
+        <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="5746593851487598208" nodeInfo="ng">
+          <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="5746593851487598209" nodeInfo="ng">
+            <property name="escapedValue" nameId="87nw.2557074442922438158" value="Based on:\nhttp://www.cplusplus.com/doc/tutorial/classes/\n\nCombining several of the tutorial fragments in one" />
+          </node>
+        </node>
+      </node>
     </node>
   </root>
   <root type="vv6f.CppNamingConventions" typeId="vv6f.158014820112241128" id="107031638831787928" nodeInfo="ng">

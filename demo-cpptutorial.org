@@ -1,3 +1,14 @@
 * Naming conventions
 ** Member prefix
 ** Getter/setter
+
+* Make new CppImplementationModule
+** No naming conventions specified --> intention on implementationmodule: add naming conventions
+** Andere intention: je kunt convert doen naar C implementation module
+* Make a function int32 main
+** Intention: fix signature
+** Error: no return value --> add return 0
+
+* Matrices
+** insert [
+** intention --> add new column
