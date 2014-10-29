@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="test.ex.cpp.sioux.goal1" uuid="d27be69d-26e1-4f58-bbb1-750eaf7b430c" compileInMPS="true">
+<solution name="spike.templates" uuid="d27be69d-26e1-4f58-bbb1-750eaf7b430c" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />

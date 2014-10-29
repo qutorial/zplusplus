@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:2e8965f6-7ad4-41b9-993a-4064fdda705f(test.ex.cpp.sioux.goal1.c_code)">
+<model modelUID="r:2e8965f6-7ad4-41b9-993a-4064fdda705f(spike.templates.c_code)">
   <persistence version="8" />
   <devkit namespace="d2a9c55c-6bdc-4cc2-97e1-4ba7552f5584(com.mbeddr.core)" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="9" implicit="yes" />
