@@ -26,7 +26,7 @@
   <import index="51wr" modelUID="r:b31f1c3c-99aa-4f1e-a329-cba27efb1a6b(com.mbeddr.core.buildconfig.structure)" version="1" implicit="yes" />
   <import index="k146" modelUID="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" version="21" implicit="yes" />
   <root type="tp5g.NodesTestCase" typeId="tp5g.1216913645126" id="4054847773896419059" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="Visibility" />
+    <property name="name" nameId="tpck.1169194664001" value="T05_ClassMemberVisibility" />
     <node role="nodesToCheck" roleId="tp5g.1217501822150" type="tp5g.TestNode" typeId="tp5g.1216989428737" id="4748502817374052451" nodeInfo="ng">
       <node role="nodeToCheck" roleId="tp5g.1216989461394" type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="4748502817374103183" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="TestVisibility" />
@@ -420,7 +420,7 @@
     <property name="SetterArgPrefix" nameId="vv6f.158014820112688201" value="the" />
   </root>
   <root type="tp5g.NodesTestCase" typeId="tp5g.1216913645126" id="3959768935609374620" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="Struction" />
+    <property name="name" nameId="tpck.1169194664001" value="T04_ClassConstructionDestruction" />
     <node role="nodesToCheck" roleId="tp5g.1217501822150" type="tp5g.TestNode" typeId="tp5g.1216989428737" id="3959768935609415898" nodeInfo="ng">
       <node role="nodeToCheck" roleId="tp5g.1216989461394" type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="3959768935609415900" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="TestStruction" />
@@ -1283,7 +1283,7 @@
     </node>
   </root>
   <root type="tp5g.NodesTestCase" typeId="tp5g.1216913645126" id="4256712340472461699" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="CppNaming" />
+    <property name="name" nameId="tpck.1169194664001" value="ReservedKeywordsVariableNaming" />
     <node role="nodesToCheck" roleId="tp5g.1217501822150" type="tp5g.TestNode" typeId="tp5g.1216989428737" id="4256712340472505563" nodeInfo="ng">
       <node role="nodeToCheck" roleId="tp5g.1216989461394" type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="4256712340472506423" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="NamingTest" />
