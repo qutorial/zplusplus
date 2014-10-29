@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:8f087f80-9348-4d69-b11c-01cabe3fad50(test.ex.cpp.tutorial.dsl_examples)">
+<model modelUID="r:8f087f80-9348-4d69-b11c-01cabe3fad50(com.mbeddr.cpp.tutorial.dsl_examples)">
   <persistence version="8" />
   <language namespace="3d0be1cf-4156-4c3c-ac37-fef83237d8e2(mbeddr.tutorial.vectors)" />
   <language namespace="2d7fadf5-33f6-4e80-a78f-0f739add2bde(com.mbeddr.core.buildconfig)" />

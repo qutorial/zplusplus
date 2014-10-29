@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:4d4d30d0-cca6-4e96-8675-cf64211ebfed(test.ex.cpp.tutorial.cpp_tutorial_classes)">
+<model modelUID="r:4d4d30d0-cca6-4e96-8675-cf64211ebfed(com.mbeddr.cpp.tutorial.cpp_tutorial_classes)">
   <persistence version="8" />
   <language namespace="2d7fadf5-33f6-4e80-a78f-0f739add2bde(com.mbeddr.core.buildconfig)" />
   <devkit namespace="b8457cc4-cb06-42fd-88a9-5bcfc0b7035d(com.mbeddr.cpp)" />
