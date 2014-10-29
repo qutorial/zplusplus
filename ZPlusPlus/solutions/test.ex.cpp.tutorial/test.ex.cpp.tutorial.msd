@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="test.ex.cpp.tutorial" uuid="8c4d61fa-8782-4bf9-9ac4-042005945ceb" compileInMPS="true">
+<solution name="com.mbeddr.cpp.tutorial" uuid="8c4d61fa-8782-4bf9-9ac4-042005945ceb" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
