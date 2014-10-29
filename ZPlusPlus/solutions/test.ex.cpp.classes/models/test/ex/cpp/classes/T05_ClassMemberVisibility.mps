@@ -17,7 +17,7 @@
   <import index="k146" modelUID="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" version="21" implicit="yes" />
   <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="38" implicit="yes" />
   <root type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="6628281505962823296" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="TestVisibility" />
+    <property name="name" nameId="tpck.1169194664001" value="T05_ClassMemberVisibility" />
     <node role="contents" roleId="x27k.6437088627575722833" type="clbe.StructDeclaration" typeId="clbe.6394819151180597807" id="6628281505962824290" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="SomeStruct" />
       <node role="members" roleId="clbe.7099329415459888018" type="clbe.Member" typeId="clbe.5882395403881875736" id="6628281505962855307" nodeInfo="ng">
@@ -790,7 +790,7 @@
       <property name="name" nameId="tpck.1169194664001" value="main" />
       <property name="isTest" nameId="51wr.3431613015799084476" value="false" />
       <node role="referencedModules" roleId="51wr.5046689135693761559" type="51wr.ModuleRef" typeId="51wr.7717755763392524107" id="6628281505962898147" nodeInfo="ng">
-        <link role="module" roleId="51wr.7717755763392524108" targetNodeId="6628281505962823296" resolveInfo="TestVisibility" />
+        <link role="module" roleId="51wr.7717755763392524108" targetNodeId="6628281505962823296" resolveInfo="T05_ClassMemberVisibility" />
       </node>
     </node>
     <node role="configurationItems" roleId="vs0r.4459718605982007338" type="k146.ReportingConfiguration" typeId="k146.4459718605982051949" id="6628281505962898910" nodeInfo="ng">

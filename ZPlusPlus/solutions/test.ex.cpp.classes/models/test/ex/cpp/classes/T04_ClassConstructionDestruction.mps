@@ -14,7 +14,7 @@
   <import index="k146" modelUID="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" version="21" implicit="yes" />
   <import index="yz9a" modelUID="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" version="0" implicit="yes" />
   <root type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="1768392128269041883" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="struction" />
+    <property name="name" nameId="tpck.1169194664001" value="T04_ClassConstructionDestruction" />
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.ClassDeclaration" typeId="vv6f.4157133445514936980" id="1768392128270873768" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="SomeClass" />
       <node role="publicMemberList" roleId="vv6f.8616684942293620789" type="vv6f.PublicMemberList" typeId="vv6f.8616684942293620749" id="1768392128270873769" nodeInfo="ng">
@@ -254,7 +254,7 @@
       <property name="name" nameId="tpck.1169194664001" value="main" />
       <property name="isTest" nameId="51wr.3431613015799084476" value="false" />
       <node role="referencedModules" roleId="51wr.5046689135693761559" type="51wr.ModuleRef" typeId="51wr.7717755763392524107" id="1768392128269081694" nodeInfo="ng">
-        <link role="module" roleId="51wr.7717755763392524108" targetNodeId="1768392128269041883" resolveInfo="struction" />
+        <link role="module" roleId="51wr.7717755763392524108" targetNodeId="1768392128269041883" resolveInfo="T04_ClassConstructionDestruction" />
       </node>
     </node>
     <node role="configurationItems" roleId="vs0r.4459718605982007338" type="k146.ReportingConfiguration" typeId="k146.4459718605982051949" id="1768392128270921281" nodeInfo="ng">
