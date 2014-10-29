@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:6e9abdae-fc2f-4e85-9ccf-17a1d034ed38(test.ex.cpp.classes.visibility)">
+<model modelUID="r:6e9abdae-fc2f-4e85-9ccf-17a1d034ed38(test.ex.cpp.classes.ClassMemberVisibility)">
   <persistence version="8" />
   <language namespace="92d2ea16-5a42-4fdf-a676-c7604efe3504(de.slisson.mps.richtext)" />
   <devkit namespace="d2a9c55c-6bdc-4cc2-97e1-4ba7552f5584(com.mbeddr.core)" />

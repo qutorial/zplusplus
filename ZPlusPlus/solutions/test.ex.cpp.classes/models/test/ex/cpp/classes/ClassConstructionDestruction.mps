@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:ba0194ab-f4eb-4a39-b681-411d99239299(test.ex.cpp.classes.struction)">
+<model modelUID="r:ba0194ab-f4eb-4a39-b681-411d99239299(test.ex.cpp.classes.ClassConstructionDestruction)">
   <persistence version="8" />
   <devkit namespace="b8457cc4-cb06-42fd-88a9-5bcfc0b7035d(com.mbeddr.cpp)" />
   <import index="51wr" modelUID="r:b31f1c3c-99aa-4f1e-a329-cba27efb1a6b(com.mbeddr.core.buildconfig.structure)" version="1" implicit="yes" />
