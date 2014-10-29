@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="bug5" modelUID="r:327c116c-ac46-4b47-8c86-bb6e3a28c2a0(Testing.structure)" version="-1" />
+    </dependencies>
+    <rename id="bug5.53235885728477856" type="CONCEPT" from="EqualityTest" to="NodeEqualsCheckOperation" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="bug5" modelUID="r:327c116c-ac46-4b47-8c86-bb6e3a28c2a0(Testing.structure)" version="0" />
+    </dependencies>
+    <rename id="bug5.53235885728477856" type="CONCEPT" from="NodeEqualsCheckOperation" to="ResolveCheckOperation" />
+  </StructureModification>
+</history>
+

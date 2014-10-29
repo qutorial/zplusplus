@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Testing/Testing.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/devkits/com.mbeddr.cpp/cpp.devkit" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.cext/cext.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" folder="" />
