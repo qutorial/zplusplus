@@ -11,6 +11,7 @@
     <dependency reexport="false">9529e80c-6e32-4174-968f-d0c795cc62c5(test.ex.cpp.overloading)</dependency>
   </dependencies>
   <usedLanguages>
+    <usedLanguage>e518b5c4-9e1e-4ef1-9d54-46a9e03df743(Testing)</usedLanguage>
     <usedLanguage>2d7fadf5-33f6-4e80-a78f-0f739add2bde(com.mbeddr.core.buildconfig)</usedLanguage>
     <usedLanguage>61c69711-ed61-4850-81d9-7714ff227fb0(com.mbeddr.core.expressions)</usedLanguage>
     <usedLanguage>6d11763d-483d-4b2b-8efc-09336c1b0001(com.mbeddr.core.modules)</usedLanguage>
