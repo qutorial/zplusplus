@@ -133,7 +133,7 @@
             <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="7540295501294968698" nodeInfo="sn">
               <node role="statement" roleId="tpee.1068581517665" type="tpee.LocalVariableDeclarationStatement" typeId="tpee.1068581242864" id="7540295501294968730" nodeInfo="nn">
                 <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="7540295501294968731" nodeInfo="nr">
-                  <property name="name" nameId="tpck.1169194664001" value="copiable" />
+                  <property name="name" nameId="tpck.1169194664001" value="copyable" />
                   <node role="type" roleId="tpee.5680397130376446158" type="tpee.BooleanType" typeId="tpee.1070534644030" id="7540295501294968732" nodeInfo="in" />
                   <node role="initializer" roleId="tpee.1068431790190" type="tpee.DotExpression" typeId="tpee.1197027756228" id="7540295501294968785" nodeInfo="nn">
                     <node role="operand" roleId="tpee.1197027771414" type="tpc2.ConceptFunctionParameter_node" typeId="tpc2.1142886811589" id="7540295501294968734" nodeInfo="nn" />
@@ -161,7 +161,7 @@
                   <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="7540295501295121295" nodeInfo="nn" />
                   <node role="statement" roleId="tpee.1068581517665" type="tpee.ReturnStatement" typeId="tpee.1068581242878" id="7540295501294968882" nodeInfo="nn">
                     <node role="expression" roleId="tpee.1068581517676" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="7540295501294968884" nodeInfo="nn">
-                      <property name="value" nameId="tpee.1070475926801" value="/copyable and assignable/" />
+                      <property name="value" nameId="tpee.1070475926801" value="/* copyable and assignable */" />
                     </node>
                   </node>
                 </node>
@@ -170,7 +170,7 @@
                     <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="7540295501294968793" resolveInfo="assignable" />
                   </node>
                   <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.VariableReference" typeId="tpee.1068498886296" id="8418506114724833154" nodeInfo="nn">
-                    <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="7540295501294968731" resolveInfo="copiable" />
+                    <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="7540295501294968731" resolveInfo="copyable" />
                   </node>
                 </node>
               </node>
@@ -179,12 +179,12 @@
                 <node role="ifTrue" roleId="tpee.1068580123161" type="tpee.StatementList" typeId="tpee.1068580123136" id="7540295501295049808" nodeInfo="sn">
                   <node role="statement" roleId="tpee.1068581517665" type="tpee.ReturnStatement" typeId="tpee.1068581242878" id="7540295501295049812" nodeInfo="nn">
                     <node role="expression" roleId="tpee.1068581517676" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="7540295501295049814" nodeInfo="nn">
-                      <property name="value" nameId="tpee.1070475926801" value="/copyable but not assignable!/" />
+                      <property name="value" nameId="tpee.1070475926801" value="/* copyable but not assignable! */" />
                     </node>
                   </node>
                 </node>
                 <node role="condition" roleId="tpee.1068580123160" type="tpee.VariableReference" typeId="tpee.1068498886296" id="8418506114724834449" nodeInfo="nn">
-                  <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="7540295501294968731" resolveInfo="copiable" />
+                  <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="7540295501294968731" resolveInfo="copyable" />
                 </node>
               </node>
               <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="7540295501295049815" nodeInfo="nn" />
@@ -192,7 +192,7 @@
                 <node role="ifTrue" roleId="tpee.1068580123161" type="tpee.StatementList" typeId="tpee.1068580123136" id="7540295501295049818" nodeInfo="sn">
                   <node role="statement" roleId="tpee.1068581517665" type="tpee.ReturnStatement" typeId="tpee.1068581242878" id="7540295501295049822" nodeInfo="nn">
                     <node role="expression" roleId="tpee.1068581517676" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="7540295501295049824" nodeInfo="nn">
-                      <property name="value" nameId="tpee.1070475926801" value="/assignable but not copyable!/" />
+                      <property name="value" nameId="tpee.1070475926801" value="/* assignable but not copyable! */" />
                     </node>
                   </node>
                 </node>
@@ -204,7 +204,7 @@
               <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="7540295501294968825" nodeInfo="nn" />
               <node role="statement" roleId="tpee.1068581517665" type="tpee.ReturnStatement" typeId="tpee.1068581242878" id="7540295501295049800" nodeInfo="nn">
                 <node role="expression" roleId="tpee.1068581517676" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="7540295501295049802" nodeInfo="nn">
-                  <property name="value" nameId="tpee.1070475926801" value="/neither copyable nor assignable/" />
+                  <property name="value" nameId="tpee.1070475926801" value="/* neither copyable nor assignable */" />
                 </node>
               </node>
             </node>
