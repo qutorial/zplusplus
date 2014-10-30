@@ -500,7 +500,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="yz9a.TestCase" typeId="yz9a.6275792049641586523" id="6628281505962865464" nodeInfo="ng">
       <property name="exported" nameId="x27k.1317894735999272944" value="true" />
-      <property name="name" nameId="tpck.1169194664001" value="StructDefaultVisibilityPublic" />
+      <property name="name" nameId="tpck.1169194664001" value="Default_visibility_of_struct_is_public" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="6628281505962865465" nodeInfo="ng">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
         <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -551,7 +551,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="yz9a.TestCase" typeId="yz9a.6275792049641586523" id="6628281505962967390" nodeInfo="ng">
       <property name="exported" nameId="x27k.1317894735999272944" value="true" />
-      <property name="name" nameId="tpck.1169194664001" value="CallingPublicFunctionExternallyAllowed" />
+      <property name="name" nameId="tpck.1169194664001" value="Calling_public_functions_externally_is_allowed" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="6628281505962967391" nodeInfo="ng">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
         <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -621,7 +621,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="yz9a.TestCase" typeId="yz9a.6275792049641586523" id="6628281505963438940" nodeInfo="ng">
       <property name="exported" nameId="x27k.1317894735999272944" value="true" />
-      <property name="name" nameId="tpck.1169194664001" value="AccessingPublicMemberExternallyAllowed" />
+      <property name="name" nameId="tpck.1169194664001" value="Accessing_public_members_externally_is_allowed" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="6628281505963438941" nodeInfo="ng">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
         <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -699,7 +699,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="yz9a.TestCase" typeId="yz9a.6275792049641586523" id="4054847773896291000" nodeInfo="ng">
       <property name="exported" nameId="x27k.1317894735999272944" value="true" />
-      <property name="name" nameId="tpck.1169194664001" value="AccessingProtectedParentFunctionAllowed" />
+      <property name="name" nameId="tpck.1169194664001" value="Calling_public_function_which_accesses_a_protected_function_is_allowed" />
       <node role="type" roleId="mj1l.318113533128716676" type="mj1l.VoidType" typeId="mj1l.7892328519581699353" id="4054847773896291001" nodeInfo="ng">
         <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
         <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -741,16 +741,16 @@
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="4054847773896140199" nodeInfo="ng">
           <node role="expression" roleId="x27k.8967919205527146150" type="yz9a.ExecuteTestExpression" typeId="yz9a.186853311768094629" id="6628281505962876053" nodeInfo="ng">
             <node role="tests" roleId="yz9a.5686538669182341016" type="yz9a.TestCaseRef" typeId="yz9a.5686538669182340985" id="6628281505962876308" nodeInfo="ng">
-              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="6628281505962865464" resolveInfo="StructDefaultVisibilityPublic" />
+              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="6628281505962865464" resolveInfo="Default_visibility_of_struct_is_public" />
             </node>
             <node role="tests" roleId="yz9a.5686538669182341016" type="yz9a.TestCaseRef" typeId="yz9a.5686538669182340985" id="6628281505963374946" nodeInfo="ng">
-              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="6628281505962967390" resolveInfo="CallingPublicFunctionExternallyAllowed" />
+              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="6628281505962967390" resolveInfo="Calling_public_functions_externally_is_allowed" />
             </node>
             <node role="tests" roleId="yz9a.5686538669182341016" type="yz9a.TestCaseRef" typeId="yz9a.5686538669182340985" id="6628281505963524135" nodeInfo="ng">
-              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="6628281505963438940" resolveInfo="AccessingPublicMemberExternallyAllowed" />
+              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="6628281505963438940" resolveInfo="Accessing_public_members_externally_is_allowed" />
             </node>
             <node role="tests" roleId="yz9a.5686538669182341016" type="yz9a.TestCaseRef" typeId="yz9a.5686538669182340985" id="4054847773896311243" nodeInfo="ng">
-              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="4054847773896291000" resolveInfo="AccessingProtectedParentFunctionAllowed" />
+              <link role="testcase" roleId="yz9a.5686538669182340986" targetNodeId="4054847773896291000" resolveInfo="Calling_public_function_which_accesses_a_protected_function_is_allowed" />
             </node>
           </node>
         </node>
