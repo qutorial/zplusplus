@@ -2346,7 +2346,7 @@
   </root>
   <root type="tp5g.TestInfo" typeId="tp5g.5097124989038916362" id="2203972674841604766" nodeInfo="ng" />
   <root type="tp5g.NodesTestCase" typeId="tp5g.1216913645126" id="1854215385163396932" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="ThisKeyword" />
+    <property name="name" nameId="tpck.1169194664001" value="T06_ThisKeyword" />
     <node role="nodesToCheck" roleId="tp5g.1217501822150" type="tp5g.TestNode" typeId="tp5g.1216989428737" id="1854215385163422546" nodeInfo="ng">
       <node role="nodeToCheck" roleId="tp5g.1216989461394" type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="1854215385165779599" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="testModule" />
