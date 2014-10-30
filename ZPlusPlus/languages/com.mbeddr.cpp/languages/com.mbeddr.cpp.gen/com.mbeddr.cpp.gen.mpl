@@ -45,7 +45,12 @@
       </usedDevKits>
       <mapping-priorities>
         <mapping-priority-rule kind="strictly_after">
-          <greater-priority-mapping />
+          <greater-priority-mapping>
+            <generator generatorUID="649d1f4a-142e-4a63-80f3-e26499db0a11(com.mbeddr.cpp.gen#1250172204141955697)" />
+            <external-mapping>
+              <mapping-node modelUID="r:aad182a3-663a-4884-a623-298ffc0eb121(com.mbeddr.cpp.gen.generator.template.main@generator)" nodeID="1250172204141955698" />
+            </external-mapping>
+          </greater-priority-mapping>
           <lesser-priority-mapping>
             <generator generatorUID="be090156-a678-454c-bd8f-89ebd4a0e6af(com.mbeddr.core.modules.gen#1758019824472882132)" />
             <external-mapping>

@@ -319,5 +319,11 @@
       <link role="target" roleId="tpce.1071599976176" targetNodeId="1449305573944846990" resolveInfo="ExceptionArgument" />
     </node>
   </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="6387747963809296042" nodeInfo="ig">
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="cppmodule" />
+    <property name="name" nameId="tpck.1169194664001" value="CppExternalModule" />
+    <property name="rootable" nameId="tpce.1096454100552" value="true" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="x27k.6116558314501417921" resolveInfo="ExternalModule" />
+  </root>
 </model>
 
