@@ -6,6 +6,9 @@
     </modelRoot>
   </models>
   <sourcePath />
+  <dependencies>
+    <dependency reexport="false">~_PreferencesModule#ZPlusPlus.__spreferences.PlatformTemplates(ZPlusPlus.__spreferences.PlatformTemplates)</dependency>
+  </dependencies>
   <usedLanguages>
     <usedLanguage>d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)</usedLanguage>
     <usedLanguage>61c69711-ed61-4850-81d9-7714ff227fb0(com.mbeddr.core.expressions)</usedLanguage>
