@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dev-kit name="com.mbeddr.cpp.patterns" uuid="cbf38efd-e44f-473f-99fd-2f59b91a0572">
-  <exported-language name="07e015c1-b285-4d33-8fb2-af48e84021aa(com.mbeddr.cpp.patterns)" />
-  <extendedDevKits>
-    <extendedDevKit>b8457cc4-cb06-42fd-88a9-5bcfc0b7035d(com.mbeddr.cpp)</extendedDevKit>
-  </extendedDevKits>
-</dev-kit>
-
