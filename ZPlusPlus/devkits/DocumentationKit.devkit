@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="DocumentationKit" uuid="b7d7a48d-3cbe-4ced-b7e2-79ae36c50322">
+  <exported-language name="6618d3f3-3ffd-4095-b8e6-dd40c4318db0(Documentation)" />
+  <exported-language name="92d2ea16-5a42-4fdf-a676-c7604efe3504(de.slisson.mps.richtext)" />
+</dev-kit>
+
