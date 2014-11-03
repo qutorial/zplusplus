@@ -234,5 +234,11 @@
     </dependencies>
     <rename id="vv6f.8675670401742714813" type="CONCEPT" from="TemplateParamType" to="TemplateClassParameterType" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="38" />
+    </dependencies>
+    <rename id="vv6f.1435409868610954688" type="CONCEPT" from="StackLocalVariableDeclaration" to="LocalVariableDeclarationPlusPlus" />
+  </StructureModification>
 </history>
 
