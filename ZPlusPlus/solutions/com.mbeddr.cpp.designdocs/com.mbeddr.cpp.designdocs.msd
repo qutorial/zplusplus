@@ -6,6 +6,9 @@
     </modelRoot>
   </models>
   <sourcePath />
+  <dependencies>
+    <dependency reexport="false">6592b202-f2b9-4ae7-bdc7-38c48c6b921e(test.ex.cpp.goodweather)</dependency>
+  </dependencies>
   <usedLanguages>
     <usedLanguage>d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)</usedLanguage>
   </usedLanguages>

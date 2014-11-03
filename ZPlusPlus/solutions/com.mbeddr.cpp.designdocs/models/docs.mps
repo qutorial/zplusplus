@@ -3,6 +3,7 @@
   <persistence version="8" />
   <language namespace="d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)" />
   <devkit namespace="54c79f9f-f3ba-4167-91f1-eb4e98a9c47c(com.mbeddr.documentation)" />
+  <import index="is6o" modelUID="r:0e6ada45-8c2c-4eca-b734-3ab26e55030d(test.ex.cpp.goodweather.basic_class)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="2c95" modelUID="r:5f7188a9-e7b4-4a2e-bef9-38d2cf379fdc(com.mbeddr.doc.structure)" version="16" implicit="yes" />
   <import index="vs0r" modelUID="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" version="25" implicit="yes" />
@@ -95,139 +96,27 @@
       <property name="name" nameId="2c95.126932837435370851" value="Klemens Schindler" />
       <property name="email" nameId="2c95.126932837435370852" value="klemens@schindlerweb.net" />
     </node>
-    <node role="contents" roleId="2c95.3350625596580064250" type="2c95.FloatingTableParagraph" typeId="2c95.5185579450379471852" id="35130656846055003" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="Test" />
-      <property name="numCols" nameId="2c95.5785245534399940634" value="5" />
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846059374" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059439" nodeInfo="ng">
-          <property name="text" nameId="2c95.5185579450379471864" value="id" />
-          <property name="isheader" nameId="2c95.5785245534399625710" value="true" />
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="2591106116228524503" nodeInfo="ng">
-          <property name="isheader" nameId="2c95.5785245534399625710" value="true" />
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="2591106116228524510" nodeInfo="ng">
-          <property name="isheader" nameId="2c95.5785245534399625710" value="true" />
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="2591106116228524517" nodeInfo="ng">
-          <property name="isheader" nameId="2c95.5785245534399625710" value="true" />
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="2591106116228524524" nodeInfo="ng">
-          <property name="isheader" nameId="2c95.5785245534399625710" value="true" />
-        </node>
-      </node>
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846058586" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.TextBlockTableCell" typeId="2c95.5785245534400277706" id="35130656846058595" nodeInfo="ng">
-          <node role="text" roleId="2c95.5785245534400277707" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846058596" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846058597" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846058598" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="test" />
+    <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Chapter" typeId="2c95.4208238404730191274" id="6646226559981433148" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="Features" />
+      <property name="text" nameId="2c95.3350625596580064225" value="Features" />
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Section" typeId="2c95.3350625596580064455" id="6646226559981433240" nodeInfo="ng">
+        <property name="text" nameId="2c95.3350625596580064225" value="Using external libraries e.g. iostream, cstdlib" />
+        <property name="name" nameId="tpck.1169194664001" value="ExternalLibs" />
+        <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Section" typeId="2c95.3350625596580064455" id="6646226559981433426" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="GoodWeather" />
+          <property name="text" nameId="2c95.3350625596580064225" value="Good weather code/tests" />
+          <node role="contents" roleId="2c95.3350625596580064250" type="2c95.CCodeParagraph" typeId="2c95.6955693250238922834" id="6646226559981485451" nodeInfo="ng">
+            <property name="language" nameId="2c95.6955693250238922836" value="mbeddr" />
+            <node role="codeptr" roleId="2c95.6955693250238922822" type="2c95.CodePointer" typeId="2c95.2286331641395238583" id="6646226559981485455" nodeInfo="ng">
+              <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="6646226559981495785" nodeInfo="ng">
+                <link role="node" roleId="2c95.2286331641395252233" targetNodeId="is6o.6646226559980557171" resolveInfo="Tut01TheBasics" />
               </node>
             </node>
           </node>
         </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058770" nodeInfo="ng">
-          <property name="isheader" nameId="2c95.5785245534399625710" value="false" />
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058784" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058800" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058818" nodeInfo="ng" />
-      </node>
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846058942" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.TextBlockTableCell" typeId="2c95.5785245534400277706" id="35130656846058943" nodeInfo="ng">
-          <node role="text" roleId="2c95.5785245534400277707" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846058944" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846058945" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846058946" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="test" />
-              </node>
-            </node>
-          </node>
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058947" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058948" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058949" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846058950" nodeInfo="ng" />
-      </node>
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846058996" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.TextBlockTableCell" typeId="2c95.5785245534400277706" id="35130656846058997" nodeInfo="ng">
-          <node role="text" roleId="2c95.5785245534400277707" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846058998" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846058999" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846059000" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="test" />
-              </node>
-            </node>
-          </node>
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059001" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059002" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059003" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059004" nodeInfo="ng" />
-      </node>
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846059059" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.TextBlockTableCell" typeId="2c95.5785245534400277706" id="35130656846059060" nodeInfo="ng">
-          <node role="text" roleId="2c95.5785245534400277707" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846059061" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846059062" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846059063" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="test" />
-              </node>
-            </node>
-          </node>
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059064" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059065" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059066" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059067" nodeInfo="ng" />
-      </node>
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846059131" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.TextBlockTableCell" typeId="2c95.5785245534400277706" id="35130656846059132" nodeInfo="ng">
-          <node role="text" roleId="2c95.5785245534400277707" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846059133" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846059134" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846059135" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="test" />
-              </node>
-            </node>
-          </node>
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059136" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059137" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059138" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059139" nodeInfo="ng" />
-      </node>
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846059212" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.TextBlockTableCell" typeId="2c95.5785245534400277706" id="35130656846059213" nodeInfo="ng">
-          <node role="text" roleId="2c95.5785245534400277707" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846059214" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846059215" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846059216" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="test" />
-              </node>
-            </node>
-          </node>
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059217" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059218" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059219" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059220" nodeInfo="ng" />
-      </node>
-      <node role="rows" roleId="2c95.5785245534399940635" type="2c95.TableRow" typeId="2c95.5185579450379471854" id="35130656846059302" nodeInfo="ng">
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.TextBlockTableCell" typeId="2c95.5785245534400277706" id="35130656846059303" nodeInfo="ng">
-          <node role="text" roleId="2c95.5785245534400277707" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846059304" nodeInfo="ng">
-            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846059305" nodeInfo="ng">
-              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846059306" nodeInfo="ng">
-                <property name="escapedValue" nameId="87nw.2557074442922438158" value="test" />
-              </node>
-            </node>
-          </node>
-        </node>
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059307" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059308" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059309" nodeInfo="ng" />
-        <node role="cells" roleId="2c95.5185579450379471857" type="2c95.StringTableCell" typeId="2c95.5185579450379471862" id="35130656846059310" nodeInfo="ng" />
-      </node>
-      <node role="description" roleId="2c95.5785245534399659249" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="35130656846055004" nodeInfo="ng">
-        <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="35130656846055005" nodeInfo="ng">
-          <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="35130656846055006" nodeInfo="ng">
-            <property name="escapedValue" nameId="87nw.2557074442922438158" value=" dummytable " />
-          </node>
+        <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Section" typeId="2c95.3350625596580064455" id="6646226559981433574" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="BadWeather" />
+          <property name="text" nameId="2c95.3350625596580064225" value="Bad weather code" />
         </node>
       </node>
     </node>
