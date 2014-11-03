@@ -844,6 +844,9 @@
       <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="4157133445515062339" nodeInfo="nn" />
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="4157133445515062346" nodeInfo="ng">
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpck.1169194664001" resolveInfo="name" />
+        <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.ForegroundColorStyleClassItem" typeId="tpc2.1186404549998" id="1620813695192438954" nodeInfo="nn">
+          <property name="color" nameId="tpc2.1186403713874" value="blue" />
+        </node>
       </node>
     </node>
   </root>
@@ -1549,7 +1552,7 @@
           <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="vv6f.7919846782124371441" />
           <node role="cellLayout" roleId="tpc2.1140524464360" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="7919846782124371444" nodeInfo="nn" />
           <node role="emptyCellModel" roleId="tpc2.1140524464359" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="7919846782124453941" nodeInfo="nn">
-            <property name="nullText" nameId="tpc2.1082639509531" value="/* member init */" />
+            <property name="nullText" nameId="tpc2.1082639509531" value="empty initializer list" />
           </node>
         </node>
         <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="9073441115842127460" nodeInfo="nn">
@@ -2004,6 +2007,9 @@
           <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="3248094640537049943" nodeInfo="ng">
             <property name="readOnly" nameId="tpc2.1140017977771" value="true" />
             <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpck.1169194664001" resolveInfo="name" />
+            <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.ForegroundColorStyleClassItem" typeId="tpc2.1186404549998" id="1620813695192850975" nodeInfo="nn">
+              <property name="color" nameId="tpc2.1186403713874" value="blue" />
+            </node>
           </node>
         </node>
       </node>
