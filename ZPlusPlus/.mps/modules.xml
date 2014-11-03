@@ -15,6 +15,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/spike.templates/spike.templates.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.cext/test.ex.cpp.cext.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.classes/test.ex.cpp.classes.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.goodweather/test.ex.cpp.goodweather.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.zaursscratchpad/test.ex.zaursscratchpad.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ts.cpp.classes/test.ts.cpp.classes.msd" folder="" />
     </projectModules>
