@@ -1501,7 +1501,7 @@
                 </node>
                 <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="2203972674846276423" nodeInfo="ng">
                   <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="2203972674846276424" nodeInfo="ng">
-                    <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_without_arguments_when_all_user_defined_constructors_have_no_arguments" />
+                    <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_with_arguments_when_all_user_defined_constructors_have_no_arguments" />
                   </node>
                 </node>
               </node>
