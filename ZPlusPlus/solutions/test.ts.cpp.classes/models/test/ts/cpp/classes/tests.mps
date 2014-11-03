@@ -1494,14 +1494,14 @@
               <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.NewExpression" typeId="vv6f.4157133445515154412" id="2203972674846246125" nodeInfo="ng">
                 <node role="creator" roleId="vv6f.4157133445515164403" type="vv6f.ConstructorCallExpression" typeId="vv6f.4157133445515747689" id="2203972674846251489" nodeInfo="ng">
                   <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="2203972674845365811" resolveInfo="ClassWithoutConstructorArguments" />
-                  <node role="actuals" roleId="vv6f.2015268598019221854" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="2203972674846256899" nodeInfo="ng">
+                  <node role="actuals" roleId="vv6f.2015268598019221854" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="2648292466181822032" nodeInfo="ng">
                     <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                     <property name="value" nameId="mj1l.2212975673976043696" value="1" />
                   </node>
-                </node>
-                <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="2203972674846276423" nodeInfo="ng">
-                  <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="2203972674846276424" nodeInfo="ng">
-                    <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_with_arguments_when_all_user_defined_constructors_have_no_arguments" />
+                  <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="2648292466181836651" nodeInfo="ng">
+                    <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="2648292466181836652" nodeInfo="ng">
+                      <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_with_arguments_when_all_user_defined_constructors_have_no_arguments" />
+                    </node>
                   </node>
                 </node>
               </node>
@@ -1530,10 +1530,10 @@
               <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.NewExpression" typeId="vv6f.4157133445515154412" id="1768392128270880682" nodeInfo="ng">
                 <node role="creator" roleId="vv6f.4157133445515164403" type="vv6f.ConstructorCallExpression" typeId="vv6f.4157133445515747689" id="1768392128270880735" nodeInfo="ng">
                   <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="1768392128270877767" resolveInfo="ClassWithConstructorArguments" />
-                </node>
-                <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="2203972674846006623" nodeInfo="ng">
-                  <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="2203972674846006624" nodeInfo="ng">
-                    <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_without_arguments_when_all_user_defined_constructors_have_arguments" />
+                  <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="2648292466181846417" nodeInfo="ng">
+                    <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="2648292466181846418" nodeInfo="ng">
+                      <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_without_arguments_when_all_user_defined_constructors_have_arguments" />
+                    </node>
                   </node>
                 </node>
               </node>
@@ -1582,11 +1582,11 @@
                     <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                     <property name="value" nameId="mj1l.2212975673976043696" value="6" />
                   </node>
-                </node>
-              </node>
-              <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="1768392128270887894" nodeInfo="ng">
-                <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="1768392128270887895" nodeInfo="ng">
-                  <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_providing_incorrect_number_of_arguments" />
+                  <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="2648292466181857971" nodeInfo="ng">
+                    <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="2648292466181857972" nodeInfo="ng">
+                      <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_providing_incorrect_number_of_arguments" />
+                    </node>
+                  </node>
                 </node>
               </node>
             </node>
@@ -1637,6 +1637,11 @@
                   <node role="actuals" roleId="vv6f.2015268598019221854" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="6387747963808072717" nodeInfo="ng">
                     <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                     <property name="value" nameId="mj1l.2212975673976043696" value="4" />
+                  </node>
+                  <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp5g.NodeOperationsContainer" typeId="tp5g.1215603922101" id="2648292466181907841" nodeInfo="ng">
+                    <node role="nodeOperations" roleId="tp5g.1215604436604" type="tp5g.NodeErrorCheckOperation" typeId="tp5g.1215507671101" id="2648292466181907842" nodeInfo="ng">
+                      <property name="name" nameId="tpck.1169194664001" value="Can_not_call_constructor_providing_incorrect_number_of_arguments2" />
+                    </node>
                   </node>
                 </node>
               </node>
