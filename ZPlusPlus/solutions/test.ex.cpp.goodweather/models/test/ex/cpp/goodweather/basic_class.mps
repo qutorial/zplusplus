@@ -16,7 +16,7 @@
   <import index="k146" modelUID="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" version="21" implicit="yes" />
   <import index="yz9a" modelUID="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" version="0" implicit="yes" />
   <root type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="2591106116225987255" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="shapesTutorial" />
+    <property name="name" nameId="tpck.1169194664001" value="Tut21Polymorphism" />
     <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="vs0r.ElementDocumentation" typeId="vs0r.3857533489766146428" id="6646226559980550889" nodeInfo="ng">
       <node role="text" roleId="vs0r.4052432714772608243" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="6646226559980551352" nodeInfo="ng">
         <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="6646226559980551353" nodeInfo="ng">
@@ -882,7 +882,7 @@
       <property name="isTest" nameId="51wr.3431613015799084476" value="true" />
       <property name="name" nameId="tpck.1169194664001" value="main" />
       <node role="referencedModules" roleId="51wr.5046689135693761559" type="51wr.ModuleRef" typeId="51wr.7717755763392524107" id="2591106116225994660" nodeInfo="ng">
-        <link role="module" roleId="51wr.7717755763392524108" targetNodeId="2591106116225987255" resolveInfo="shapesTutorial" />
+        <link role="module" roleId="51wr.7717755763392524108" targetNodeId="2591106116225987255" resolveInfo="Tut21Polymorphism" />
       </node>
       <node role="referencedModules" roleId="51wr.5046689135693761559" type="51wr.ModuleRef" typeId="51wr.7717755763392524107" id="2591106116228249407" nodeInfo="ng">
         <link role="module" roleId="51wr.7717755763392524108" targetNodeId="2591106116226188729" resolveInfo="iostream" />
