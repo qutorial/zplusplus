@@ -694,6 +694,119 @@
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="false" />
         </node>
+        <node role="init" roleId="x27k.2771264470558526601" type="yq40.StringLiteral" typeId="yq40.6113173064526131575" id="6646226559980644249" nodeInfo="ng">
+          <property name="value" nameId="yq40.6113173064526131578" value="\n" />
+        </node>
+      </node>
+    </node>
+  </root>
+  <root type="sg22.CppImplementationModule" typeId="sg22.4387763778170601606" id="6646226559980557171" nodeInfo="ng">
+    <property name="name" nameId="tpck.1169194664001" value="Tut01TheBasics" />
+    <node role="stdImports" roleId="x27k.9074180702632864845" type="x27k.StdHeaderImport" typeId="x27k.3830958861296798479" id="6646226559980603407" nodeInfo="ng">
+      <property name="headerFileName" nameId="x27k.3830958861296798480" value="&lt;iostream&gt;" />
+    </node>
+    <node role="imports" roleId="x27k.1317894735999304826" type="vs0r.DefaultGenericChunkDependency" typeId="vs0r.747084250476811597" id="6646226559980603405" nodeInfo="ng">
+      <link role="chunk" roleId="vs0r.747084250476878887" targetNodeId="2591106116226188729" resolveInfo="iostream" />
+    </node>
+    <node role="contents" roleId="x27k.6437088627575722833" type="x27k.Function" typeId="x27k.6437088627575724001" id="6646226559980604910" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="main" />
+      <property name="exported" nameId="x27k.1317894735999272944" value="true" />
+      <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="6646226559980604912" nodeInfo="ng">
+        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="6646226559980640160" nodeInfo="ng">
+          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="6646226559980640152" nodeInfo="ng">
+            <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="6646226559980641018" nodeInfo="ng" />
+            <node role="rhs" roleId="vv6f.1146664085208163872" type="sg22.NamespaceScopeExpr" typeId="sg22.3947421596133941821" id="6646226559980642320" nodeInfo="ng">
+              <node role="right" roleId="mj1l.8860443239512128065" type="x27k.GlobalVarRef" typeId="x27k.6610873504380357354" id="6646226559980643196" nodeInfo="ng">
+                <link role="var" roleId="x27k.6610873504380357355" targetNodeId="2591106116228246757" resolveInfo="endl" />
+              </node>
+              <node role="left" roleId="mj1l.8860443239512128064" type="sg22.NamespaceRefExpr" typeId="sg22.3947421596134069236" id="6646226559980641857" nodeInfo="ng">
+                <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="2591106116228206369" resolveInfo="std" />
+              </node>
+            </node>
+            <node role="lhs" roleId="vv6f.1146664085208160175" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="6646226559980632423" nodeInfo="ng">
+              <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="6646226559980633286" nodeInfo="ng" />
+              <node role="rhs" roleId="vv6f.1146664085208163872" type="yq40.StringLiteral" typeId="yq40.6113173064526131575" id="6646226559980634379" nodeInfo="ng">
+                <property name="value" nameId="yq40.6113173064526131578" value="years old!" />
+              </node>
+              <node role="lhs" roleId="vv6f.1146664085208160175" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="6646226559980615550" nodeInfo="ng">
+                <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="6646226559980616410" nodeInfo="ng" />
+                <node role="rhs" roleId="vv6f.1146664085208163872" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="6646226559980617249" nodeInfo="ng">
+                  <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
+                  <property name="value" nameId="mj1l.2212975673976043696" value="32" />
+                </node>
+                <node role="lhs" roleId="vv6f.1146664085208160175" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="6646226559980611026" nodeInfo="ng">
+                  <node role="lhs" roleId="vv6f.1146664085208160175" type="sg22.NamespaceScopeExpr" typeId="sg22.3947421596133941821" id="6646226559980612964" nodeInfo="ng">
+                    <node role="right" roleId="mj1l.8860443239512128065" type="x27k.GlobalVarRef" typeId="x27k.6610873504380357354" id="6646226559980613461" nodeInfo="ng">
+                      <link role="var" roleId="x27k.6610873504380357355" targetNodeId="2591106116228211713" resolveInfo="cout" />
+                    </node>
+                    <node role="left" roleId="mj1l.8860443239512128064" type="sg22.NamespaceRefExpr" typeId="sg22.3947421596134069236" id="6646226559980612718" nodeInfo="ng">
+                      <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="2591106116228206369" resolveInfo="std" />
+                    </node>
+                  </node>
+                  <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="6646226559980611879" nodeInfo="ng" />
+                  <node role="rhs" roleId="vv6f.1146664085208163872" type="yq40.StringLiteral" typeId="yq40.6113173064526131575" id="6646226559980614100" nodeInfo="ng">
+                    <property name="value" nameId="yq40.6113173064526131578" value="Hello world! I am " />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="vs0r.ElementDocumentation" typeId="vs0r.3857533489766146428" id="6646226559980649899" nodeInfo="ng">
+            <node role="text" roleId="vs0r.4052432714772608243" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="6646226559980649900" nodeInfo="ng">
+              <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="6646226559980649901" nodeInfo="ng">
+                <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="6646226559980649902" nodeInfo="ng">
+                  <property name="escapedValue" nameId="87nw.2557074442922438158" value="Output some text" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="6646226559980604920" nodeInfo="ng">
+          <node role="expression" roleId="x27k.8967919205527146150" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="6646226559980604921" nodeInfo="ng">
+            <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
+            <property name="value" nameId="mj1l.2212975673976043696" value="0" />
+          </node>
+          <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="vs0r.ElementDocumentation" typeId="vs0r.3857533489766146428" id="6646226559980650743" nodeInfo="ng">
+            <node role="text" roleId="vs0r.4052432714772608243" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="6646226559980650744" nodeInfo="ng">
+              <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="6646226559980650745" nodeInfo="ng">
+                <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="6646226559980650746" nodeInfo="ng">
+                  <property name="escapedValue" nameId="87nw.2557074442922438158" value="Return 0" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="6646226559980604914" nodeInfo="ng">
+        <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+        <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+      </node>
+      <node role="arguments" roleId="x27k.5708867820623310661" type="x27k.Argument" typeId="x27k.7892328519581704407" id="6646226559980604915" nodeInfo="ng">
+        <property name="name" nameId="tpck.1169194664001" value="argc" />
+        <node role="type" roleId="mj1l.318113533128716676" type="mj1l.Int32tType" typeId="mj1l.8463282783691618440" id="6646226559980604916" nodeInfo="ng">
+          <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+          <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+        </node>
+      </node>
+      <node role="arguments" roleId="x27k.5708867820623310661" type="x27k.Argument" typeId="x27k.7892328519581704407" id="6646226559980604917" nodeInfo="ng">
+        <property name="name" nameId="tpck.1169194664001" value="argv" />
+        <node role="type" roleId="mj1l.318113533128716676" type="yq40.ArrayType" typeId="yq40.5679441017214012545" id="6646226559980604918" nodeInfo="ng">
+          <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+          <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+          <node role="baseType" roleId="c4fa.7763322639126652758" type="yq40.StringType" typeId="yq40.6113173064528067332" id="6646226559980604919" nodeInfo="ng">
+            <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
+            <property name="const" nameId="mj1l.2941277002445651368" value="false" />
+          </node>
+        </node>
+      </node>
+      <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="vs0r.ElementDocumentation" typeId="vs0r.3857533489766146428" id="6646226559980605771" nodeInfo="ng">
+        <node role="text" roleId="vs0r.4052432714772608243" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="6646226559980605772" nodeInfo="ng">
+          <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="6646226559980605773" nodeInfo="ng">
+            <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="6646226559980605774" nodeInfo="ng">
+              <property name="escapedValue" nameId="87nw.2557074442922438158" value="TODO: using namespace directive not yet possible" />
+            </node>
+          </node>
+        </node>
       </node>
     </node>
   </root>
