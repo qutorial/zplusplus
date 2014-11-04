@@ -44,7 +44,7 @@
         <usedDevKit>fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)</usedDevKit>
       </usedDevKits>
       <mapping-priorities>
-        <mapping-priority-rule kind="strictly_after">
+        <mapping-priority-rule kind="strictly_before">
           <greater-priority-mapping>
             <generator generatorUID="649d1f4a-142e-4a63-80f3-e26499db0a11(com.mbeddr.cpp.gen#1250172204141955697)" />
             <external-mapping>
@@ -54,7 +54,7 @@
           <lesser-priority-mapping>
             <generator generatorUID="be090156-a678-454c-bd8f-89ebd4a0e6af(com.mbeddr.core.modules.gen#1758019824472882132)" />
             <external-mapping>
-              <all-local-mappings />
+              <mapping-node modelUID="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)" nodeID="1758019824472882133" />
             </external-mapping>
           </lesser-priority-mapping>
         </mapping-priority-rule>
