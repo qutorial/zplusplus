@@ -96,6 +96,37 @@
       <property name="name" nameId="2c95.126932837435370851" value="Klemens Schindler" />
       <property name="email" nameId="2c95.126932837435370852" value="klemens@schindlerweb.net" />
     </node>
+    <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Chapter" typeId="2c95.4208238404730191274" id="1358829565352335617" nodeInfo="ng">
+      <property name="name" nameId="tpck.1169194664001" value="Explanation" />
+      <property name="text" nameId="2c95.3350625596580064225" value="Explanation" />
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.TextParagraph" typeId="2c95.3350625596580089586" id="1358829565352346488" nodeInfo="ng">
+        <node role="text" roleId="2c95.3350625596580089613" type="87nw.Text" typeId="87nw.2557074442922380897" id="1358829565352346489" nodeInfo="ng">
+          <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="1358829565352346490" nodeInfo="ng">
+            <property name="escapedValue" nameId="87nw.2557074442922438158" value="This document describes the features in the mbeddr++ extension and maps them to test cases that cover the features functionally.\nPer feature, we list the following:" />
+          </node>
+        </node>
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.ItemList" typeId="2c95.5378658552262893169" id="1358829565352449565" nodeInfo="ng">
+        <node role="items" roleId="2c95.5378658552262986137" type="2c95.Item" typeId="2c95.5378658552262903588" id="1358829565352449571" nodeInfo="ng">
+          <node role="text" roleId="2c95.5378658552262903589" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="1358829565352449572" nodeInfo="ng">
+            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="1358829565352449573" nodeInfo="ng">
+              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="1358829565352449574" nodeInfo="ng">
+                <property name="escapedValue" nameId="87nw.2557074442922438158" value="The good weather tests are a carrier to input typical basic cases that are found in C++ tutorials (such as a hello world program, variable declaration, and inheritance)." />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="items" roleId="2c95.5378658552262986137" type="2c95.Item" typeId="2c95.5378658552262903588" id="1358829565352449582" nodeInfo="ng">
+          <node role="text" roleId="2c95.5378658552262903589" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="1358829565352449583" nodeInfo="ng">
+            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="1358829565352449584" nodeInfo="ng">
+              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="1358829565352449585" nodeInfo="ng">
+                <property name="escapedValue" nameId="87nw.2557074442922438158" value="The bad weather tests cover some more complicated cases that a user can encounter while entering mbeddr++ program fragments (such as trying to call a private function of a class, passing a non-instantiatable class by value, and calling a constructor with non-matching/incorrect arguments)." />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
     <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Chapter" typeId="2c95.4208238404730191274" id="6646226559981433148" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="Features" />
       <property name="text" nameId="2c95.3350625596580064225" value="Features" />
@@ -118,6 +149,43 @@
           <property name="name" nameId="tpck.1169194664001" value="BadWeather" />
           <property name="text" nameId="2c95.3350625596580064225" value="Bad weather code" />
         </node>
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Section" typeId="2c95.3350625596580064455" id="6646226559981512681" nodeInfo="ng">
+        <property name="name" nameId="tpck.1169194664001" value="Generation" />
+        <property name="text" nameId="2c95.3350625596580064225" value="Controlling generation (to header or to cpp)" />
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Section" typeId="2c95.3350625596580064455" id="6646226559981512854" nodeInfo="ng">
+        <property name="name" nameId="tpck.1169194664001" value="Namespaces" />
+        <property name="text" nameId="2c95.3350625596580064225" value="Namespaces" />
+        <node role="contents" roleId="2c95.3350625596580064250" type="2c95.CCodeParagraph" typeId="2c95.6955693250238922834" id="6646226559981512992" nodeInfo="ng">
+          <property name="language" nameId="2c95.6955693250238922836" value="mbeddr" />
+          <node role="codeptr" roleId="2c95.6955693250238922822" type="2c95.CodePointer" typeId="2c95.2286331641395238583" id="6646226559981512996" nodeInfo="ng">
+            <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="6646226559981513000" nodeInfo="ng">
+              <link role="node" roleId="2c95.2286331641395252233" targetNodeId="is6o.2591106116225987255" resolveInfo="Tut21Polymorphism" />
+            </node>
+            <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="6646226559981526432" nodeInfo="ng">
+              <link role="node" roleId="2c95.2286331641395252233" targetNodeId="is6o.2591106116225989230" resolveInfo="main" />
+            </node>
+          </node>
+        </node>
+        <node role="contents" roleId="2c95.3350625596580064250" type="2c95.CCodeParagraph" typeId="2c95.6955693250238922834" id="6646226559981526528" nodeInfo="ng">
+          <property name="language" nameId="2c95.6955693250238922836" value="mbeddr" />
+          <node role="codeptr" roleId="2c95.6955693250238922822" type="2c95.CodePointer" typeId="2c95.2286331641395238583" id="6646226559981526537" nodeInfo="ng">
+            <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="6646226559981532681" nodeInfo="ng">
+              <link role="node" roleId="2c95.2286331641395252233" targetNodeId="is6o.2591106116225987255" resolveInfo="Tut21Polymorphism" />
+            </node>
+            <node role="elements" roleId="2c95.2286331641395252236" type="2c95.CPNamedNodeElement" typeId="2c95.2286331641395252232" id="6646226559981532687" nodeInfo="ng">
+              <link role="node" roleId="2c95.2286331641395252233" targetNodeId="is6o.1620813695195085730" resolveInfo="polymorphism" />
+            </node>
+          </node>
+        </node>
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.Section" typeId="2c95.3350625596580064455" id="6646226559981512927" nodeInfo="ng">
+        <property name="name" nameId="tpck.1169194664001" value="ConstructionDestruction" />
+        <property name="text" nameId="2c95.3350625596580064225" value="Class construction/destruction" />
+      </node>
+      <node role="contents" roleId="2c95.3350625596580064250" type="2c95.EmptyDocContent" typeId="2c95.3350625596579911760" id="6646226559981538328" nodeInfo="ng">
+        <property name="name" nameId="tpck.1169194664001" value="empty_-1" />
       </node>
     </node>
   </root>
