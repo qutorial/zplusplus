@@ -18,5 +18,11 @@
     </dependencies>
     <rename id="zo24.8456210691475869494" type="CONCEPT" from="CppHeaderPreamble" to="CppHeaderPreambleAbstract" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="zo24" modelUID="r:b799f389-c3ef-4e28-982e-8b20eb435c0d(com.mbeddr.cpp.gen.structure)" version="2" />
+    </dependencies>
+    <rename id="zo24.2451009910642363124" type="CONCEPT" from="GeneratedHeaderFile" to="GeneratedCppHeaderFile" />
+  </StructureModification>
 </history>
 

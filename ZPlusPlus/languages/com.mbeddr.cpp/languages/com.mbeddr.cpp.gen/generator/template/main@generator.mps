@@ -15,7 +15,7 @@
   <import index="fxg7" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpf8" modelUID="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" version="2" implicit="yes" />
-  <import index="zo24" modelUID="r:b799f389-c3ef-4e28-982e-8b20eb435c0d(com.mbeddr.cpp.gen.structure)" version="2" implicit="yes" />
+  <import index="zo24" modelUID="r:b799f389-c3ef-4e28-982e-8b20eb435c0d(com.mbeddr.cpp.gen.structure)" version="3" implicit="yes" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="5" implicit="yes" />
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="16" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="33" implicit="yes" />
@@ -220,7 +220,7 @@
       </node>
     </node>
   </root>
-  <root type="zo24.GeneratedHeaderFile" typeId="zo24.2451009910642363124" id="2451009910642386128" nodeInfo="ng">
+  <root type="zo24.GeneratedCppHeaderFile" typeId="zo24.2451009910642363124" id="2451009910642386128" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="map_HeaderFile" />
     <node role="epilogues" roleId="zo24.8456210691475960066" type="zo24.EndOfIncludeOnceDirective" typeId="zo24.8456210691473555071" id="8456210691473804373" nodeInfo="ng">
       <link role="openingDirective" roleId="zo24.8456210691473604586" targetNodeId="8456210691473659151" resolveInfo="includeMeOnce" />
