@@ -165,6 +165,23 @@
         </node>
       </node>
     </node>
+    <node role="includes" roleId="zo24.2451009910644941394" type="zo24.IncludeCommand" typeId="zo24.2451009910644941257" id="5988343965886786681" nodeInfo="ng">
+      <property name="name" nameId="zo24.2451009910644941311" value="stdimport" />
+      <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.CopySrcListMacro" typeId="tpf8.1114729360583" id="5988343965886797142" nodeInfo="nn">
+        <node role="sourceNodesQuery" roleId="tpf8.1168278589236" type="tpf8.SourceSubstituteMacro_SourceNodesQuery" typeId="tpf8.1167951910403" id="5988343965886821569" nodeInfo="nn">
+          <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="5988343965886821570" nodeInfo="sn">
+            <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="5988343965886823806" nodeInfo="nn">
+              <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5988343965886821571" nodeInfo="nn">
+                <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkListAccess" typeId="tp25.1138056282393" id="5988343965886902745" nodeInfo="nn">
+                  <link role="link" roleId="tp25.1138056546658" targetNodeId="x27k.9074180702632864845" />
+                </node>
+                <node role="operand" roleId="tpee.1197027771414" type="tpf8.TemplateFunctionParameter_sourceNode" typeId="tpf8.1167169188348" id="5988343965886823805" nodeInfo="nn" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
     <node role="contents" roleId="zo24.1250172204142401167" type="x27k.GlobalVariableDeclaration" typeId="x27k.6610873504380335822" id="4097784605144104852" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="preparedCppContents" />
       <property name="exported" nameId="x27k.1317894735999272944" value="true" />
