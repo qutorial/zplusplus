@@ -158,5 +158,11 @@
       <property name="path" nameId="x27k.6116558314501417936" value="&lt;iostream&gt;" />
     </node>
   </root>
+  <root type="vv6f.CppNamingConventions" typeId="vv6f.158014820112241128" id="6087145023702516776" nodeInfo="ng">
+    <property name="MemberPrefix" nameId="vv6f.158014820112242828" value="m" />
+    <property name="GetPrefix" nameId="vv6f.158014820112293950" value="get" />
+    <property name="SetPrefix" nameId="vv6f.158014820112293951" value="set" />
+    <property name="SetterArgPrefix" nameId="vv6f.158014820112688201" value="the" />
+  </root>
 </model>
 
