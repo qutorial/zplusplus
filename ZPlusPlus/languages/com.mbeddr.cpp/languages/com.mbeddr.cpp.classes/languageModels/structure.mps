@@ -922,5 +922,11 @@
     <property name="conceptAlias" nameId="tpce.5092175715804935370" value="&gt;&gt;" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="8489939682835057211" resolveInfo="OperatorDesignatorAbstract" />
   </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="9194653398628352444" nodeInfo="ig">
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="OperatorDesignators" />
+    <property name="name" nameId="tpck.1169194664001" value="ParenthesisOperatorDesignator" />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="()" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="8489939682835057211" resolveInfo="OperatorDesignatorAbstract" />
+  </root>
 </model>
 
