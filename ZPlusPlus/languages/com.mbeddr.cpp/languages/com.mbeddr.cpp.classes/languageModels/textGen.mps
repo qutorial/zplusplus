@@ -2564,19 +2564,6 @@
       </node>
     </node>
   </root>
-  <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="9194653398611317488" nodeInfo="ng">
-    <property name="virtualPackage" nameId="tpck.1193676396447" value="OperatorDesignators" />
-    <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.7540295501294663037" resolveInfo="AssignmentOperatorDesignator" />
-    <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="9194653398611317489" nodeInfo="nn">
-      <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="9194653398611317490" nodeInfo="sn">
-        <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="9194653398611319799" nodeInfo="nn">
-          <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="9194653398611319819" nodeInfo="ng">
-            <property name="value" nameId="2omo.1237305576108" value="=" />
-          </node>
-        </node>
-      </node>
-    </node>
-  </root>
   <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="9194653398611319844" nodeInfo="ng">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="OperatorDesignators" />
     <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.9194653398609669669" resolveInfo="EqualityOperator" />
@@ -2585,6 +2572,32 @@
         <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="9194653398611319869" nodeInfo="nn">
           <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="9194653398611390594" nodeInfo="ng">
             <property name="value" nameId="2omo.1237305576108" value="==" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+  <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="9194653398611458563" nodeInfo="ng">
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="OperatorDesignators" />
+    <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.8489939682834505169" resolveInfo="PlusOperatorDesignator" />
+    <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="9194653398611458564" nodeInfo="nn">
+      <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="9194653398611458565" nodeInfo="sn">
+        <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="9194653398611458650" nodeInfo="nn">
+          <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="9194653398611458670" nodeInfo="ng">
+            <property name="value" nameId="2omo.1237305576108" value="+" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+  <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="9194653398611317488" nodeInfo="ng">
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="OperatorDesignators" />
+    <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.7540295501294663037" resolveInfo="AssignmentOperatorDesignator" />
+    <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="9194653398611317489" nodeInfo="nn">
+      <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="9194653398611317490" nodeInfo="sn">
+        <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="9194653398611319799" nodeInfo="nn">
+          <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="9194653398611319819" nodeInfo="ng">
+            <property name="value" nameId="2omo.1237305576108" value="=" />
           </node>
         </node>
       </node>
@@ -2603,14 +2616,14 @@
       </node>
     </node>
   </root>
-  <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="9194653398611458563" nodeInfo="ng">
+  <root type="2omo.ConceptTextGenDeclaration" typeId="2omo.1233670071145" id="4104398640831912416" nodeInfo="ng">
     <property name="virtualPackage" nameId="tpck.1193676396447" value="OperatorDesignators" />
-    <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.8489939682834505169" resolveInfo="PlusOperatorDesignator" />
-    <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="9194653398611458564" nodeInfo="nn">
-      <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="9194653398611458565" nodeInfo="sn">
-        <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="9194653398611458650" nodeInfo="nn">
-          <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="9194653398611458670" nodeInfo="ng">
-            <property name="value" nameId="2omo.1237305576108" value="+" />
+    <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="vv6f.4104398640831911859" resolveInfo="BitwiseRightShiftOperator" />
+    <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="4104398640831912417" nodeInfo="nn">
+      <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="4104398640831912418" nodeInfo="sn">
+        <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="4104398640831920886" nodeInfo="nn">
+          <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="4104398640831920969" nodeInfo="ng">
+            <property name="value" nameId="2omo.1237305576108" value="&gt;&gt;" />
           </node>
         </node>
       </node>
