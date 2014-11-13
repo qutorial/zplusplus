@@ -1877,13 +1877,18 @@
           </node>
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="4104398640832667994" nodeInfo="ng">
-          <node role="expr" roleId="c4fa.7254843406768833939" type="sg22.NamespaceScopeExpr" typeId="sg22.3947421596133941821" id="4104398640832669232" nodeInfo="ng">
-            <property name="right_transform_hint" value="true" />
-            <node role="right" roleId="mj1l.8860443239512128065" type="x27k.GlobalVarRef" typeId="x27k.6610873504380357354" id="4104398640832670489" nodeInfo="ng">
-              <link role="var" roleId="x27k.6610873504380357355" targetNodeId="4104398640832652593" resolveInfo="cin" />
+          <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="4104398640833916222" nodeInfo="ng">
+            <link role="operatorDeclaration" roleId="vv6f.3417735011104370513" targetNodeId="4104398640831911187" resolveInfo="operator&gt;&gt;" />
+            <node role="lhs" roleId="vv6f.1146664085208160175" type="sg22.NamespaceScopeExpr" typeId="sg22.3947421596133941821" id="4104398640833916223" nodeInfo="ng">
+              <node role="right" roleId="mj1l.8860443239512128065" type="x27k.GlobalVarRef" typeId="x27k.6610873504380357354" id="4104398640833916224" nodeInfo="ng">
+                <link role="var" roleId="x27k.6610873504380357355" targetNodeId="4104398640832652593" resolveInfo="cin" />
+              </node>
+              <node role="left" roleId="mj1l.8860443239512128064" type="sg22.NamespaceRefExpr" typeId="sg22.3947421596134069236" id="4104398640833916225" nodeInfo="ng">
+                <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="2591106116228206369" resolveInfo="std" />
+              </node>
             </node>
-            <node role="left" roleId="mj1l.8860443239512128064" type="sg22.NamespaceRefExpr" typeId="sg22.3947421596134069236" id="4104398640832667992" nodeInfo="ng">
-              <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="2591106116228206369" resolveInfo="std" />
+            <node role="rhs" roleId="vv6f.1146664085208163872" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="4104398640833917341" nodeInfo="ng">
+              <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="4104398640832655385" resolveInfo="age" />
             </node>
           </node>
         </node>
