@@ -6,7 +6,7 @@
   <devkit namespace="54c79f9f-f3ba-4167-91f1-eb4e98a9c47c(com.mbeddr.documentation)" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="9" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="38" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="39" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="33" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="9" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="9" implicit="yes" />
@@ -422,7 +422,7 @@
           </node>
           <node role="init" roleId="c4fa.4185783222026502647" type="vv6f.NewExpression" typeId="vv6f.4157133445515154412" id="107031638832073777" nodeInfo="ng">
             <node role="creator" roleId="vv6f.4157133445515164403" type="vv6f.ConstructorCallExpression" typeId="vv6f.4157133445515747689" id="107031638832074905" nodeInfo="ng">
-              <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="107031638831790564" resolveInfo="Rectangle" />
+              <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="107031638832065270" resolveInfo="Rectangle" />
               <node role="actuals" roleId="vv6f.2015268598019221854" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="107031638832076037" nodeInfo="ng">
                 <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                 <property name="value" nameId="mj1l.2212975673976043696" value="5" />
@@ -533,8 +533,8 @@
         </node>
       </node>
     </node>
-    <node role="imports" roleId="x27k.1317894735999304826" type="vs0r.DefaultGenericChunkDependency" typeId="vs0r.747084250476811597" id="107031638831965735" nodeInfo="ng">
-      <link role="chunk" roleId="vs0r.747084250476878887" targetNodeId="6634216202587344129" resolveInfo="iostream" />
+    <node role="stdImports" roleId="x27k.9074180702632864845" type="x27k.StdHeaderImport" typeId="x27k.3830958861296798479" id="9194653398621077704" nodeInfo="ng">
+      <property name="headerFileName" nameId="x27k.3830958861296798480" value="&lt;iostream&gt;" />
     </node>
   </root>
   <root type="vv6f.CppNamingConventions" typeId="vv6f.158014820112241128" id="107031638831787928" nodeInfo="ng">
@@ -552,11 +552,8 @@
     <node role="binaries" roleId="51wr.5046689135694070731" type="51wr.Executable" typeId="51wr.5046689135693761554" id="107031638831928621" nodeInfo="ng">
       <property name="isTest" nameId="51wr.3431613015799084476" value="false" />
       <property name="name" nameId="tpck.1169194664001" value="classes1" />
-      <node role="referencedModules" roleId="51wr.5046689135693761559" type="51wr.ModuleRef" typeId="51wr.7717755763392524107" id="107031638831928623" nodeInfo="ng">
+      <node role="referencedModules" roleId="51wr.5046689135693761559" type="51wr.ModuleRef" typeId="51wr.7717755763392524107" id="9194653398627678249" nodeInfo="ng">
         <link role="module" roleId="51wr.7717755763392524108" targetNodeId="107031638831787792" resolveInfo="Classes1" />
-      </node>
-      <node role="referencedModules" roleId="51wr.5046689135693761559" type="51wr.ModuleRef" typeId="51wr.7717755763392524107" id="107031638831991517" nodeInfo="ng">
-        <link role="module" roleId="51wr.7717755763392524108" targetNodeId="6634216202587344129" resolveInfo="iostream" />
       </node>
     </node>
   </root>
@@ -698,7 +695,7 @@
       <property name="name" nameId="tpck.1169194664001" value="empty_1411138594409_30" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.Function" typeId="x27k.6437088627575724001" id="7659279150132848389" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="operate" />
+      <property name="name" nameId="tpck.1169194664001" value="operated" />
       <property name="exported" nameId="x27k.1317894735999272944" value="false" />
       <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="7659279150132848391" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="7659279150132849492" nodeInfo="ng">
@@ -728,15 +725,6 @@
         <node role="type" roleId="mj1l.318113533128716676" type="mj1l.DoubleType" typeId="mj1l.8864856114140038681" id="7659279150132849163" nodeInfo="ng">
           <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
           <property name="const" nameId="mj1l.2941277002445651368" value="false" />
-        </node>
-      </node>
-      <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="vs0r.ElementDocumentation" typeId="vs0r.3857533489766146428" id="7659279150133485104" nodeInfo="ng">
-        <node role="text" roleId="vs0r.4052432714772608243" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="7659279150133485105" nodeInfo="ng">
-          <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="7659279150133485106" nodeInfo="ng">
-            <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="7659279150133485107" nodeInfo="ng">
-              <property name="escapedValue" nameId="87nw.2557074442922438158" value="function overloading is not yet supported, since mbeddr C does not allows this" />
-            </node>
-          </node>
         </node>
       </node>
     </node>
@@ -811,7 +799,7 @@
             <node role="text" roleId="vs0r.4052432714772608243" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="7659279150133488893" nodeInfo="ng">
               <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="7659279150133488894" nodeInfo="ng">
                 <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="7659279150133488895" nodeInfo="ng">
-                  <property name="escapedValue" nameId="87nw.2557074442922438158" value="Method overloading is implemented" />
+                  <property name="escapedValue" nameId="87nw.2557074442922438158" value="TODO: Method overloading is implemented, rename operated to operate after it is implemented" />
                 </node>
               </node>
             </node>
@@ -821,7 +809,7 @@
           <property name="pureVirtual" nameId="vv6f.4518568022543209043" value="false" />
           <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
           <property name="overrides" nameId="vv6f.610576951245842082" value="false" />
-          <property name="name" nameId="tpck.1169194664001" value="operate" />
+          <property name="name" nameId="tpck.1169194664001" value="operated" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.DoubleType" typeId="mj1l.8864856114140038681" id="7659279150133304981" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -885,7 +873,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.MethodImplementation" typeId="vv6f.4157133445514984355" id="7659279150133467295" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="Example__operate__DoubleType_DoubleType" />
-      <link role="method" roleId="vv6f.610576951245971290" targetNodeId="7659279150133304980" resolveInfo="operate" />
+      <link role="method" roleId="vv6f.610576951245971290" targetNodeId="7659279150133304980" resolveInfo="operated" />
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="7659279150133467296" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="7659279150133484909" nodeInfo="ng">
           <node role="expression" roleId="x27k.8967919205527146150" type="mj1l.PlusExpression" typeId="mj1l.5763383285156373013" id="7659279150133484955" nodeInfo="ng">
@@ -1021,7 +1009,7 @@
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="7659279150132889481" nodeInfo="ng">
             <node role="expr" roleId="vv6f.487313117837648028" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="7659279150133586608" nodeInfo="ng">
               <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="7659279150133593808" nodeInfo="ng">
-                <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7659279150133304980" resolveInfo="operate" />
+                <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7659279150133304980" resolveInfo="operated" />
                 <node role="actuals" roleId="vv6f.2015268598019221854" type="c4fa.LocalVarRef" typeId="c4fa.2093108837558113914" id="7659279150133597461" nodeInfo="ng">
                   <link role="var" roleId="c4fa.2093108837558124071" targetNodeId="7659279150132868477" resolveInfo="n" />
                 </node>
@@ -1117,9 +1105,18 @@
       <property name="name" nameId="tpck.1169194664001" value="empty_1411135680447_6" />
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="x27k.Function" typeId="x27k.6437088627575724001" id="7659279150132947039" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="sum" />
+      <property name="name" nameId="tpck.1169194664001" value="sumd" />
       <property name="exported" nameId="x27k.1317894735999272944" value="false" />
       <node role="body" roleId="x27k.4185783222026475860" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="7659279150132947041" nodeInfo="ng">
+        <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.CommentStatement" typeId="c4fa.1679452829930336984" id="9194653398620911943" nodeInfo="ng">
+          <node role="textblock" roleId="c4fa.8624890525768479139" type="vs0r.TextBlock" typeId="vs0r.8375407818529178006" id="9194653398620911945" nodeInfo="ng">
+            <node role="text" roleId="vs0r.8375407818529178007" type="87nw.Text" typeId="87nw.2557074442922380897" id="9194653398620911946" nodeInfo="ng">
+              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="9194653398620911947" nodeInfo="ng">
+                <property name="escapedValue" nameId="87nw.2557074442922438158" value="TODO: rename this to \&quot;sum\&quot; (not possible now because operator overloading not supported)" />
+              </node>
+            </node>
+          </node>
+        </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="7659279150132947947" nodeInfo="ng">
           <node role="expression" roleId="x27k.8967919205527146150" type="mj1l.PlusExpression" typeId="mj1l.5763383285156373013" id="7659279150132947999" nodeInfo="ng">
             <node role="right" roleId="mj1l.8860443239512128065" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="7659279150132948002" nodeInfo="ng">
@@ -1222,7 +1219,7 @@
           <property name="pureVirtual" nameId="vv6f.4518568022543209043" value="false" />
           <property name="virtual" nameId="vv6f.4157133445515143745" value="false" />
           <property name="overrides" nameId="vv6f.610576951245842082" value="false" />
-          <property name="name" nameId="tpck.1169194664001" value="sum" />
+          <property name="name" nameId="tpck.1169194664001" value="sumd" />
           <node role="type" roleId="mj1l.318113533128716676" type="mj1l.DoubleType" typeId="mj1l.8864856114140038681" id="7659279150133694596" nodeInfo="ng">
             <property name="volatile" nameId="mj1l.2941277002448691247" value="false" />
             <property name="const" nameId="mj1l.2941277002445651368" value="false" />
@@ -1429,7 +1426,7 @@
     </node>
     <node role="contents" roleId="x27k.6437088627575722833" type="vv6f.MethodImplementation" typeId="vv6f.4157133445514984355" id="7659279150133712536" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="Example__sum__DoubleType_DoubleType" />
-      <link role="method" roleId="vv6f.610576951245971290" targetNodeId="7659279150133694595" resolveInfo="sum" />
+      <link role="method" roleId="vv6f.610576951245971290" targetNodeId="7659279150133694595" resolveInfo="sumd" />
       <node role="body" roleId="vv6f.610576951245971289" type="c4fa.StatementList" typeId="c4fa.4185783222026475861" id="7659279150133712537" nodeInfo="ng">
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="7659279150133727843" nodeInfo="ng">
           <node role="expression" roleId="x27k.8967919205527146150" type="mj1l.PlusExpression" typeId="mj1l.5763383285156373013" id="7659279150133727889" nodeInfo="ng">
@@ -1482,7 +1479,7 @@
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="7659279150132953766" nodeInfo="ng">
             <node role="expr" roleId="vv6f.487313117837648028" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="7659279150134040345" nodeInfo="ng">
               <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="7659279150134043700" nodeInfo="ng">
-                <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7659279150133694595" resolveInfo="sum" />
+                <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7659279150133694595" resolveInfo="sumd" />
                 <node role="actuals" roleId="vv6f.2015268598019221854" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="7659279150134043864" nodeInfo="ng">
                   <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                   <property name="value" nameId="mj1l.2212975673976043696" value="10" />
@@ -1509,7 +1506,7 @@
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.Cout" typeId="vv6f.487313117837648020" id="7659279150134066881" nodeInfo="ng">
             <node role="expr" roleId="vv6f.487313117837648028" type="mj1l.GenericDotExpression" typeId="mj1l.4620120465980402700" id="7659279150134071748" nodeInfo="ng">
               <node role="target" roleId="mj1l.7034214596252529803" type="vv6f.OoMethodCall" typeId="vv6f.4157133445515822323" id="7659279150134078101" nodeInfo="ng">
-                <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7659279150133694595" resolveInfo="sum" />
+                <link role="methodOrConstructor" roleId="vv6f.2015268598019257721" targetNodeId="7659279150133694595" resolveInfo="sumd" />
                 <node role="actuals" roleId="vv6f.2015268598019221854" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="7659279150134078144" nodeInfo="ng">
                   <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                   <property name="value" nameId="mj1l.2212975673976043696" value="1.0" />

@@ -10,7 +10,6 @@
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.cext/solutions/pluginSolution/pluginSolution.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.classes/classes.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/languages/com.mbeddr.cpp.gen/com.mbeddr.cpp.gen.mpl" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/solutions/test.ex.cpp.overloading/test.ex.cpp.overloading.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.cpp/tests/test.ex.cpp.screenshots.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/com.mbeddr.cpp.designdocs/com.mbeddr.cpp.designdocs.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/com.mbeddr.cpp.tutorial/com.mbeddr.cpp.tutorial.msd" folder="" />
@@ -18,7 +17,6 @@
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.cext/test.ex.cpp.cext.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.classes/test.ex.cpp.classes.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ex.cpp.goodweather/test.ex.cpp.goodweather.msd" folder="" />
-      <modulePath path="$PROJECT_DIR$/solutions/test.ex.zaursscratchpad/test.ex.zaursscratchpad.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/test.ts.cpp.classes/test.ts.cpp.classes.msd" folder="" />
     </projectModules>
   </component>

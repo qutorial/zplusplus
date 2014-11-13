@@ -8,7 +8,6 @@
   <sourcePath />
   <dependencies>
     <dependency reexport="false">31b871c8-3ba6-4751-8c9e-b20f99ee6b69(com.mbeddr.cpp.classes)</dependency>
-    <dependency reexport="false">9529e80c-6e32-4174-968f-d0c795cc62c5(test.ex.cpp.overloading)</dependency>
   </dependencies>
   <usedLanguages>
     <usedLanguage>e518b5c4-9e1e-4ef1-9d54-46a9e03df743(Testing)</usedLanguage>
