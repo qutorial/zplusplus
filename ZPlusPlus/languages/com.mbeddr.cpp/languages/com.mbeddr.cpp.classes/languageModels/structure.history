@@ -240,5 +240,11 @@
     </dependencies>
     <rename id="vv6f.1435409868610954688" type="CONCEPT" from="StackLocalVariableDeclaration" to="LocalVariableDeclarationPlusPlus" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="39" />
+    </dependencies>
+    <rename id="vv6f.7540295501294663037" type="CONCEPT" from="AssignmentOperatorDesignator" to="DirectAssignmentOperatorDesignator" />
+  </StructureModification>
 </history>
 

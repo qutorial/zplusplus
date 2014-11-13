@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model modelUID="r:24cdb078-f2d3-41ea-a765-008c1e7c71c5(com.mbeddr.cpp.tutorial.HelloWorld)">
   <persistence version="8" />
+  <language namespace="6d11763d-483d-4b2b-8efc-09336c1b0001(com.mbeddr.core.modules)" />
+  <language namespace="a9d69647-0840-491e-bf39-2eb0805d2011(com.mbeddr.core.statements)" />
+  <language namespace="d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)" />
+  <language namespace="92d2ea16-5a42-4fdf-a676-c7604efe3504(de.slisson.mps.richtext)" />
+  <language namespace="3bf5377a-e904-4ded-9754-5a516023bfaa(com.mbeddr.core.pointers)" />
+  <language namespace="61c69711-ed61-4850-81d9-7714ff227fb0(com.mbeddr.core.expressions)" />
   <devkit namespace="b8457cc4-cb06-42fd-88a9-5bcfc0b7035d(com.mbeddr.cpp)" />
   <import index="51wr" modelUID="r:b31f1c3c-99aa-4f1e-a329-cba27efb1a6b(com.mbeddr.core.buildconfig.structure)" version="1" implicit="yes" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
@@ -8,10 +14,10 @@
   <import index="yq40" modelUID="r:152b3fc0-83a1-4bab-a8cd-565eb8483785(com.mbeddr.core.pointers.structure)" version="5" implicit="yes" />
   <import index="vs0r" modelUID="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" version="25" implicit="yes" />
   <import index="mj1l" modelUID="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" version="33" implicit="yes" />
-  <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="5" implicit="yes" />
+  <import index="sg22" modelUID="r:62ea8e97-a30c-4848-ab0a-2ffba823b56e(com.mbeddr.cpp.cext.structure)" version="9" implicit="yes" />
   <import index="x27k" modelUID="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" version="9" implicit="yes" />
   <import index="c4fa" modelUID="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" version="9" implicit="yes" />
-  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="38" implicit="yes" />
+  <import index="vv6f" modelUID="r:f3114086-06fe-4194-b97a-77126faf1897(com.mbeddr.cpp.classes.structure)" version="40" implicit="yes" />
   <root type="51wr.BuildConfiguration" typeId="51wr.7717755763392524104" id="6387747963808746045" nodeInfo="ng">
     <node role="binaries" roleId="51wr.5046689135694070731" type="51wr.Executable" typeId="51wr.5046689135693761554" id="6387747963808746046" nodeInfo="ng">
       <property name="isTest" nameId="51wr.3431613015799084476" value="true" />
@@ -58,7 +64,7 @@
         </node>
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.ExpressionStatement" typeId="c4fa.7254843406768833938" id="1146664085211955342" nodeInfo="ng">
           <node role="expr" roleId="c4fa.7254843406768833939" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="1146664085211955334" nodeInfo="ng">
-            <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211957445" nodeInfo="ng" />
+            <node role="operator" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211957445" nodeInfo="ng" />
             <node role="rhs" roleId="vv6f.1146664085208163872" type="sg22.NamespaceScopeExpr" typeId="sg22.3947421596133941821" id="1146664085211958819" nodeInfo="ng">
               <node role="right" roleId="mj1l.8860443239512128065" type="x27k.GlobalVarRef" typeId="x27k.6610873504380357354" id="1146664085211959336" nodeInfo="ng">
                 <link role="var" roleId="x27k.6610873504380357355" targetNodeId="1146664085211951482" resolveInfo="endl" />
@@ -68,12 +74,12 @@
               </node>
             </node>
             <node role="lhs" roleId="vv6f.1146664085208160175" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="1146664085211941785" nodeInfo="ng">
-              <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211945428" nodeInfo="ng" />
+              <node role="operator" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211945428" nodeInfo="ng" />
               <node role="rhs" roleId="vv6f.1146664085208163872" type="yq40.StringLiteral" typeId="yq40.6113173064526131575" id="1146664085211946549" nodeInfo="ng">
                 <property name="value" nameId="yq40.6113173064526131578" value=" World!" />
               </node>
               <node role="lhs" roleId="vv6f.1146664085208160175" type="vv6f.OperatorCall" typeId="vv6f.1146664085208159992" id="1146664085211790110" nodeInfo="ng">
-                <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211803446" nodeInfo="ng" />
+                <node role="operator" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211803446" nodeInfo="ng" />
                 <node role="rhs" roleId="vv6f.1146664085208163872" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="1146664085211807030" nodeInfo="ng">
                   <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                   <property name="value" nameId="mj1l.2212975673976043696" value="41" />
@@ -87,7 +93,7 @@
                       <link role="nsprovider" roleId="sg22.3947421596134495240" targetNodeId="6387747963809301814" resolveInfo="std" />
                     </node>
                   </node>
-                  <node role="operator" roleId="vv6f.1146664085208160173" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211785572" nodeInfo="ng" />
+                  <node role="operator" type="vv6f.BitwiseLeftShiftOperator" typeId="vv6f.6387747963809514391" id="1146664085211785572" nodeInfo="ng" />
                   <node role="rhs" roleId="vv6f.1146664085208163872" type="yq40.StringLiteral" typeId="yq40.6113173064526131575" id="1146664085211806025" nodeInfo="ng">
                     <property name="value" nameId="yq40.6113173064526131578" value="H" />
                   </node>
